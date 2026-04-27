@@ -1,0 +1,964 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PRNP Mutation Atlas</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Sora:wght@500;700;800&display=swap');
+
+    :root {
+      --bg: #081217;
+      --bg-soft: #0e1f27;
+      --card: rgba(15, 32, 41, 0.72);
+      --card-strong: rgba(14, 28, 36, 0.95);
+      --text: #e9f3f6;
+      --muted: #98b2bb;
+      --line: rgba(126, 184, 201, 0.25);
+      --accent-a: #0bd3b5;
+      --accent-b: #ff7c43;
+      --accent-c: #ffd166;
+      --danger: #ff6b6b;
+      --success: #2ec4b6;
+      --shadow: 0 18px 50px rgba(0, 0, 0, 0.42);
+      --radius: 18px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html, body {
+      margin: 0;
+      min-height: 100%;
+      font-family: 'Space Grotesk', sans-serif;
+      color: var(--text);
+      background:
+        radial-gradient(1100px 700px at 8% 8%, rgba(11, 211, 181, 0.18), transparent 60%),
+        radial-gradient(900px 700px at 92% 14%, rgba(255, 124, 67, 0.2), transparent 56%),
+        radial-gradient(900px 800px at 50% 100%, rgba(255, 209, 102, 0.12), transparent 60%),
+        linear-gradient(140deg, #04090d 0%, #081217 45%, #0b1b22 100%);
+      background-attachment: fixed;
+    }
+
+    .ambient {
+      position: fixed;
+      inset: 0;
+      z-index: -1;
+      overflow: hidden;
+      pointer-events: none;
+    }
+
+    .blob {
+      position: absolute;
+      filter: blur(18px);
+      opacity: 0.4;
+      mix-blend-mode: screen;
+      animation: drift 16s ease-in-out infinite alternate;
+      border-radius: 999px;
+    }
+
+    .blob.a {
+      width: 340px;
+      height: 340px;
+      left: -40px;
+      top: 120px;
+      background: rgba(11, 211, 181, 0.35);
+    }
+
+    .blob.b {
+      width: 420px;
+      height: 420px;
+      right: -80px;
+      top: 60px;
+      background: rgba(255, 124, 67, 0.28);
+      animation-duration: 20s;
+    }
+
+    .blob.c {
+      width: 300px;
+      height: 300px;
+      left: 40%;
+      bottom: -90px;
+      background: rgba(255, 209, 102, 0.23);
+      animation-duration: 18s;
+    }
+
+    @keyframes drift {
+      0% { transform: translateY(-10px) translateX(-6px) scale(1); }
+      100% { transform: translateY(16px) translateX(8px) scale(1.06); }
+    }
+
+    .page {
+      width: min(1400px, 94vw);
+      margin: 20px auto 34px;
+      display: grid;
+      gap: 18px;
+    }
+
+    .hero {
+      border: 1px solid var(--line);
+      background: linear-gradient(140deg, rgba(8, 24, 30, 0.72), rgba(11, 34, 44, 0.82));
+      box-shadow: var(--shadow);
+      border-radius: calc(var(--radius) + 4px);
+      padding: 24px 24px 16px;
+      overflow: hidden;
+      position: relative;
+    }
+
+    .hero:before {
+      content: "";
+      position: absolute;
+      right: -120px;
+      top: -120px;
+      width: 300px;
+      height: 300px;
+      background: conic-gradient(from 180deg, rgba(11, 211, 181, 0.35), rgba(255, 124, 67, 0.32), rgba(255, 209, 102, 0.26));
+      border-radius: 50%;
+      filter: blur(8px);
+      opacity: 0.9;
+    }
+
+    h1 {
+      margin: 0;
+      font-family: 'Sora', sans-serif;
+      font-size: clamp(1.6rem, 1.2rem + 1.5vw, 2.5rem);
+      letter-spacing: 0.02em;
+      position: relative;
+      z-index: 1;
+    }
+
+    .subtitle {
+      margin-top: 8px;
+      color: var(--muted);
+      max-width: 760px;
+      line-height: 1.5;
+      position: relative;
+      z-index: 1;
+    }
+
+    .stats {
+      margin-top: 16px;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 10px;
+      position: relative;
+      z-index: 1;
+    }
+
+    .stat {
+      background: rgba(7, 16, 21, 0.65);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 12px;
+    }
+
+    .stat .k {
+      font-size: 0.8rem;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+
+    .stat .v {
+      margin-top: 6px;
+      font-family: 'Sora', sans-serif;
+      font-size: 1.35rem;
+      font-weight: 700;
+    }
+
+    .layout {
+      display: grid;
+      grid-template-columns: 1.65fr 1fr;
+      gap: 16px;
+    }
+
+    .card {
+      border: 1px solid var(--line);
+      background: var(--card);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(8px);
+      overflow: hidden;
+    }
+
+    .card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 10px;
+      padding: 14px 16px;
+      border-bottom: 1px solid rgba(126, 184, 201, 0.18);
+      background: rgba(7, 15, 20, 0.64);
+      flex-wrap: wrap;
+    }
+
+    .title {
+      font-family: 'Sora', sans-serif;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+    }
+
+    .controls {
+      display: grid;
+      gap: 10px;
+      padding: 14px 16px;
+      border-bottom: 1px solid rgba(126, 184, 201, 0.18);
+      background: rgba(4, 10, 14, 0.42);
+    }
+
+    .grid-3 {
+      display: grid;
+      grid-template-columns: 1.4fr 1fr 1fr;
+      gap: 10px;
+    }
+
+    .grid-2 {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+    }
+
+    label {
+      display: block;
+      font-size: 0.76rem;
+      color: var(--muted);
+      margin-bottom: 4px;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+
+    input, select, button {
+      width: 100%;
+      border-radius: 10px;
+      border: 1px solid rgba(126, 184, 201, 0.32);
+      background: rgba(9, 20, 27, 0.85);
+      color: var(--text);
+      padding: 9px 10px;
+      font-family: inherit;
+      outline: none;
+    }
+
+    input:focus, select:focus {
+      border-color: var(--accent-a);
+      box-shadow: 0 0 0 2px rgba(11, 211, 181, 0.2);
+    }
+
+    .btn-row {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .btn {
+      cursor: pointer;
+      border: 1px solid transparent;
+      width: auto;
+      min-width: 130px;
+      font-weight: 600;
+      transition: transform 0.18s ease, box-shadow 0.18s ease, background 0.18s ease;
+    }
+
+    .btn:hover {
+      transform: translateY(-1px);
+    }
+
+    .btn-accent {
+      background: linear-gradient(135deg, var(--accent-a), #0aa9bd);
+      color: #032028;
+      box-shadow: 0 8px 24px rgba(11, 211, 181, 0.24);
+    }
+
+    .btn-warm {
+      background: linear-gradient(135deg, var(--accent-b), #ff9e4f);
+      color: #220f05;
+      box-shadow: 0 8px 24px rgba(255, 124, 67, 0.22);
+    }
+
+    .btn-ghost {
+      border-color: rgba(126, 184, 201, 0.32);
+      color: var(--text);
+      background: rgba(9, 20, 27, 0.55);
+    }
+
+    .table-wrap {
+      max-height: 58vh;
+      overflow: auto;
+      border-top: 1px solid rgba(126, 184, 201, 0.15);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.88rem;
+    }
+
+    th, td {
+      padding: 9px 10px;
+      border-bottom: 1px solid rgba(126, 184, 201, 0.12);
+      white-space: nowrap;
+      text-align: left;
+    }
+
+    th {
+      position: sticky;
+      top: 0;
+      z-index: 5;
+      background: var(--card-strong);
+      color: #c8e6ee;
+      cursor: pointer;
+      user-select: none;
+      font-size: 0.77rem;
+      letter-spacing: 0.03em;
+      text-transform: uppercase;
+    }
+
+    tr:hover td {
+      background: rgba(14, 43, 53, 0.36);
+    }
+
+    tr.selected td {
+      background: rgba(255, 124, 67, 0.25);
+      outline: 1px solid rgba(255, 124, 67, 0.58);
+    }
+
+    .pager {
+      padding: 10px 16px 14px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      flex-wrap: wrap;
+      color: var(--muted);
+      font-size: 0.86rem;
+    }
+
+    .viewer {
+      height: min(54vh, 520px);
+      border-top: 1px solid rgba(126, 184, 201, 0.18);
+      background: radial-gradient(circle at 50% 20%, #0d252f 0%, #071319 100%);
+    }
+
+    .details {
+      padding: 12px 14px 16px;
+      border-top: 1px solid rgba(126, 184, 201, 0.18);
+      display: grid;
+      gap: 7px;
+      font-size: 0.89rem;
+    }
+
+    .row {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+    }
+
+    .row .k {
+      color: var(--muted);
+    }
+
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      border-radius: 999px;
+      padding: 4px 9px;
+      font-size: 0.74rem;
+      font-weight: 700;
+      letter-spacing: 0.03em;
+      border: 1px solid rgba(126, 184, 201, 0.35);
+      color: var(--muted);
+      background: rgba(6, 15, 20, 0.6);
+    }
+
+    .pill.low {
+      color: #ffd4d4;
+      border-color: rgba(255, 107, 107, 0.45);
+      background: rgba(83, 26, 26, 0.65);
+    }
+
+    .pill.high {
+      color: #ddfff3;
+      border-color: rgba(46, 196, 182, 0.5);
+      background: rgba(17, 53, 50, 0.7);
+    }
+
+    .muted {
+      color: var(--muted);
+      font-size: 0.85rem;
+    }
+
+    .mono {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 0.84rem;
+    }
+
+    @media (max-width: 1080px) {
+      .layout {
+        grid-template-columns: 1fr;
+      }
+
+      .table-wrap {
+        max-height: 48vh;
+      }
+
+      .viewer {
+        height: 360px;
+      }
+    }
+
+    @media (max-width: 760px) {
+      .grid-3 {
+        grid-template-columns: 1fr;
+      }
+
+      .grid-2 {
+        grid-template-columns: 1fr;
+      }
+
+      .page {
+        width: min(1400px, 96vw);
+      }
+
+      .hero {
+        padding: 18px 14px 14px;
+      }
+    }
+  </style>
+  <script src="https://3Dmol.org/build/3Dmol-min.js"></script>
+</head>
+<body>
+  <div class="ambient">
+    <div class="blob a"></div>
+    <div class="blob b"></div>
+    <div class="blob c"></div>
+  </div>
+
+  <main class="page">
+    <section class="hero">
+      <h1>PRNP Mutation Atlas</h1>
+      <div class="subtitle">
+        Explore mutation-impact and AlphaFold-derived structural signals in one interactive workspace. Search instantly,
+        filter by confidence and region, and highlight residues directly in the 3D structure.
+      </div>
+      <div class="stats" id="stats"></div>
+    </section>
+
+    <section class="layout">
+      <article class="card">
+        <div class="card-header">
+          <div class="title">Mutation Table Explorer</div>
+          <div class="mono muted" id="statusText">Loading...</div>
+        </div>
+
+        <div class="controls">
+          <div class="grid-3">
+            <div>
+              <label for="searchInput">Search Any Value</label>
+              <input id="searchInput" type="text" placeholder="mutation, aa, region, numeric value..." />
+            </div>
+            <div>
+              <label for="positionInput">Position</label>
+              <input id="positionInput" type="number" min="1" placeholder="e.g. 129" />
+            </div>
+            <div>
+              <label for="confidenceFilter">Confidence Filter</label>
+              <select id="confidenceFilter">
+                <option value="all">All</option>
+                <option value="high">High confidence (af2_is_high_confidence = 1)</option>
+                <option value="low">Low confidence (af2_is_low_confidence = 1)</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="grid-2">
+            <div>
+              <label for="csvFileInput">Load CSV (Optional Override)</label>
+              <input id="csvFileInput" type="file" accept=".csv" />
+            </div>
+            <div>
+              <label for="pdbFileInput">Load AlphaFold PDB (Optional Override)</label>
+              <input id="pdbFileInput" type="file" accept=".pdb,.cif,.mmcif" />
+            </div>
+          </div>
+
+          <div class="btn-row">
+            <button id="resetFiltersBtn" class="btn btn-ghost">Reset Filters</button>
+            <button id="exportBtn" class="btn btn-accent">Export Filtered CSV</button>
+            <button id="focus129Btn" class="btn btn-warm">Jump to Position 129</button>
+          </div>
+        </div>
+
+        <div class="table-wrap">
+          <table id="dataTable">
+            <thead id="tableHead"></thead>
+            <tbody id="tableBody"></tbody>
+          </table>
+        </div>
+
+        <div class="pager">
+          <div id="pagerInfo">0 rows</div>
+          <div class="btn-row">
+            <button id="prevPageBtn" class="btn btn-ghost">Prev</button>
+            <button id="nextPageBtn" class="btn btn-ghost">Next</button>
+          </div>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-header">
+          <div class="title">AlphaFold Structure Viewer</div>
+          <div class="mono muted" id="viewerStatus">Waiting for structure...</div>
+        </div>
+
+        <div id="viewer" class="viewer"></div>
+
+        <div class="details" id="detailsPane">
+          <div class="muted">Select a row in the table to inspect a mutation and highlight its residue in 3D.</div>
+        </div>
+      </article>
+    </section>
+  </main>
+
+  <script>
+    const DEFAULT_CSV = 'prnp_mutation_features_tier2_structural.csv';
+    const DEFAULT_PDB = 'AF-P04156-F1-model_v4.pdb';
+    const PAGE_SIZE = 120;
+
+    const state = {
+      columns: [],
+      rows: [],
+      filteredRows: [],
+      page: 1,
+      sortKey: null,
+      sortDir: 'asc',
+      selectedRow: null,
+      viewer: null,
+      model: null
+    };
+
+    const els = {
+      stats: document.getElementById('stats'),
+      statusText: document.getElementById('statusText'),
+      searchInput: document.getElementById('searchInput'),
+      positionInput: document.getElementById('positionInput'),
+      confidenceFilter: document.getElementById('confidenceFilter'),
+      csvFileInput: document.getElementById('csvFileInput'),
+      pdbFileInput: document.getElementById('pdbFileInput'),
+      resetFiltersBtn: document.getElementById('resetFiltersBtn'),
+      exportBtn: document.getElementById('exportBtn'),
+      focus129Btn: document.getElementById('focus129Btn'),
+      tableHead: document.getElementById('tableHead'),
+      tableBody: document.getElementById('tableBody'),
+      pagerInfo: document.getElementById('pagerInfo'),
+      prevPageBtn: document.getElementById('prevPageBtn'),
+      nextPageBtn: document.getElementById('nextPageBtn'),
+      viewer: document.getElementById('viewer'),
+      viewerStatus: document.getElementById('viewerStatus'),
+      detailsPane: document.getElementById('detailsPane')
+    };
+
+    function parseCSV(text) {
+      const rows = [];
+      let row = [];
+      let cell = '';
+      let inQuotes = false;
+
+      for (let i = 0; i < text.length; i += 1) {
+        const ch = text[i];
+        const next = text[i + 1];
+
+        if (ch === '"') {
+          if (inQuotes && next === '"') {
+            cell += '"';
+            i += 1;
+          } else {
+            inQuotes = !inQuotes;
+          }
+        } else if (ch === ',' && !inQuotes) {
+          row.push(cell);
+          cell = '';
+        } else if ((ch === '\n' || ch === '\r') && !inQuotes) {
+          if (ch === '\r' && next === '\n') {
+            i += 1;
+          }
+          row.push(cell);
+          if (row.some((v) => v.length > 0)) {
+            rows.push(row);
+          }
+          row = [];
+          cell = '';
+        } else {
+          cell += ch;
+        }
+      }
+
+      if (cell.length > 0 || row.length > 0) {
+        row.push(cell);
+        rows.push(row);
+      }
+
+      if (!rows.length) return { columns: [], data: [] };
+      const columns = rows[0].map((c) => c.trim());
+      const data = rows.slice(1).map((r) => {
+        const obj = {};
+        columns.forEach((c, idx) => {
+          obj[c] = r[idx] !== undefined ? r[idx] : '';
+        });
+        return obj;
+      });
+
+      return { columns, data };
+    }
+
+    function tryNumber(value) {
+      if (value === null || value === undefined || value === '') return value;
+      const num = Number(value);
+      return Number.isFinite(num) ? num : value;
+    }
+
+    function normalizeRows(data) {
+      return data.map((row, idx) => {
+        const n = { __id: idx };
+        Object.entries(row).forEach(([k, v]) => {
+          n[k] = tryNumber(v);
+        });
+        return n;
+      });
+    }
+
+    function formatCell(v) {
+      if (v === null || v === undefined || v === '') return '—';
+      if (typeof v === 'number') {
+        if (Number.isInteger(v)) return String(v);
+        return v.toFixed(4).replace(/0+$/, '').replace(/\.$/, '');
+      }
+      return String(v);
+    }
+
+    function loadStats() {
+      const rows = state.rows.length;
+      const cols = state.columns.length;
+      const low = state.rows.filter((r) => Number(r.af2_is_low_confidence) === 1).length;
+      const high = state.rows.filter((r) => Number(r.af2_is_high_confidence) === 1).length;
+      const uniquePos = new Set(state.rows.map((r) => Number(r.position))).size;
+
+      const items = [
+        ['Rows', rows.toLocaleString()],
+        ['Columns', cols.toLocaleString()],
+        ['Unique Positions', uniquePos.toLocaleString()],
+        ['Low Confidence Rows', low.toLocaleString()],
+        ['High Confidence Rows', high.toLocaleString()]
+      ];
+
+      els.stats.innerHTML = items
+        .map(([k, v]) => `<div class="stat"><div class="k">${k}</div><div class="v">${v}</div></div>`)
+        .join('');
+    }
+
+    function applyFilters() {
+      const q = els.searchInput.value.trim().toLowerCase();
+      const pos = Number(els.positionInput.value);
+      const conf = els.confidenceFilter.value;
+
+      let out = [...state.rows];
+
+      if (q) {
+        out = out.filter((row) => {
+          for (const col of state.columns) {
+            const v = row[col];
+            if (v !== undefined && v !== null && String(v).toLowerCase().includes(q)) {
+              return true;
+            }
+          }
+          return false;
+        });
+      }
+
+      if (Number.isFinite(pos) && pos > 0) {
+        out = out.filter((row) => Number(row.position) === pos);
+      }
+
+      if (conf === 'high') {
+        out = out.filter((row) => Number(row.af2_is_high_confidence) === 1);
+      } else if (conf === 'low') {
+        out = out.filter((row) => Number(row.af2_is_low_confidence) === 1);
+      }
+
+      if (state.sortKey) {
+        const key = state.sortKey;
+        const dir = state.sortDir === 'asc' ? 1 : -1;
+
+        out.sort((a, b) => {
+          const va = a[key];
+          const vb = b[key];
+
+          if (typeof va === 'number' && typeof vb === 'number') {
+            return (va - vb) * dir;
+          }
+          return String(va).localeCompare(String(vb)) * dir;
+        });
+      }
+
+      state.filteredRows = out;
+      state.page = 1;
+      renderTable();
+    }
+
+    function pageSlice() {
+      const start = (state.page - 1) * PAGE_SIZE;
+      return state.filteredRows.slice(start, start + PAGE_SIZE);
+    }
+
+    function renderTableHead() {
+      const sortMark = (col) => {
+        if (state.sortKey !== col) return '';
+        return state.sortDir === 'asc' ? ' ▲' : ' ▼';
+      };
+
+      const heads = state.columns
+        .map((col) => `<th data-col="${col}" title="Sort by ${col}">${col}${sortMark(col)}</th>`)
+        .join('');
+
+      els.tableHead.innerHTML = `<tr>${heads}</tr>`;
+
+      els.tableHead.querySelectorAll('th').forEach((th) => {
+        th.addEventListener('click', () => {
+          const col = th.getAttribute('data-col');
+          if (state.sortKey === col) {
+            state.sortDir = state.sortDir === 'asc' ? 'desc' : 'asc';
+          } else {
+            state.sortKey = col;
+            state.sortDir = 'asc';
+          }
+          applyFilters();
+        });
+      });
+    }
+
+    function renderTable() {
+      renderTableHead();
+      const rows = pageSlice();
+
+      els.tableBody.innerHTML = rows
+        .map((row) => {
+          const selected = state.selectedRow && state.selectedRow.__id === row.__id ? 'selected' : '';
+          const tds = state.columns.map((col) => `<td>${formatCell(row[col])}</td>`).join('');
+          return `<tr data-id="${row.__id}" class="${selected}">${tds}</tr>`;
+        })
+        .join('');
+
+      const total = state.filteredRows.length;
+      const pages = Math.max(1, Math.ceil(total / PAGE_SIZE));
+      if (state.page > pages) state.page = pages;
+      const start = total === 0 ? 0 : (state.page - 1) * PAGE_SIZE + 1;
+      const end = Math.min(total, state.page * PAGE_SIZE);
+
+      els.pagerInfo.textContent = `Showing ${start}-${end} of ${total.toLocaleString()} rows | Page ${state.page}/${pages}`;
+      els.statusText.textContent = `${total.toLocaleString()} filtered rows`;
+
+      els.prevPageBtn.disabled = state.page <= 1;
+      els.nextPageBtn.disabled = state.page >= pages;
+
+      els.tableBody.querySelectorAll('tr').forEach((tr) => {
+        tr.addEventListener('click', () => {
+          const id = Number(tr.getAttribute('data-id'));
+          const row = state.filteredRows.find((r) => r.__id === id);
+          if (!row) return;
+          state.selectedRow = row;
+          renderTable();
+          updateDetails(row);
+          highlightResidue(row);
+        });
+      });
+    }
+
+    function csvFromRows(rows) {
+      const esc = (v) => {
+        if (v === null || v === undefined) return '';
+        const s = String(v);
+        if (s.includes(',') || s.includes('"') || s.includes('\n')) {
+          return `"${s.replace(/"/g, '""')}"`;
+        }
+        return s;
+      };
+
+      const lines = [state.columns.join(',')];
+      rows.forEach((r) => {
+        lines.push(state.columns.map((c) => esc(r[c])).join(','));
+      });
+      return lines.join('\n');
+    }
+
+    function downloadText(filename, text) {
+      const blob = new Blob([text], { type: 'text/csv;charset=utf-8' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = filename;
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+      URL.revokeObjectURL(url);
+    }
+
+    function initViewer() {
+      if (!window.$3Dmol) {
+        els.viewerStatus.textContent = '3D viewer library unavailable';
+        return;
+      }
+      state.viewer = $3Dmol.createViewer(els.viewer, {
+        backgroundColor: '#081319'
+      });
+      els.viewerStatus.textContent = '3D viewer ready';
+    }
+
+    function applyDefaultStyle() {
+      if (!state.viewer || !state.model) return;
+      state.viewer.setStyle({}, { cartoon: { colorscheme: { prop: 'b', gradient: 'rwb', min: 40, max: 95 } } });
+      state.viewer.zoomTo();
+      state.viewer.render();
+    }
+
+    function loadPDBText(pdbText, sourceLabel) {
+      if (!state.viewer) return;
+      state.viewer.clear();
+      state.model = state.viewer.addModel(pdbText, 'pdb');
+      applyDefaultStyle();
+      els.viewerStatus.textContent = `Structure loaded: ${sourceLabel}`;
+    }
+
+    async function loadDefaultPDB() {
+      try {
+        const res = await fetch(DEFAULT_PDB);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const text = await res.text();
+        loadPDBText(text, DEFAULT_PDB);
+      } catch (err) {
+        els.viewerStatus.textContent = 'Default PDB not loaded (use file input)';
+      }
+    }
+
+    function updateDetails(row) {
+      const plddt = Number(row.af2_plddt);
+      const confidence = Number(row.af2_is_high_confidence) === 1
+        ? '<span class="pill high">HIGH CONFIDENCE</span>'
+        : (Number(row.af2_is_low_confidence) === 1
+            ? '<span class="pill low">LOW CONFIDENCE</span>'
+            : '<span class="pill">MID CONFIDENCE</span>');
+
+      const mutation = row.mutation || `${row.wt_aa || '?'}${row.position || '?'}${row.mut_aa || '?'}`;
+
+      els.detailsPane.innerHTML = `
+        <div class="row"><div class="k">Mutation</div><div class="mono">${mutation}</div></div>
+        <div class="row"><div class="k">Position</div><div class="mono">${formatCell(row.position)}</div></div>
+        <div class="row"><div class="k">pLDDT</div><div class="mono">${formatCell(plddt)}</div></div>
+        <div class="row"><div class="k">Neighbor count (8A)</div><div class="mono">${formatCell(row.af2_neighbor_count_8A)}</div></div>
+        <div class="row"><div class="k">Neighbor count (12A)</div><div class="mono">${formatCell(row.af2_neighbor_count_12A)}</div></div>
+        <div class="row"><div class="k">Exposed/Buried proxy</div><div class="mono">E:${formatCell(row.af2_is_exposed_proxy)} | B:${formatCell(row.af2_is_buried_proxy)}</div></div>
+        <div class="row"><div class="k">Confidence class</div><div>${confidence}</div></div>
+      `;
+    }
+
+    function highlightResidue(row) {
+      if (!state.viewer || !state.model) return;
+      const resi = Number(row.af2_struct_seq_id || row.position);
+      if (!Number.isFinite(resi)) return;
+
+      applyDefaultStyle();
+      state.viewer.setStyle({ resi }, { stick: { colorscheme: 'cyanCarbon', radius: 0.22 }, sphere: { color: '#ffd166', radius: 0.7 } });
+      state.viewer.addStyle({ within: { distance: 6, sel: { resi } } }, { cartoon: { color: '#ff7c43' } });
+      state.viewer.zoomTo({ resi });
+      state.viewer.render();
+    }
+
+    async function loadDefaultCSV() {
+      const res = await fetch(DEFAULT_CSV);
+      if (!res.ok) throw new Error(`Failed to fetch ${DEFAULT_CSV} (${res.status})`);
+      const text = await res.text();
+      return parseCSV(text);
+    }
+
+    function mountData(columns, data) {
+      state.columns = columns;
+      state.rows = normalizeRows(data);
+      state.filteredRows = [...state.rows];
+      state.page = 1;
+      state.selectedRow = null;
+      state.sortKey = null;
+      state.sortDir = 'asc';
+
+      loadStats();
+      renderTable();
+      els.statusText.textContent = `${state.rows.length.toLocaleString()} rows loaded`;
+    }
+
+    function bindEvents() {
+      els.searchInput.addEventListener('input', applyFilters);
+      els.positionInput.addEventListener('input', applyFilters);
+      els.confidenceFilter.addEventListener('change', applyFilters);
+
+      els.prevPageBtn.addEventListener('click', () => {
+        if (state.page > 1) {
+          state.page -= 1;
+          renderTable();
+        }
+      });
+
+      els.nextPageBtn.addEventListener('click', () => {
+        const pages = Math.max(1, Math.ceil(state.filteredRows.length / PAGE_SIZE));
+        if (state.page < pages) {
+          state.page += 1;
+          renderTable();
+        }
+      });
+
+      els.resetFiltersBtn.addEventListener('click', () => {
+        els.searchInput.value = '';
+        els.positionInput.value = '';
+        els.confidenceFilter.value = 'all';
+        applyFilters();
+      });
+
+      els.exportBtn.addEventListener('click', () => {
+        const csv = csvFromRows(state.filteredRows);
+        downloadText('prnp_filtered_view.csv', csv);
+      });
+
+      els.focus129Btn.addEventListener('click', () => {
+        els.positionInput.value = '129';
+        applyFilters();
+      });
+
+      els.csvFileInput.addEventListener('change', async (e) => {
+        const file = e.target.files && e.target.files[0];
+        if (!file) return;
+        const text = await file.text();
+        const parsed = parseCSV(text);
+        mountData(parsed.columns, parsed.data);
+      });
+
+      els.pdbFileInput.addEventListener('change', async (e) => {
+        const file = e.target.files && e.target.files[0];
+        if (!file) return;
+        const text = await file.text();
+        loadPDBText(text, file.name);
+      });
+    }
+
+    async function boot() {
+      bindEvents();
+      initViewer();
+      loadDefaultPDB();
+
+      try {
+        const parsed = await loadDefaultCSV();
+        mountData(parsed.columns, parsed.data);
+      } catch (err) {
+        els.statusText.textContent = 'Default CSV not loaded (use file input)';
+      }
+    }
+
+    boot();
+  </script>
+</body>
+</html>

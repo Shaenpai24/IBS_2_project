@@ -1,0 +1,45 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading AA113S;
+Reading AA113T;
+Reading AA113V;
+Reading AA113W;
+Reading AA113Y;
+Reading GA114A;
+Reading GA114C;
+Reading GA114D;
+Reading GA114E;
+Reading GA114F;
+Mutating residue = ALAA113 into SER
+Mutating residue = ALAA113 into THR
+Mutating residue = ALAA113 into VAL
+Mutating residue = ALAA113 into TRP
+Mutating residue = ALAA113 into TYR
+Mutating residue = GLYA114 into ALA
+Mutating residue = GLYA114 into CYS
+Mutating residue = GLYA114 into ASP
+Mutating residue = GLYA114 into GLU
+Mutating residue = GLYA114 into PHE
+Your file run OK
+End time of FoldX: Sun May 17 16:22:06 2026
+Total time spend: 25.861 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

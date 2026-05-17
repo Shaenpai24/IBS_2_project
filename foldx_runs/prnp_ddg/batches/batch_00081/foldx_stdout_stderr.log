@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading EA211N;
+Reading EA211P;
+Reading EA211Q;
+Reading EA211R;
+Reading EA211S;
+Reading EA211T;
+Reading EA211V;
+Reading EA211W;
+Reading EA211Y;
+Reading RA212A;
+Reading RA212C;
+Reading RA212D;
+Reading RA212E;
+Reading RA212F;
+Reading RA212G;
+Reading RA212H;
+Reading RA212I;
+Reading RA212K;
+Reading RA212L;
+Reading RA212M;
+Reading RA212N;
+Reading RA212P;
+Reading RA212Q;
+Reading RA212S;
+Reading RA212T;
+Reading RA212V;
+Reading RA212W;
+Reading RA212Y;
+Reading EA213A;
+Reading EA213C;
+Reading EA213D;
+Reading EA213F;
+Reading EA213G;
+Reading EA213H;
+Reading EA213I;
+Reading EA213K;
+Reading EA213L;
+Reading EA213M;
+Reading EA213N;
+Reading EA213P;
+Reading EA213Q;
+Reading EA213R;
+Reading EA213S;
+Reading EA213T;
+Reading EA213V;
+Reading EA213W;
+Reading EA213Y;
+Reading SA214A;
+Reading SA214C;
+Reading SA214D;
+RA212A	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: RA212A in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00081\individual_list_batch_00081.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

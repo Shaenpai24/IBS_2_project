@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading VA122E;
+Reading VA122F;
+Reading VA122G;
+Reading VA122H;
+Reading VA122I;
+Reading VA122K;
+Reading VA122L;
+Reading VA122M;
+Reading VA122N;
+Reading VA122P;
+Reading VA122Q;
+Reading VA122R;
+Reading VA122S;
+Reading VA122T;
+Reading VA122W;
+Reading VA122Y;
+Reading GA123A;
+Reading GA123C;
+Reading GA123D;
+Reading GA123E;
+Reading GA123F;
+Reading GA123H;
+Reading GA123I;
+Reading GA123K;
+Reading GA123L;
+Reading GA123M;
+Reading GA123N;
+Reading GA123P;
+Reading GA123Q;
+Reading GA123R;
+Reading GA123S;
+Reading GA123T;
+Reading GA123V;
+Reading GA123W;
+Reading GA123Y;
+Reading GA124A;
+Reading GA124C;
+Reading GA124D;
+Reading GA124E;
+Reading GA124F;
+Reading GA124H;
+Reading GA124I;
+Reading GA124K;
+Reading GA124L;
+Reading GA124M;
+Reading GA124N;
+Reading GA124P;
+Reading GA124Q;
+Reading GA124R;
+Reading GA124S;
+Mutating residue = VALA122 into GLU
+Mutating residue = VALA122 into PHE
+Mutating residue = VALA122 into GLY
+Mutating residue = VALA122 into HIS
+Mutating residue = VALA122 into ILE
+Mutating residue = VALA122 into LYS
+Mutating residue = VALA122 into LEU
+Mutating residue = VALA122 into MET
+Mutating residue = VALA122 into ASN
+Mutating residue = VALA122 into PRO
+Mutating residue = VALA122 into GLN
+Mutating residue = VALA122 into ARG
+Mutating residue = VALA122 into SER
+Mutating residue = VALA122 into THR
+Mutating residue = VALA122 into TRP
+Mutating residue = VALA122 into TYR
+Mutating residue = GLYA123 into ALA
+Mutating residue = GLYA123 into CYS
+Mutating residue = GLYA123 into ASP
+Mutating residue = GLYA123 into GLU
+Mutating residue = GLYA123 into PHE
+Mutating residue = GLYA123 into HIS
+Mutating residue = GLYA123 into ILE
+Mutating residue = GLYA123 into LYS
+Mutating residue = GLYA123 into LEU
+Mutating residue = GLYA123 into MET
+Mutating residue = GLYA123 into ASN
+Mutating residue = GLYA123 into PRO
+Mutating residue = GLYA123 into GLN
+Mutating residue = GLYA123 into ARG
+Mutating residue = GLYA123 into SER
+Mutating residue = GLYA123 into THR
+Mutating residue = GLYA123 into VAL
+Mutating residue = GLYA123 into TRP
+Mutating residue = GLYA123 into TYR
+Mutating residue = GLYA124 into ALA
+Mutating residue = GLYA124 into CYS
+Mutating residue = GLYA124 into ASP
+Mutating residue = GLYA124 into GLU
+Mutating residue = GLYA124 into PHE
+Mutating residue = GLYA124 into HIS
+Mutating residue = GLYA124 into ILE
+Mutating residue = GLYA124 into LYS
+Mutating residue = GLYA124 into LEU
+Mutating residue = GLYA124 into MET
+Mutating residue = GLYA124 into ASN
+Mutating residue = GLYA124 into PRO
+Mutating residue = GLYA124 into GLN
+Mutating residue = GLYA124 into ARG
+Mutating residue = GLYA124 into SER
+Your file run OK
+End time of FoldX: Sun May 17 12:00:38 2026
+Total time spend: 58.4 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading GA119N;
+Reading GA119P;
+Reading GA119Q;
+Reading GA119R;
+Reading GA119S;
+Reading GA119T;
+Reading GA119V;
+Reading GA119W;
+Reading GA119Y;
+Reading AA120C;
+Reading AA120D;
+Reading AA120E;
+Reading AA120F;
+Reading AA120G;
+Reading AA120H;
+Reading AA120I;
+Reading AA120K;
+Reading AA120L;
+Reading AA120M;
+Reading AA120N;
+Reading AA120P;
+Reading AA120Q;
+Reading AA120R;
+Reading AA120S;
+Reading AA120T;
+Reading AA120V;
+Reading AA120W;
+Reading AA120Y;
+Reading VA121A;
+Reading VA121C;
+Reading VA121D;
+Reading VA121E;
+Reading VA121F;
+Reading VA121G;
+Reading VA121H;
+Reading VA121I;
+Reading VA121K;
+Reading VA121L;
+Reading VA121M;
+Reading VA121N;
+Reading VA121P;
+Reading VA121Q;
+Reading VA121R;
+Reading VA121S;
+Reading VA121T;
+Reading VA121W;
+Reading VA121Y;
+Reading VA122A;
+Reading VA122C;
+Reading VA122D;
+Mutating residue = GLYA119 into ASN
+Mutating residue = GLYA119 into PRO
+Mutating residue = GLYA119 into GLN
+Mutating residue = GLYA119 into ARG
+Mutating residue = GLYA119 into SER
+Mutating residue = GLYA119 into THR
+Mutating residue = GLYA119 into VAL
+Mutating residue = GLYA119 into TRP
+Mutating residue = GLYA119 into TYR
+Mutating residue = ALAA120 into CYS
+Mutating residue = ALAA120 into ASP
+Mutating residue = ALAA120 into GLU
+Mutating residue = ALAA120 into PHE
+Mutating residue = ALAA120 into GLY
+Mutating residue = ALAA120 into HIS
+Mutating residue = ALAA120 into ILE
+Mutating residue = ALAA120 into LYS
+Mutating residue = ALAA120 into LEU
+Mutating residue = ALAA120 into MET
+Mutating residue = ALAA120 into ASN
+Mutating residue = ALAA120 into PRO
+Mutating residue = ALAA120 into GLN
+Mutating residue = ALAA120 into ARG
+Mutating residue = ALAA120 into SER
+Mutating residue = ALAA120 into THR
+Mutating residue = ALAA120 into VAL
+Mutating residue = ALAA120 into TRP
+Mutating residue = ALAA120 into TYR
+Mutating residue = VALA121 into ALA
+Mutating residue = VALA121 into CYS
+Mutating residue = VALA121 into ASP
+Mutating residue = VALA121 into GLU
+Mutating residue = VALA121 into PHE
+Mutating residue = VALA121 into GLY
+Mutating residue = VALA121 into HIS
+Mutating residue = VALA121 into ILE
+Mutating residue = VALA121 into LYS
+Mutating residue = VALA121 into LEU
+Mutating residue = VALA121 into MET
+Mutating residue = VALA121 into ASN
+Mutating residue = VALA121 into PRO
+Mutating residue = VALA121 into GLN
+Mutating residue = VALA121 into ARG
+Mutating residue = VALA121 into SER
+Mutating residue = VALA121 into THR
+Mutating residue = VALA121 into TRP
+Mutating residue = VALA121 into TYR
+Mutating residue = VALA122 into ALA
+Mutating residue = VALA122 into CYS
+Mutating residue = VALA122 into ASP
+Your file run OK
+End time of FoldX: Sun May 17 11:59:40 2026
+Total time spend: 47.978 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

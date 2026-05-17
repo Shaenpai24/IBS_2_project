@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading QA90L;
+Reading QA90M;
+Reading QA90N;
+Reading QA90P;
+Reading QA90R;
+Reading QA90S;
+Reading QA90T;
+Reading QA90V;
+Reading QA90W;
+Reading QA90Y;
+Reading WA91A;
+Reading WA91C;
+Reading WA91D;
+Reading WA91E;
+Reading WA91F;
+Reading WA91G;
+Reading WA91H;
+Reading WA91I;
+Reading WA91K;
+Reading WA91L;
+Reading WA91M;
+Reading WA91N;
+Reading WA91P;
+Reading WA91Q;
+Reading WA91R;
+Reading WA91S;
+Reading WA91T;
+Reading WA91V;
+Reading WA91Y;
+Reading NA92A;
+Reading NA92C;
+Reading NA92D;
+Reading NA92E;
+Reading NA92F;
+Reading NA92G;
+Reading NA92H;
+Reading NA92I;
+Reading NA92K;
+Reading NA92L;
+Reading NA92M;
+Reading NA92P;
+Reading NA92Q;
+Reading NA92R;
+Reading NA92S;
+Reading NA92T;
+Reading NA92V;
+Reading NA92W;
+Reading NA92Y;
+Reading KA93A;
+Reading KA93C;
+QA90L	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: QA90L in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00035\individual_list_batch_00035.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading CA22D;
+Reading CA22E;
+Reading CA22F;
+Reading CA22G;
+Reading CA22H;
+Reading CA22I;
+Reading CA22K;
+Reading CA22L;
+Reading CA22M;
+Reading CA22N;
+Reading CA22P;
+Reading CA22Q;
+Reading CA22R;
+Reading CA22S;
+Reading CA22T;
+Reading CA22V;
+Reading CA22W;
+Reading CA22Y;
+Reading KA23A;
+Reading KA23C;
+Reading KA23D;
+Reading KA23E;
+Reading KA23F;
+Reading KA23G;
+Reading KA23H;
+Reading KA23I;
+Reading KA23L;
+Reading KA23M;
+Reading KA23N;
+Reading KA23P;
+Reading KA23Q;
+Reading KA23R;
+Reading KA23S;
+Reading KA23T;
+Reading KA23V;
+Reading KA23W;
+Reading KA23Y;
+Reading KA24A;
+Reading KA24C;
+Reading KA24D;
+Reading KA24E;
+Reading KA24F;
+Reading KA24G;
+Reading KA24H;
+Reading KA24I;
+Reading KA24L;
+Reading KA24M;
+Reading KA24N;
+Reading KA24P;
+Reading KA24Q;
+Mutating residue = CYSA22 into ASP
+Mutating residue = CYSA22 into GLU
+Mutating residue = CYSA22 into PHE
+Mutating residue = CYSA22 into GLY
+Mutating residue = CYSA22 into HIS
+Mutating residue = CYSA22 into ILE
+Mutating residue = CYSA22 into LYS
+Mutating residue = CYSA22 into LEU
+Mutating residue = CYSA22 into MET
+Mutating residue = CYSA22 into ASN
+Mutating residue = CYSA22 into PRO
+Mutating residue = CYSA22 into GLN
+Mutating residue = CYSA22 into ARG
+Mutating residue = CYSA22 into SER
+Mutating residue = CYSA22 into THR
+Mutating residue = CYSA22 into VAL
+Mutating residue = CYSA22 into TRP
+Mutating residue = CYSA22 into TYR
+Mutating residue = LYSA23 into ALA
+Mutating residue = LYSA23 into CYS
+Mutating residue = LYSA23 into ASP
+Mutating residue = LYSA23 into GLU
+Mutating residue = LYSA23 into PHE
+Mutating residue = LYSA23 into GLY
+Mutating residue = LYSA23 into HIS
+Mutating residue = LYSA23 into ILE
+Mutating residue = LYSA23 into LEU
+Mutating residue = LYSA23 into MET
+Mutating residue = LYSA23 into ASN
+Mutating residue = LYSA23 into PRO
+Mutating residue = LYSA23 into GLN
+Mutating residue = LYSA23 into ARG
+Mutating residue = LYSA23 into SER
+Mutating residue = LYSA23 into THR
+Mutating residue = LYSA23 into VAL
+Mutating residue = LYSA23 into TRP
+Mutating residue = LYSA23 into TYR
+Mutating residue = LYSA24 into ALA
+Mutating residue = LYSA24 into CYS
+Mutating residue = LYSA24 into ASP
+Mutating residue = LYSA24 into GLU
+Mutating residue = LYSA24 into PHE
+Mutating residue = LYSA24 into GLY
+Mutating residue = LYSA24 into HIS
+Mutating residue = LYSA24 into ILE
+Mutating residue = LYSA24 into LEU
+Mutating residue = LYSA24 into MET
+Mutating residue = LYSA24 into ASN
+Mutating residue = LYSA24 into PRO
+Mutating residue = LYSA24 into GLN
+Your file run OK
+End time of FoldX: Sun May 17 01:46:11 2026
+Total time spend: 166.567 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

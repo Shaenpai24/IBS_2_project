@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading RA140L;
+Reading RA140M;
+Reading RA140N;
+Reading RA140P;
+Reading RA140Q;
+Reading RA140S;
+Reading RA140T;
+Reading RA140V;
+Reading RA140W;
+Reading RA140Y;
+Reading YA141A;
+Reading YA141C;
+Reading YA141D;
+Reading YA141E;
+Reading YA141F;
+Reading YA141G;
+Reading YA141H;
+Reading YA141I;
+Reading YA141K;
+Reading YA141L;
+Reading YA141M;
+Reading YA141N;
+Reading YA141P;
+Reading YA141Q;
+Reading YA141R;
+Reading YA141S;
+Reading YA141T;
+Reading YA141V;
+Reading YA141W;
+Reading YA142A;
+Reading YA142C;
+Reading YA142D;
+Reading YA142E;
+Reading YA142F;
+Reading YA142G;
+Reading YA142H;
+Reading YA142I;
+Reading YA142K;
+Reading YA142L;
+Reading YA142M;
+Reading YA142N;
+Reading YA142P;
+Reading YA142Q;
+Reading YA142R;
+Reading YA142S;
+Reading YA142T;
+Reading YA142V;
+Reading YA142W;
+Reading RA143A;
+Reading RA143C;
+RA140L	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: RA140L in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00054\individual_list_batch_00054.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

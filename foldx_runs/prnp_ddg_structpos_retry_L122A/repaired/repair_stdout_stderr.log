@@ -1,0 +1,31 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Start RepairPDB >>>
+
+1 models read: AF-P04156-F1-model_v4.pdb
+Repair will take all residues into account
+Now Optimizing Residues.
+Now moving residues with bad energies 
+End of Repair
+Output PDB C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg_structpos_retry_L122A\repaired\AF-P04156-F1-model_v4_Repair.pdb
+Your file run OK
+End time of FoldX: Sun May 17 16:30:09 2026
+Total time spend: 162.312 seconds.
+Cleaning RepairPDB...DONE
+
+
+STDERR

@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading TA208W;
+Reading TA208Y;
+Reading QA209A;
+Reading QA209C;
+Reading QA209D;
+Reading QA209E;
+Reading QA209F;
+Reading QA209G;
+Reading QA209H;
+Reading QA209I;
+Reading QA209K;
+Reading QA209L;
+Reading QA209M;
+Reading QA209N;
+Reading QA209P;
+Reading QA209R;
+Reading QA209S;
+Reading QA209T;
+Reading QA209V;
+Reading QA209W;
+Reading QA209Y;
+Reading YA210A;
+Reading YA210C;
+Reading YA210D;
+Reading YA210E;
+Reading YA210F;
+Reading YA210G;
+Reading YA210H;
+Reading YA210I;
+Reading YA210K;
+Reading YA210L;
+Reading YA210M;
+Reading YA210N;
+Reading YA210P;
+Reading YA210Q;
+Reading YA210R;
+Reading YA210S;
+Reading YA210T;
+Reading YA210V;
+Reading YA210W;
+Reading EA211A;
+Reading EA211C;
+Reading EA211D;
+Reading EA211F;
+Reading EA211G;
+Reading EA211H;
+Reading EA211I;
+Reading EA211K;
+Reading EA211L;
+Reading EA211M;
+TA208W	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: TA208W in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00080\individual_list_batch_00080.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

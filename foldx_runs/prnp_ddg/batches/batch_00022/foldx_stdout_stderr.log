@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading GA56H;
+Reading GA56I;
+Reading GA56K;
+Reading GA56L;
+Reading GA56M;
+Reading GA56N;
+Reading GA56P;
+Reading GA56Q;
+Reading GA56R;
+Reading GA56S;
+Reading GA56T;
+Reading GA56V;
+Reading GA56W;
+Reading GA56Y;
+Reading WA57A;
+Reading WA57C;
+Reading WA57D;
+Reading WA57E;
+Reading WA57F;
+Reading WA57G;
+Reading WA57H;
+Reading WA57I;
+Reading WA57K;
+Reading WA57L;
+Reading WA57M;
+Reading WA57N;
+Reading WA57P;
+Reading WA57Q;
+Reading WA57R;
+Reading WA57S;
+Reading WA57T;
+Reading WA57V;
+Reading WA57Y;
+Reading GA58A;
+Reading GA58C;
+Reading GA58D;
+Reading GA58E;
+Reading GA58F;
+Reading GA58H;
+Reading GA58I;
+Reading GA58K;
+Reading GA58L;
+Reading GA58M;
+Reading GA58N;
+Reading GA58P;
+Reading GA58Q;
+Reading GA58R;
+Reading GA58S;
+Reading GA58T;
+Reading GA58V;
+Mutating residue = GLYA56 into HIS
+Mutating residue = GLYA56 into ILE
+Mutating residue = GLYA56 into LYS
+Mutating residue = GLYA56 into LEU
+Mutating residue = GLYA56 into MET
+Mutating residue = GLYA56 into ASN
+Mutating residue = GLYA56 into PRO
+Mutating residue = GLYA56 into GLN
+Mutating residue = GLYA56 into ARG
+Mutating residue = GLYA56 into SER
+Mutating residue = GLYA56 into THR
+Mutating residue = GLYA56 into VAL
+Mutating residue = GLYA56 into TRP
+Mutating residue = GLYA56 into TYR
+Mutating residue = TRPA57 into ALA
+Mutating residue = TRPA57 into CYS
+Mutating residue = TRPA57 into ASP
+Mutating residue = TRPA57 into GLU
+Mutating residue = TRPA57 into PHE
+Mutating residue = TRPA57 into GLY
+Mutating residue = TRPA57 into HIS
+Mutating residue = TRPA57 into ILE
+Mutating residue = TRPA57 into LYS
+Mutating residue = TRPA57 into LEU
+Mutating residue = TRPA57 into MET
+Mutating residue = TRPA57 into ASN
+Mutating residue = TRPA57 into PRO
+Mutating residue = TRPA57 into GLN
+Mutating residue = TRPA57 into ARG
+Mutating residue = TRPA57 into SER
+Mutating residue = TRPA57 into THR
+Mutating residue = TRPA57 into VAL
+Mutating residue = TRPA57 into TYR
+Mutating residue = GLYA58 into ALA
+Mutating residue = GLYA58 into CYS
+Mutating residue = GLYA58 into ASP
+Mutating residue = GLYA58 into GLU
+Mutating residue = GLYA58 into PHE
+Mutating residue = GLYA58 into HIS
+Mutating residue = GLYA58 into ILE
+Mutating residue = GLYA58 into LYS
+Mutating residue = GLYA58 into LEU
+Mutating residue = GLYA58 into MET
+Mutating residue = GLYA58 into ASN
+Mutating residue = GLYA58 into PRO
+Mutating residue = GLYA58 into GLN
+Mutating residue = GLYA58 into ARG
+Mutating residue = GLYA58 into SER
+Mutating residue = GLYA58 into THR
+Mutating residue = GLYA58 into VAL
+Your file run OK
+End time of FoldX: Sun May 17 01:05:32 2026
+Total time spend: 24.153 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

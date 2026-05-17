@@ -1,0 +1,13 @@
+{
+  "foldx": "D:\\FoldX\\foldx_20261231.exe",
+  "rotabase": "D:\\FoldX\\rotabase.txt",
+  "input_pdb": "C:\\Users\\Saanvi\\Desktop\\IBS_2_project\\AF-P04156-F1-model_v4.pdb",
+  "repaired_pdb": "C:\\Users\\Saanvi\\Desktop\\IBS_2_project\\foldx_runs\\prnp_ddg\\repaired\\AF-P04156-F1-model_v4_Repair.pdb",
+  "mutation_csv": "C:\\Users\\Saanvi\\Desktop\\IBS_2_project\\ddg_inputs\\ddg_label_template.csv",
+  "batch_size": 50,
+  "workers": 1,
+  "total_mutations_requested": 4655,
+  "pending_at_start": 4655,
+  "ddg_sign_convention": "FoldX BuildModel Dif total energy; positive values usually indicate destabilization.",
+  "alpha_fold_caveat": "DDG values are computed on an AlphaFold model and should be treated as approximate computational labels."
+}

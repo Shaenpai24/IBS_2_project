@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading HA177L;
+Reading HA177M;
+Reading HA177N;
+Reading HA177P;
+Reading HA177Q;
+Reading HA177R;
+Reading HA177S;
+Reading HA177T;
+Reading HA177V;
+Reading HA177W;
+Reading HA177Y;
+Reading DA178A;
+Reading DA178C;
+Reading DA178E;
+Reading DA178F;
+Reading DA178G;
+Reading DA178H;
+Reading DA178I;
+Reading DA178K;
+Reading DA178L;
+Reading DA178M;
+Reading DA178N;
+Reading DA178P;
+Reading DA178Q;
+Reading DA178R;
+Reading DA178S;
+Reading DA178T;
+Reading DA178V;
+Reading DA178W;
+Reading DA178Y;
+Reading CA179A;
+Reading CA179D;
+Reading CA179E;
+Reading CA179F;
+Reading CA179G;
+Reading CA179H;
+Reading CA179I;
+Reading CA179K;
+Reading CA179L;
+Reading CA179M;
+Reading CA179N;
+Reading CA179P;
+Reading CA179Q;
+Reading CA179R;
+Reading CA179S;
+Reading CA179T;
+Reading CA179V;
+Reading CA179W;
+Reading CA179Y;
+Reading VA180A;
+Mutating residue = H2SA177 into LEU
+Mutating residue = H2SA177 into MET
+Mutating residue = H2SA177 into ASN
+Mutating residue = H2SA177 into PRO
+Mutating residue = H2SA177 into GLN
+Mutating residue = H2SA177 into ARG
+Mutating residue = H2SA177 into SER
+Mutating residue = H2SA177 into THR
+Mutating residue = H2SA177 into VAL
+Mutating residue = H2SA177 into TRP
+Mutating residue = H2SA177 into TYR
+Mutating residue = ASPA178 into ALA
+Mutating residue = ASPA178 into CYS
+Mutating residue = ASPA178 into GLU
+Mutating residue = ASPA178 into PHE
+Mutating residue = ASPA178 into GLY
+Mutating residue = ASPA178 into HIS
+Mutating residue = ASPA178 into ILE
+Mutating residue = ASPA178 into LYS
+Mutating residue = ASPA178 into LEU
+Mutating residue = ASPA178 into MET
+Mutating residue = ASPA178 into ASN
+Mutating residue = ASPA178 into PRO
+Mutating residue = ASPA178 into GLN
+Mutating residue = ASPA178 into ARG
+Mutating residue = ASPA178 into SER
+Mutating residue = ASPA178 into THR
+Mutating residue = ASPA178 into VAL
+Mutating residue = ASPA178 into TRP
+Mutating residue = ASPA178 into TYR
+Mutating residue = CYSA179 into ALA
+Mutating residue = CYSA179 into ASP
+Mutating residue = CYSA179 into GLU
+Mutating residue = CYSA179 into PHE
+Mutating residue = CYSA179 into GLY
+Mutating residue = CYSA179 into HIS
+Mutating residue = CYSA179 into ILE
+Mutating residue = CYSA179 into LYS
+Mutating residue = CYSA179 into LEU
+Mutating residue = CYSA179 into MET
+Mutating residue = CYSA179 into ASN
+Mutating residue = CYSA179 into PRO
+Mutating residue = CYSA179 into GLN
+Mutating residue = CYSA179 into ARG
+Mutating residue = CYSA179 into SER
+Mutating residue = CYSA179 into THR
+Mutating residue = CYSA179 into VAL
+Mutating residue = CYSA179 into TRP
+Mutating residue = CYSA179 into TYR
+Mutating residue = VALA180 into ALA
+Your file run OK
+End time of FoldX: Sun May 17 13:38:48 2026
+Total time spend: 526.155 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading VA172C;
+Reading VA172D;
+Reading VA172E;
+Reading VA172F;
+Reading VA172G;
+Reading VA172H;
+Reading VA172I;
+Reading VA172K;
+Reading VA172L;
+Reading VA172M;
+Reading VA172N;
+Reading VA172P;
+Reading VA172Q;
+Reading VA172R;
+Reading VA172S;
+Reading VA172T;
+Reading VA172W;
+Reading VA172Y;
+Reading NA173A;
+Reading NA173C;
+Reading NA173D;
+Reading NA173E;
+Reading NA173F;
+Reading NA173G;
+Reading NA173H;
+Reading NA173I;
+Reading NA173K;
+Reading NA173L;
+Reading NA173M;
+Reading NA173P;
+Reading NA173Q;
+Reading NA173R;
+Reading NA173S;
+Reading NA173T;
+Reading NA173V;
+Reading NA173W;
+Reading NA173Y;
+Reading IA174A;
+Reading IA174C;
+Reading IA174D;
+Reading IA174E;
+Reading IA174F;
+Reading IA174G;
+Reading IA174H;
+Reading IA174K;
+Reading IA174L;
+Reading IA174M;
+Reading IA174N;
+Reading IA174P;
+Reading IA174Q;
+VA172C	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: VA172C in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00066\individual_list_batch_00066.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading AA224T;
+Reading AA224V;
+Reading AA224W;
+Reading AA224Y;
+Reading YA225A;
+Reading YA225C;
+Reading YA225D;
+Reading YA225E;
+Reading YA225F;
+Reading YA225G;
+Reading YA225H;
+Reading YA225I;
+Reading YA225K;
+Reading YA225L;
+Reading YA225M;
+Reading YA225N;
+Reading YA225P;
+Reading YA225Q;
+Reading YA225R;
+Reading YA225S;
+Reading YA225T;
+Reading YA225V;
+Reading YA225W;
+Reading YA226A;
+Reading YA226C;
+Reading YA226D;
+Reading YA226E;
+Reading YA226F;
+Reading YA226G;
+Reading YA226H;
+Reading YA226I;
+Reading YA226K;
+Reading YA226L;
+Reading YA226M;
+Reading YA226N;
+Reading YA226P;
+Reading YA226Q;
+Reading YA226R;
+Reading YA226S;
+Reading YA226T;
+Reading YA226V;
+Reading YA226W;
+Reading QA227A;
+Reading QA227C;
+Reading QA227D;
+Reading QA227E;
+Reading QA227F;
+Reading QA227G;
+Reading QA227H;
+Reading QA227I;
+Mutating residue = ALAA224 into THR
+Mutating residue = ALAA224 into VAL
+Mutating residue = ALAA224 into TRP
+Mutating residue = ALAA224 into TYR
+Mutating residue = TYRA225 into ALA
+Mutating residue = TYRA225 into CYS
+Mutating residue = TYRA225 into ASP
+Mutating residue = TYRA225 into GLU
+Mutating residue = TYRA225 into PHE
+Mutating residue = TYRA225 into GLY
+Mutating residue = TYRA225 into HIS
+Mutating residue = TYRA225 into ILE
+Mutating residue = TYRA225 into LYS
+Mutating residue = TYRA225 into LEU
+Mutating residue = TYRA225 into MET
+Mutating residue = TYRA225 into ASN
+Mutating residue = TYRA225 into PRO
+Mutating residue = TYRA225 into GLN
+Mutating residue = TYRA225 into ARG
+Mutating residue = TYRA225 into SER
+Mutating residue = TYRA225 into THR
+Mutating residue = TYRA225 into VAL
+Mutating residue = TYRA225 into TRP
+Mutating residue = TYRA226 into ALA
+Mutating residue = TYRA226 into CYS
+Mutating residue = TYRA226 into ASP
+Mutating residue = TYRA226 into GLU
+Mutating residue = TYRA226 into PHE
+Mutating residue = TYRA226 into GLY
+Mutating residue = TYRA226 into HIS
+Mutating residue = TYRA226 into ILE
+Mutating residue = TYRA226 into LYS
+Mutating residue = TYRA226 into LEU
+Mutating residue = TYRA226 into MET
+Mutating residue = TYRA226 into ASN
+Mutating residue = TYRA226 into PRO
+Mutating residue = TYRA226 into GLN
+Mutating residue = TYRA226 into ARG
+Mutating residue = TYRA226 into SER
+Mutating residue = TYRA226 into THR
+Mutating residue = TYRA226 into VAL
+Mutating residue = TYRA226 into TRP
+Mutating residue = GLNA227 into ALA
+Mutating residue = GLNA227 into CYS
+Mutating residue = GLNA227 into ASP
+Mutating residue = GLNA227 into GLU
+Mutating residue = GLNA227 into PHE
+Mutating residue = GLNA227 into GLY
+Mutating residue = GLNA227 into HIS
+Mutating residue = GLNA227 into ILE
+Your file run OK
+End time of FoldX: Sun May 17 15:41:53 2026
+Total time spend: 360.371 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

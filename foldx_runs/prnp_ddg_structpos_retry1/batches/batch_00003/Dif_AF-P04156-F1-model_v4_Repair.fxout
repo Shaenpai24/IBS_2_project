@@ -1,0 +1,19 @@
+FoldX 4 (2011)
+by the FoldX Consortium 
+Jesper Borg, Frederic Rousseau, Joost Schymkowitz,
+Luis Serrano and Francois Stricher
+------------------------------------------------------
+
+PDB file analysed: batch
+Output type: BuildModel
+Pdb	total energy	Backbone Hbond	Sidechain Hbond	Van der Waals	Electrostatics	Solvation Polar	Solvation Hydrophobic	Van der Waals clashes	entropy sidechain	entropy mainchain	sloop_entropy	mloop_entropy	cis_bond	torsional clash	backbone clash	helix dipole	water bridge	disulfide	electrostatic kon	partial covalent bonds	energy Ionisation	Entropy Complex
+AF-P04156-F1-model_v4_Repair_1.pdb	-0.522221	-1.35109	-1.38859	-0.495625	0.231514	0.858094	-0.386003	0.00046245	1.62322	0.320213	0	0	0	0.0655893	0	0	0	0	0	0	0	0
+AF-P04156-F1-model_v4_Repair_2.pdb	-1.49187	0	0	0.299575	-0.0137829	-0.198432	0.518118	-1.77636e-15	-0.194239	-1.90189	0	0	0	-0.00121119	0	0	0	0	0	0	0	0
+AF-P04156-F1-model_v4_Repair_3.pdb	-1.44466	0	0	0.273763	-0.0113321	-0.211512	0.444418	1.06581e-14	-0.200925	-1.75015	0	0	0	0.0110854	0	0	0	0	0	0	0	0
+AF-P04156-F1-model_v4_Repair_4.pdb	-1.2971	0	0	0.221259	-0.0218173	-0.0380226	0.419669	-1.77636e-15	-0.187891	-1.6733	0	0	0	-0.0169914	0	0	0	0	0	0	0	0
+AF-P04156-F1-model_v4_Repair_5.pdb	-1.74367	0	0	0.250273	-0.00422913	-0.206884	0.381859	0	-0.15802	-1.99083	0	0	0	-0.0158337	0	0	0	0	0	0	0	0
+AF-P04156-F1-model_v4_Repair_6.pdb	-1.62981	0	0	0.130037	-0.0167824	-0.134051	0.196538	-8.88178e-15	-0.09987	-1.67585	0	0	0	-0.0298393	0	-4.44089e-16	0	0	0	0	0	0
+AF-P04156-F1-model_v4_Repair_7.pdb	0.0304852	-0.106642	-0.106642	-0.185984	1.42109e-14	0.171066	-0.15	1.77636e-14	0.272853	0.0854161	0	0	0	0.0504171	0	4.44089e-16	0	0	0	0	0	0
+AF-P04156-F1-model_v4_Repair_8.pdb	-0.650591	0.00824873	-2.1031	-0.1463	-0.480835	0.893982	0.123696	0.0150115	1.50284	-0.482372	0	0	0	0.0182326	-0.000991716	-4.44089e-16	0	0	0	0	0	0
+AF-P04156-F1-model_v4_Repair_9.pdb	-0.100741	-0.000695806	0	-0.083963	-0.395016	0.219608	-0.111223	0.00244003	0.441008	-0.172007	0	0	0	-0.000891037	0.0468378	0	0	0	0	0	0	0
+AF-P04156-F1-model_v4_Repair_10.pdb	-0.215602	0.0251529	-1.42109e-14	-0.649726	0.114459	0.662977	-0.921967	-0.00297805	0.479177	0.0652755	0	0	0	0.0120279	0.00285131	0	0	0	0	0	0	0

@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading GA40M;
+Reading GA40N;
+Reading GA40P;
+Reading GA40Q;
+Reading GA40R;
+Reading GA40S;
+Reading GA40T;
+Reading GA40V;
+Reading GA40W;
+Reading GA40Y;
+Reading QA41A;
+Reading QA41C;
+Reading QA41D;
+Reading QA41E;
+Reading QA41F;
+Reading QA41G;
+Reading QA41H;
+Reading QA41I;
+Reading QA41K;
+Reading QA41L;
+Reading QA41M;
+Reading QA41N;
+Reading QA41P;
+Reading QA41R;
+Reading QA41S;
+Reading QA41T;
+Reading QA41V;
+Reading QA41W;
+Reading QA41Y;
+Reading GA42A;
+Reading GA42C;
+Reading GA42D;
+Reading GA42E;
+Reading GA42F;
+Reading GA42H;
+Reading GA42I;
+Reading GA42K;
+Reading GA42L;
+Reading GA42M;
+Reading GA42N;
+Reading GA42P;
+Reading GA42Q;
+Reading GA42R;
+Reading GA42S;
+Reading GA42T;
+Reading GA42V;
+Reading GA42W;
+Reading GA42Y;
+Reading SA43A;
+Reading SA43C;
+Mutating residue = GLYA40 into MET
+Mutating residue = GLYA40 into ASN
+Mutating residue = GLYA40 into PRO
+Mutating residue = GLYA40 into GLN
+Mutating residue = GLYA40 into ARG
+Mutating residue = GLYA40 into SER
+Mutating residue = GLYA40 into THR
+Mutating residue = GLYA40 into VAL
+Mutating residue = GLYA40 into TRP
+Mutating residue = GLYA40 into TYR
+Mutating residue = GLNA41 into ALA
+Mutating residue = GLNA41 into CYS
+Mutating residue = GLNA41 into ASP
+Mutating residue = GLNA41 into GLU
+Mutating residue = GLNA41 into PHE
+Mutating residue = GLNA41 into GLY
+Mutating residue = GLNA41 into HIS
+Mutating residue = GLNA41 into ILE
+Mutating residue = GLNA41 into LYS
+Mutating residue = GLNA41 into LEU
+Mutating residue = GLNA41 into MET
+Mutating residue = GLNA41 into ASN
+Mutating residue = GLNA41 into PRO
+Mutating residue = GLNA41 into ARG
+Mutating residue = GLNA41 into SER
+Mutating residue = GLNA41 into THR
+Mutating residue = GLNA41 into VAL
+Mutating residue = GLNA41 into TRP
+Mutating residue = GLNA41 into TYR
+Mutating residue = GLYA42 into ALA
+Mutating residue = GLYA42 into CYS
+Mutating residue = GLYA42 into ASP
+Mutating residue = GLYA42 into GLU
+Mutating residue = GLYA42 into PHE
+Mutating residue = GLYA42 into HIS
+Mutating residue = GLYA42 into ILE
+Mutating residue = GLYA42 into LYS
+Mutating residue = GLYA42 into LEU
+Mutating residue = GLYA42 into MET
+Mutating residue = GLYA42 into ASN
+Mutating residue = GLYA42 into PRO
+Mutating residue = GLYA42 into GLN
+Mutating residue = GLYA42 into ARG
+Mutating residue = GLYA42 into SER
+Mutating residue = GLYA42 into THR
+Mutating residue = GLYA42 into VAL
+Mutating residue = GLYA42 into TRP
+Mutating residue = GLYA42 into TYR
+Mutating residue = SERA43 into ALA
+Mutating residue = SERA43 into CYS
+Your file run OK
+End time of FoldX: Sun May 17 01:02:52 2026
+Total time spend: 34.085 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

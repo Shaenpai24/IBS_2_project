@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading GA116T;
+Reading GA116V;
+Reading GA116W;
+Reading GA116Y;
+Reading LA117A;
+Reading LA117C;
+Reading LA117D;
+Reading LA117E;
+Reading LA117F;
+Reading LA117G;
+Reading LA117H;
+Reading LA117I;
+Reading LA117K;
+Reading LA117M;
+Reading LA117N;
+Reading LA117P;
+Reading LA117Q;
+Reading LA117R;
+Reading LA117S;
+Reading LA117T;
+Reading LA117V;
+Reading LA117W;
+Reading LA117Y;
+Reading GA118A;
+Reading GA118C;
+Reading GA118D;
+Reading GA118E;
+Reading GA118F;
+Reading GA118H;
+Reading GA118I;
+Reading GA118K;
+Reading GA118L;
+Reading GA118M;
+Reading GA118N;
+Reading GA118P;
+Reading GA118Q;
+Reading GA118R;
+Reading GA118S;
+Reading GA118T;
+Reading GA118V;
+Reading GA118W;
+Reading GA118Y;
+Reading GA119A;
+Reading GA119C;
+Reading GA119D;
+Reading GA119E;
+Reading GA119F;
+Reading GA119H;
+Reading GA119I;
+Reading GA119K;
+GA116T	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: GA116T in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00045\individual_list_batch_00045.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

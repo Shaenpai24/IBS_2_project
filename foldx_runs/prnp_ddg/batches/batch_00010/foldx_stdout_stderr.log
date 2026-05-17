@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading KA24R;
+Reading KA24S;
+Reading KA24T;
+Reading KA24V;
+Reading KA24W;
+Reading KA24Y;
+Reading RA25A;
+Reading RA25C;
+Reading RA25D;
+Reading RA25E;
+Reading RA25F;
+Reading RA25G;
+Reading RA25H;
+Reading RA25I;
+Reading RA25K;
+Reading RA25L;
+Reading RA25M;
+Reading RA25N;
+Reading RA25P;
+Reading RA25Q;
+Reading RA25S;
+Reading RA25T;
+Reading RA25V;
+Reading RA25W;
+Reading RA25Y;
+Reading PA26A;
+Reading PA26C;
+Reading PA26D;
+Reading PA26E;
+Reading PA26F;
+Reading PA26G;
+Reading PA26H;
+Reading PA26I;
+Reading PA26K;
+Reading PA26L;
+Reading PA26M;
+Reading PA26N;
+Reading PA26Q;
+Reading PA26R;
+Reading PA26S;
+Reading PA26T;
+Reading PA26V;
+Reading PA26W;
+Reading PA26Y;
+Reading KA27A;
+Reading KA27C;
+Reading KA27D;
+Reading KA27E;
+Reading KA27F;
+Reading KA27G;
+Mutating residue = LYSA24 into ARG
+Mutating residue = LYSA24 into SER
+Mutating residue = LYSA24 into THR
+Mutating residue = LYSA24 into VAL
+Mutating residue = LYSA24 into TRP
+Mutating residue = LYSA24 into TYR
+Mutating residue = ARGA25 into ALA
+Mutating residue = ARGA25 into CYS
+Mutating residue = ARGA25 into ASP
+Mutating residue = ARGA25 into GLU
+Mutating residue = ARGA25 into PHE
+Mutating residue = ARGA25 into GLY
+Mutating residue = ARGA25 into HIS
+Mutating residue = ARGA25 into ILE
+Mutating residue = ARGA25 into LYS
+Mutating residue = ARGA25 into LEU
+Mutating residue = ARGA25 into MET
+Mutating residue = ARGA25 into ASN
+Mutating residue = ARGA25 into PRO
+Mutating residue = ARGA25 into GLN
+Mutating residue = ARGA25 into SER
+Mutating residue = ARGA25 into THR
+Mutating residue = ARGA25 into VAL
+Mutating residue = ARGA25 into TRP
+Mutating residue = ARGA25 into TYR
+Mutating residue = PROA26 into ALA
+Mutating residue = PROA26 into CYS
+Mutating residue = PROA26 into ASP
+Mutating residue = PROA26 into GLU
+Mutating residue = PROA26 into PHE
+Mutating residue = PROA26 into GLY
+Mutating residue = PROA26 into HIS
+Mutating residue = PROA26 into ILE
+Mutating residue = PROA26 into LYS
+Mutating residue = PROA26 into LEU
+Mutating residue = PROA26 into MET
+Mutating residue = PROA26 into ASN
+Mutating residue = PROA26 into GLN
+Mutating residue = PROA26 into ARG
+Mutating residue = PROA26 into SER
+Mutating residue = PROA26 into THR
+Mutating residue = PROA26 into VAL
+Mutating residue = PROA26 into TRP
+Mutating residue = PROA26 into TYR
+Mutating residue = LYSA27 into ALA
+Mutating residue = LYSA27 into CYS
+Mutating residue = LYSA27 into ASP
+Mutating residue = LYSA27 into GLU
+Mutating residue = LYSA27 into PHE
+Mutating residue = LYSA27 into GLY
+Your file run OK
+End time of FoldX: Sun May 17 00:57:56 2026
+Total time spend: 257.146 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

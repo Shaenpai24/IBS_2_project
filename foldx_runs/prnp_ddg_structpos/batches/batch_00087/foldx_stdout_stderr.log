@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading FA235I;
+Reading FA235K;
+Reading FA235L;
+Reading FA235M;
+Reading FA235N;
+Reading FA235P;
+Reading FA235Q;
+Reading FA235R;
+Reading FA235S;
+Reading FA235T;
+Reading FA235V;
+Reading FA235W;
+Reading FA235Y;
+Reading SA236A;
+Reading SA236C;
+Reading SA236D;
+Reading SA236E;
+Reading SA236F;
+Reading SA236G;
+Reading SA236H;
+Reading SA236I;
+Reading SA236K;
+Reading SA236L;
+Reading SA236M;
+Reading SA236N;
+Reading SA236P;
+Reading SA236Q;
+Reading SA236R;
+Reading SA236T;
+Reading SA236V;
+Reading SA236W;
+Reading SA236Y;
+Reading SA237A;
+Reading SA237C;
+Reading SA237D;
+Reading SA237E;
+Reading SA237F;
+Reading SA237G;
+Reading SA237H;
+Reading SA237I;
+Reading SA237K;
+Reading SA237L;
+Reading SA237M;
+Reading SA237N;
+Reading SA237P;
+Reading SA237Q;
+Reading SA237R;
+Reading SA237T;
+Reading SA237V;
+Reading SA237W;
+Mutating residue = PHEA235 into ILE
+Mutating residue = PHEA235 into LYS
+Mutating residue = PHEA235 into LEU
+Mutating residue = PHEA235 into MET
+Mutating residue = PHEA235 into ASN
+Mutating residue = PHEA235 into PRO
+Mutating residue = PHEA235 into GLN
+Mutating residue = PHEA235 into ARG
+Mutating residue = PHEA235 into SER
+Mutating residue = PHEA235 into THR
+Mutating residue = PHEA235 into VAL
+Mutating residue = PHEA235 into TRP
+Mutating residue = PHEA235 into TYR
+Mutating residue = SERA236 into ALA
+Mutating residue = SERA236 into CYS
+Mutating residue = SERA236 into ASP
+Mutating residue = SERA236 into GLU
+Mutating residue = SERA236 into PHE
+Mutating residue = SERA236 into GLY
+Mutating residue = SERA236 into HIS
+Mutating residue = SERA236 into ILE
+Mutating residue = SERA236 into LYS
+Mutating residue = SERA236 into LEU
+Mutating residue = SERA236 into MET
+Mutating residue = SERA236 into ASN
+Mutating residue = SERA236 into PRO
+Mutating residue = SERA236 into GLN
+Mutating residue = SERA236 into ARG
+Mutating residue = SERA236 into THR
+Mutating residue = SERA236 into VAL
+Mutating residue = SERA236 into TRP
+Mutating residue = SERA236 into TYR
+Mutating residue = SERA237 into ALA
+Mutating residue = SERA237 into CYS
+Mutating residue = SERA237 into ASP
+Mutating residue = SERA237 into GLU
+Mutating residue = SERA237 into PHE
+Mutating residue = SERA237 into GLY
+Mutating residue = SERA237 into HIS
+Mutating residue = SERA237 into ILE
+Mutating residue = SERA237 into LYS
+Mutating residue = SERA237 into LEU
+Mutating residue = SERA237 into MET
+Mutating residue = SERA237 into ASN
+Mutating residue = SERA237 into PRO
+Mutating residue = SERA237 into GLN
+Mutating residue = SERA237 into ARG
+Mutating residue = SERA237 into THR
+Mutating residue = SERA237 into VAL
+Mutating residue = SERA237 into TRP
+Your file run OK
+End time of FoldX: Sun May 17 15:55:54 2026
+Total time spend: 107.876 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading GA82P;
+Reading GA82Q;
+Reading GA82R;
+Reading GA82S;
+Reading GA82T;
+Reading GA82V;
+Reading GA82W;
+Reading GA82Y;
+Reading QA83A;
+Reading QA83C;
+Reading QA83D;
+Reading QA83E;
+Reading QA83F;
+Reading QA83G;
+Reading QA83H;
+Reading QA83I;
+Reading QA83K;
+Reading QA83L;
+Reading QA83M;
+Reading QA83N;
+Reading QA83P;
+Reading QA83R;
+Reading QA83S;
+Reading QA83T;
+Reading QA83V;
+Reading QA83W;
+Reading QA83Y;
+Reading GA84A;
+Reading GA84C;
+Reading GA84D;
+Reading GA84E;
+Reading GA84F;
+Reading GA84H;
+Reading GA84I;
+Reading GA84K;
+Reading GA84L;
+Reading GA84M;
+Reading GA84N;
+Reading GA84P;
+Reading GA84Q;
+Reading GA84R;
+Reading GA84S;
+Reading GA84T;
+Reading GA84V;
+Reading GA84W;
+Reading GA84Y;
+Reading GA85A;
+Reading GA85C;
+Reading GA85D;
+Reading GA85E;
+GA84A	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: GA84A in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00032\individual_list_batch_00032.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

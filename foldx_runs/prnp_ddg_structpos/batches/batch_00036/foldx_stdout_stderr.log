@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading KA101D;
+Reading KA101E;
+Reading KA101F;
+Reading KA101G;
+Reading KA101H;
+Reading KA101I;
+Reading KA101L;
+Reading KA101M;
+Reading KA101N;
+Reading KA101P;
+Reading KA101Q;
+Reading KA101R;
+Reading KA101S;
+Reading KA101T;
+Reading KA101V;
+Reading KA101W;
+Reading KA101Y;
+Reading PA102A;
+Reading PA102C;
+Reading PA102D;
+Reading PA102E;
+Reading PA102F;
+Reading PA102G;
+Reading PA102H;
+Reading PA102I;
+Reading PA102K;
+Reading PA102L;
+Reading PA102M;
+Reading PA102N;
+Reading PA102Q;
+Reading PA102R;
+Reading PA102S;
+Reading PA102T;
+Reading PA102V;
+Reading PA102W;
+Reading PA102Y;
+Reading SA103A;
+Reading SA103C;
+Reading SA103D;
+Reading SA103E;
+Reading SA103F;
+Reading SA103G;
+Reading SA103H;
+Reading SA103I;
+Reading SA103K;
+Reading SA103L;
+Reading SA103M;
+Reading SA103N;
+Reading SA103P;
+Reading SA103Q;
+Mutating residue = LYSA101 into ASP
+Mutating residue = LYSA101 into GLU
+Mutating residue = LYSA101 into PHE
+Mutating residue = LYSA101 into GLY
+Mutating residue = LYSA101 into HIS
+Mutating residue = LYSA101 into ILE
+Mutating residue = LYSA101 into LEU
+Mutating residue = LYSA101 into MET
+Mutating residue = LYSA101 into ASN
+Mutating residue = LYSA101 into PRO
+Mutating residue = LYSA101 into GLN
+Mutating residue = LYSA101 into ARG
+Mutating residue = LYSA101 into SER
+Mutating residue = LYSA101 into THR
+Mutating residue = LYSA101 into VAL
+Mutating residue = LYSA101 into TRP
+Mutating residue = LYSA101 into TYR
+Mutating residue = PROA102 into ALA
+Mutating residue = PROA102 into CYS
+Mutating residue = PROA102 into ASP
+Mutating residue = PROA102 into GLU
+Mutating residue = PROA102 into PHE
+Mutating residue = PROA102 into GLY
+Mutating residue = PROA102 into HIS
+Mutating residue = PROA102 into ILE
+Mutating residue = PROA102 into LYS
+Mutating residue = PROA102 into LEU
+Mutating residue = PROA102 into MET
+Mutating residue = PROA102 into ASN
+Mutating residue = PROA102 into GLN
+Mutating residue = PROA102 into ARG
+Mutating residue = PROA102 into SER
+Mutating residue = PROA102 into THR
+Mutating residue = PROA102 into VAL
+Mutating residue = PROA102 into TRP
+Mutating residue = PROA102 into TYR
+Mutating residue = SERA103 into ALA
+Mutating residue = SERA103 into CYS
+Mutating residue = SERA103 into ASP
+Mutating residue = SERA103 into GLU
+Mutating residue = SERA103 into PHE
+Mutating residue = SERA103 into GLY
+Mutating residue = SERA103 into HIS
+Mutating residue = SERA103 into ILE
+Mutating residue = SERA103 into LYS
+Mutating residue = SERA103 into LEU
+Mutating residue = SERA103 into MET
+Mutating residue = SERA103 into ASN
+Mutating residue = SERA103 into PRO
+Mutating residue = SERA103 into GLN
+Your file run OK
+End time of FoldX: Sun May 17 02:11:52 2026
+Total time spend: 331.969 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

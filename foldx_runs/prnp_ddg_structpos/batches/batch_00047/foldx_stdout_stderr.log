@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading LA130C;
+Reading LA130D;
+Reading LA130E;
+Reading LA130F;
+Reading LA130G;
+Reading LA130H;
+Reading LA130I;
+Reading LA130K;
+Reading LA130M;
+Reading LA130N;
+Reading LA130P;
+Reading LA130Q;
+Reading LA130R;
+Reading LA130S;
+Reading LA130T;
+Reading LA130V;
+Reading LA130W;
+Reading LA130Y;
+Reading GA131A;
+Reading GA131C;
+Reading GA131D;
+Reading GA131E;
+Reading GA131F;
+Reading GA131H;
+Reading GA131I;
+Reading GA131K;
+Reading GA131L;
+Reading GA131M;
+Reading GA131N;
+Reading GA131P;
+Reading GA131Q;
+Reading GA131R;
+Reading GA131S;
+Reading GA131T;
+Reading GA131V;
+Reading GA131W;
+Reading GA131Y;
+Reading SA132A;
+Reading SA132C;
+Reading SA132D;
+Reading SA132E;
+Reading SA132F;
+Reading SA132G;
+Reading SA132H;
+Reading SA132I;
+Reading SA132K;
+Reading SA132L;
+Reading SA132M;
+Reading SA132N;
+Reading SA132P;
+Mutating residue = LEUA130 into CYS
+Mutating residue = LEUA130 into ASP
+Mutating residue = LEUA130 into GLU
+Mutating residue = LEUA130 into PHE
+Mutating residue = LEUA130 into GLY
+Mutating residue = LEUA130 into HIS
+Mutating residue = LEUA130 into ILE
+Mutating residue = LEUA130 into LYS
+Mutating residue = LEUA130 into MET
+Mutating residue = LEUA130 into ASN
+Mutating residue = LEUA130 into PRO
+Mutating residue = LEUA130 into GLN
+Mutating residue = LEUA130 into ARG
+Mutating residue = LEUA130 into SER
+Mutating residue = LEUA130 into THR
+Mutating residue = LEUA130 into VAL
+Mutating residue = LEUA130 into TRP
+Mutating residue = LEUA130 into TYR
+Mutating residue = GLYA131 into ALA
+Mutating residue = GLYA131 into CYS
+Mutating residue = GLYA131 into ASP
+Mutating residue = GLYA131 into GLU
+Mutating residue = GLYA131 into PHE
+Mutating residue = GLYA131 into HIS
+Mutating residue = GLYA131 into ILE
+Mutating residue = GLYA131 into LYS
+Mutating residue = GLYA131 into LEU
+Mutating residue = GLYA131 into MET
+Mutating residue = GLYA131 into ASN
+Mutating residue = GLYA131 into PRO
+Mutating residue = GLYA131 into GLN
+Mutating residue = GLYA131 into ARG
+Mutating residue = GLYA131 into SER
+Mutating residue = GLYA131 into THR
+Mutating residue = GLYA131 into VAL
+Mutating residue = GLYA131 into TRP
+Mutating residue = GLYA131 into TYR
+Mutating residue = SERA132 into ALA
+Mutating residue = SERA132 into CYS
+Mutating residue = SERA132 into ASP
+Mutating residue = SERA132 into GLU
+Mutating residue = SERA132 into PHE
+Mutating residue = SERA132 into GLY
+Mutating residue = SERA132 into HIS
+Mutating residue = SERA132 into ILE
+Mutating residue = SERA132 into LYS
+Mutating residue = SERA132 into LEU
+Mutating residue = SERA132 into MET
+Mutating residue = SERA132 into ASN
+Mutating residue = SERA132 into PRO
+Your file run OK
+End time of FoldX: Sun May 17 12:08:22 2026
+Total time spend: 366.936 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

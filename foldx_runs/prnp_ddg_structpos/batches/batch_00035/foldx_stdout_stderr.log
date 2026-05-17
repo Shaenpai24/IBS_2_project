@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading QA98L;
+Reading QA98M;
+Reading QA98N;
+Reading QA98P;
+Reading QA98R;
+Reading QA98S;
+Reading QA98T;
+Reading QA98V;
+Reading QA98W;
+Reading QA98Y;
+Reading WA99A;
+Reading WA99C;
+Reading WA99D;
+Reading WA99E;
+Reading WA99F;
+Reading WA99G;
+Reading WA99H;
+Reading WA99I;
+Reading WA99K;
+Reading WA99L;
+Reading WA99M;
+Reading WA99N;
+Reading WA99P;
+Reading WA99Q;
+Reading WA99R;
+Reading WA99S;
+Reading WA99T;
+Reading WA99V;
+Reading WA99Y;
+Reading NA100A;
+Reading NA100C;
+Reading NA100D;
+Reading NA100E;
+Reading NA100F;
+Reading NA100G;
+Reading NA100H;
+Reading NA100I;
+Reading NA100K;
+Reading NA100L;
+Reading NA100M;
+Reading NA100P;
+Reading NA100Q;
+Reading NA100R;
+Reading NA100S;
+Reading NA100T;
+Reading NA100V;
+Reading NA100W;
+Reading NA100Y;
+Reading KA101A;
+Reading KA101C;
+Mutating residue = GLNA98 into LEU
+Mutating residue = GLNA98 into MET
+Mutating residue = GLNA98 into ASN
+Mutating residue = GLNA98 into PRO
+Mutating residue = GLNA98 into ARG
+Mutating residue = GLNA98 into SER
+Mutating residue = GLNA98 into THR
+Mutating residue = GLNA98 into VAL
+Mutating residue = GLNA98 into TRP
+Mutating residue = GLNA98 into TYR
+Mutating residue = TRPA99 into ALA
+Mutating residue = TRPA99 into CYS
+Mutating residue = TRPA99 into ASP
+Mutating residue = TRPA99 into GLU
+Mutating residue = TRPA99 into PHE
+Mutating residue = TRPA99 into GLY
+Mutating residue = TRPA99 into HIS
+Mutating residue = TRPA99 into ILE
+Mutating residue = TRPA99 into LYS
+Mutating residue = TRPA99 into LEU
+Mutating residue = TRPA99 into MET
+Mutating residue = TRPA99 into ASN
+Mutating residue = TRPA99 into PRO
+Mutating residue = TRPA99 into GLN
+Mutating residue = TRPA99 into ARG
+Mutating residue = TRPA99 into SER
+Mutating residue = TRPA99 into THR
+Mutating residue = TRPA99 into VAL
+Mutating residue = TRPA99 into TYR
+Mutating residue = ASNA100 into ALA
+Mutating residue = ASNA100 into CYS
+Mutating residue = ASNA100 into ASP
+Mutating residue = ASNA100 into GLU
+Mutating residue = ASNA100 into PHE
+Mutating residue = ASNA100 into GLY
+Mutating residue = ASNA100 into HIS
+Mutating residue = ASNA100 into ILE
+Mutating residue = ASNA100 into LYS
+Mutating residue = ASNA100 into LEU
+Mutating residue = ASNA100 into MET
+Mutating residue = ASNA100 into PRO
+Mutating residue = ASNA100 into GLN
+Mutating residue = ASNA100 into ARG
+Mutating residue = ASNA100 into SER
+Mutating residue = ASNA100 into THR
+Mutating residue = ASNA100 into VAL
+Mutating residue = ASNA100 into TRP
+Mutating residue = ASNA100 into TYR
+Mutating residue = LYSA101 into ALA
+Mutating residue = LYSA101 into CYS
+Your file run OK
+End time of FoldX: Sun May 17 02:06:20 2026
+Total time spend: 131.442 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading KA27H;
+Reading KA27I;
+Reading KA27L;
+Reading KA27M;
+Reading KA27N;
+Reading KA27P;
+Reading KA27Q;
+Reading KA27R;
+Reading KA27S;
+Reading KA27T;
+Reading KA27V;
+Reading KA27W;
+Reading KA27Y;
+Reading PA28A;
+Reading PA28C;
+Reading PA28D;
+Reading PA28E;
+Reading PA28F;
+Reading PA28G;
+Reading PA28H;
+Reading PA28I;
+Reading PA28K;
+Reading PA28L;
+Reading PA28M;
+Reading PA28N;
+Reading PA28Q;
+Reading PA28R;
+Reading PA28S;
+Reading PA28T;
+Reading PA28V;
+Reading PA28W;
+Reading PA28Y;
+Reading GA29A;
+Reading GA29C;
+Reading GA29D;
+Reading GA29E;
+Reading GA29F;
+Reading GA29H;
+Reading GA29I;
+Reading GA29K;
+Reading GA29L;
+Reading GA29M;
+Reading GA29N;
+Reading GA29P;
+Reading GA29Q;
+Reading GA29R;
+Reading GA29S;
+Reading GA29T;
+Reading GA29V;
+Reading GA29W;
+Mutating residue = LYSA27 into HIS
+Mutating residue = LYSA27 into ILE
+Mutating residue = LYSA27 into LEU
+Mutating residue = LYSA27 into MET
+Mutating residue = LYSA27 into ASN
+Mutating residue = LYSA27 into PRO
+Mutating residue = LYSA27 into GLN
+Mutating residue = LYSA27 into ARG
+Mutating residue = LYSA27 into SER
+Mutating residue = LYSA27 into THR
+Mutating residue = LYSA27 into VAL
+Mutating residue = LYSA27 into TRP
+Mutating residue = LYSA27 into TYR
+Mutating residue = PROA28 into ALA
+Mutating residue = PROA28 into CYS
+Mutating residue = PROA28 into ASP
+Mutating residue = PROA28 into GLU
+Mutating residue = PROA28 into PHE
+Mutating residue = PROA28 into GLY
+Mutating residue = PROA28 into HIS
+Mutating residue = PROA28 into ILE
+Mutating residue = PROA28 into LYS
+Mutating residue = PROA28 into LEU
+Mutating residue = PROA28 into MET
+Mutating residue = PROA28 into ASN
+Mutating residue = PROA28 into GLN
+Mutating residue = PROA28 into ARG
+Mutating residue = PROA28 into SER
+Mutating residue = PROA28 into THR
+Mutating residue = PROA28 into VAL
+Mutating residue = PROA28 into TRP
+Mutating residue = PROA28 into TYR
+Mutating residue = GLYA29 into ALA
+Mutating residue = GLYA29 into CYS
+Mutating residue = GLYA29 into ASP
+Mutating residue = GLYA29 into GLU
+Mutating residue = GLYA29 into PHE
+Mutating residue = GLYA29 into HIS
+Mutating residue = GLYA29 into ILE
+Mutating residue = GLYA29 into LYS
+Mutating residue = GLYA29 into LEU
+Mutating residue = GLYA29 into MET
+Mutating residue = GLYA29 into ASN
+Mutating residue = GLYA29 into PRO
+Mutating residue = GLYA29 into GLN
+Mutating residue = GLYA29 into ARG
+Mutating residue = GLYA29 into SER
+Mutating residue = GLYA29 into THR
+Mutating residue = GLYA29 into VAL
+Mutating residue = GLYA29 into TRP
+Your file run OK
+End time of FoldX: Sun May 17 01:52:57 2026
+Total time spend: 128.528 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

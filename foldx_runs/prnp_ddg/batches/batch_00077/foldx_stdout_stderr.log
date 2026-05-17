@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading VA201A;
+Reading VA201C;
+Reading VA201D;
+Reading VA201E;
+Reading VA201F;
+Reading VA201G;
+Reading VA201H;
+Reading VA201I;
+Reading VA201K;
+Reading VA201L;
+Reading VA201M;
+Reading VA201N;
+Reading VA201P;
+Reading VA201Q;
+Reading VA201R;
+Reading VA201S;
+Reading VA201T;
+Reading VA201W;
+Reading VA201Y;
+Reading VA202A;
+Reading VA202C;
+Reading VA202D;
+Reading VA202E;
+Reading VA202F;
+Reading VA202G;
+Reading VA202H;
+Reading VA202I;
+Reading VA202K;
+Reading VA202L;
+Reading VA202M;
+Reading VA202N;
+Reading VA202P;
+Reading VA202Q;
+Reading VA202R;
+Reading VA202S;
+Reading VA202T;
+Reading VA202W;
+Reading VA202Y;
+Reading EA203A;
+Reading EA203C;
+Reading EA203D;
+Reading EA203F;
+Reading EA203G;
+Reading EA203H;
+Reading EA203I;
+Reading EA203K;
+Reading EA203L;
+Reading EA203M;
+Reading EA203N;
+Reading EA203P;
+VA201A	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: VA201A in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00077\individual_list_batch_00077.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

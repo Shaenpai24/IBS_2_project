@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading GA124T;
+Reading GA124V;
+Reading GA124W;
+Reading GA124Y;
+Reading LA125A;
+Reading LA125C;
+Reading LA125D;
+Reading LA125E;
+Reading LA125F;
+Reading LA125G;
+Reading LA125H;
+Reading LA125I;
+Reading LA125K;
+Reading LA125M;
+Reading LA125N;
+Reading LA125P;
+Reading LA125Q;
+Reading LA125R;
+Reading LA125S;
+Reading LA125T;
+Reading LA125V;
+Reading LA125W;
+Reading LA125Y;
+Reading GA126A;
+Reading GA126C;
+Reading GA126D;
+Reading GA126E;
+Reading GA126F;
+Reading GA126H;
+Reading GA126I;
+Reading GA126K;
+Reading GA126L;
+Reading GA126M;
+Reading GA126N;
+Reading GA126P;
+Reading GA126Q;
+Reading GA126R;
+Reading GA126S;
+Reading GA126T;
+Reading GA126V;
+Reading GA126W;
+Reading GA126Y;
+Reading GA127A;
+Reading GA127C;
+Reading GA127D;
+Reading GA127E;
+Reading GA127F;
+Reading GA127H;
+Reading GA127I;
+Reading GA127K;
+Mutating residue = GLYA124 into THR
+Mutating residue = GLYA124 into VAL
+Mutating residue = GLYA124 into TRP
+Mutating residue = GLYA124 into TYR
+Mutating residue = LEUA125 into ALA
+Mutating residue = LEUA125 into CYS
+Mutating residue = LEUA125 into ASP
+Mutating residue = LEUA125 into GLU
+Mutating residue = LEUA125 into PHE
+Mutating residue = LEUA125 into GLY
+Mutating residue = LEUA125 into HIS
+Mutating residue = LEUA125 into ILE
+Mutating residue = LEUA125 into LYS
+Mutating residue = LEUA125 into MET
+Mutating residue = LEUA125 into ASN
+Mutating residue = LEUA125 into PRO
+Mutating residue = LEUA125 into GLN
+Mutating residue = LEUA125 into ARG
+Mutating residue = LEUA125 into SER
+Mutating residue = LEUA125 into THR
+Mutating residue = LEUA125 into VAL
+Mutating residue = LEUA125 into TRP
+Mutating residue = LEUA125 into TYR
+Mutating residue = GLYA126 into ALA
+Mutating residue = GLYA126 into CYS
+Mutating residue = GLYA126 into ASP
+Mutating residue = GLYA126 into GLU
+Mutating residue = GLYA126 into PHE
+Mutating residue = GLYA126 into HIS
+Mutating residue = GLYA126 into ILE
+Mutating residue = GLYA126 into LYS
+Mutating residue = GLYA126 into LEU
+Mutating residue = GLYA126 into MET
+Mutating residue = GLYA126 into ASN
+Mutating residue = GLYA126 into PRO
+Mutating residue = GLYA126 into GLN
+Mutating residue = GLYA126 into ARG
+Mutating residue = GLYA126 into SER
+Mutating residue = GLYA126 into THR
+Mutating residue = GLYA126 into VAL
+Mutating residue = GLYA126 into TRP
+Mutating residue = GLYA126 into TYR
+Mutating residue = GLYA127 into ALA
+Mutating residue = GLYA127 into CYS
+Mutating residue = GLYA127 into ASP
+Mutating residue = GLYA127 into GLU
+Mutating residue = GLYA127 into PHE
+Mutating residue = GLYA127 into HIS
+Mutating residue = GLYA127 into ILE
+Mutating residue = GLYA127 into LYS
+Your file run OK
+End time of FoldX: Sun May 17 12:02:14 2026
+Total time spend: 95.734 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

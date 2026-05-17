@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading VA114E;
+Reading VA114F;
+Reading VA114G;
+Reading VA114H;
+Reading VA114I;
+Reading VA114K;
+Reading VA114L;
+Reading VA114M;
+Reading VA114N;
+Reading VA114P;
+Reading VA114Q;
+Reading VA114R;
+Reading VA114S;
+Reading VA114T;
+Reading VA114W;
+Reading VA114Y;
+Reading GA115A;
+Reading GA115C;
+Reading GA115D;
+Reading GA115E;
+Reading GA115F;
+Reading GA115H;
+Reading GA115I;
+Reading GA115K;
+Reading GA115L;
+Reading GA115M;
+Reading GA115N;
+Reading GA115P;
+Reading GA115Q;
+Reading GA115R;
+Reading GA115S;
+Reading GA115T;
+Reading GA115V;
+Reading GA115W;
+Reading GA115Y;
+Reading GA116A;
+Reading GA116C;
+Reading GA116D;
+Reading GA116E;
+Reading GA116F;
+Reading GA116H;
+Reading GA116I;
+Reading GA116K;
+Reading GA116L;
+Reading GA116M;
+Reading GA116N;
+Reading GA116P;
+Reading GA116Q;
+Reading GA116R;
+Reading GA116S;
+VA114E	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: VA114E in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00044\individual_list_batch_00044.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

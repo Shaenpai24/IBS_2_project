@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading HA132P;
+Reading HA132Q;
+Reading HA132R;
+Reading HA132S;
+Reading HA132T;
+Reading HA132V;
+Reading HA132W;
+Reading HA132Y;
+Reading FA133A;
+Reading FA133C;
+Reading FA133D;
+Reading FA133E;
+Reading FA133G;
+Reading FA133H;
+Reading FA133I;
+Reading FA133K;
+Reading FA133L;
+Reading FA133M;
+Reading FA133N;
+Reading FA133P;
+Reading FA133Q;
+Reading FA133R;
+Reading FA133S;
+Reading FA133T;
+Reading FA133V;
+Reading FA133W;
+Reading FA133Y;
+Reading GA134A;
+Reading GA134C;
+Reading GA134D;
+Reading GA134E;
+Reading GA134F;
+Reading GA134H;
+Reading GA134I;
+Reading GA134K;
+Reading GA134L;
+Reading GA134M;
+Reading GA134N;
+Reading GA134P;
+Reading GA134Q;
+Reading GA134R;
+Reading GA134S;
+Reading GA134T;
+Reading GA134V;
+Reading GA134W;
+Reading GA134Y;
+Reading SA135A;
+Reading SA135C;
+Reading SA135D;
+Reading SA135E;
+HA132P	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: HA132P in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00051\individual_list_batch_00051.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

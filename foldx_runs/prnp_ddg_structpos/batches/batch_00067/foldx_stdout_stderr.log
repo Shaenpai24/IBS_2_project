@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading IA182R;
+Reading IA182S;
+Reading IA182T;
+Reading IA182V;
+Reading IA182W;
+Reading IA182Y;
+Reading TA183A;
+Reading TA183C;
+Reading TA183D;
+Reading TA183E;
+Reading TA183F;
+Reading TA183G;
+Reading TA183H;
+Reading TA183I;
+Reading TA183K;
+Reading TA183L;
+Reading TA183M;
+Reading TA183N;
+Reading TA183P;
+Reading TA183Q;
+Reading TA183R;
+Reading TA183S;
+Reading TA183V;
+Reading TA183W;
+Reading TA183Y;
+Reading IA184A;
+Reading IA184C;
+Reading IA184D;
+Reading IA184E;
+Reading IA184F;
+Reading IA184G;
+Reading IA184H;
+Reading IA184K;
+Reading IA184L;
+Reading IA184M;
+Reading IA184N;
+Reading IA184P;
+Reading IA184Q;
+Reading IA184R;
+Reading IA184S;
+Reading IA184T;
+Reading IA184V;
+Reading IA184W;
+Reading IA184Y;
+Reading KA185A;
+Reading KA185C;
+Reading KA185D;
+Reading KA185E;
+Reading KA185F;
+Reading KA185G;
+Mutating residue = ILEA182 into ARG
+Mutating residue = ILEA182 into SER
+Mutating residue = ILEA182 into THR
+Mutating residue = ILEA182 into VAL
+Mutating residue = ILEA182 into TRP
+Mutating residue = ILEA182 into TYR
+Mutating residue = THRA183 into ALA
+Mutating residue = THRA183 into CYS
+Mutating residue = THRA183 into ASP
+Mutating residue = THRA183 into GLU
+Mutating residue = THRA183 into PHE
+Mutating residue = THRA183 into GLY
+Mutating residue = THRA183 into HIS
+Mutating residue = THRA183 into ILE
+Mutating residue = THRA183 into LYS
+Mutating residue = THRA183 into LEU
+Mutating residue = THRA183 into MET
+Mutating residue = THRA183 into ASN
+Mutating residue = THRA183 into PRO
+Mutating residue = THRA183 into GLN
+Mutating residue = THRA183 into ARG
+Mutating residue = THRA183 into SER
+Mutating residue = THRA183 into VAL
+Mutating residue = THRA183 into TRP
+Mutating residue = THRA183 into TYR
+Mutating residue = ILEA184 into ALA
+Mutating residue = ILEA184 into CYS
+Mutating residue = ILEA184 into ASP
+Mutating residue = ILEA184 into GLU
+Mutating residue = ILEA184 into PHE
+Mutating residue = ILEA184 into GLY
+Mutating residue = ILEA184 into HIS
+Mutating residue = ILEA184 into LYS
+Mutating residue = ILEA184 into LEU
+Mutating residue = ILEA184 into MET
+Mutating residue = ILEA184 into ASN
+Mutating residue = ILEA184 into PRO
+Mutating residue = ILEA184 into GLN
+Mutating residue = ILEA184 into ARG
+Mutating residue = ILEA184 into SER
+Mutating residue = ILEA184 into THR
+Mutating residue = ILEA184 into VAL
+Mutating residue = ILEA184 into TRP
+Mutating residue = ILEA184 into TYR
+Mutating residue = LYSA185 into ALA
+Mutating residue = LYSA185 into CYS
+Mutating residue = LYSA185 into ASP
+Mutating residue = LYSA185 into GLU
+Mutating residue = LYSA185 into PHE
+Mutating residue = LYSA185 into GLY
+Your file run OK
+End time of FoldX: Sun May 17 13:57:14 2026
+Total time spend: 604.571 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

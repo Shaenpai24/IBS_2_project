@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading MA206I;
+Reading MA206K;
+Reading MA206L;
+Reading MA206N;
+Reading MA206P;
+Reading MA206Q;
+Reading MA206R;
+Reading MA206S;
+Reading MA206T;
+Reading MA206V;
+Reading MA206W;
+Reading MA206Y;
+Reading EA207A;
+Reading EA207C;
+Reading EA207D;
+Reading EA207F;
+Reading EA207G;
+Reading EA207H;
+Reading EA207I;
+Reading EA207K;
+Reading EA207L;
+Reading EA207M;
+Reading EA207N;
+Reading EA207P;
+Reading EA207Q;
+Reading EA207R;
+Reading EA207S;
+Reading EA207T;
+Reading EA207V;
+Reading EA207W;
+Reading EA207Y;
+Reading RA208A;
+Reading RA208C;
+Reading RA208D;
+Reading RA208E;
+Reading RA208F;
+Reading RA208G;
+Reading RA208H;
+Reading RA208I;
+Reading RA208K;
+Reading RA208L;
+Reading RA208M;
+Reading RA208N;
+Reading RA208P;
+Reading RA208Q;
+Reading RA208S;
+Reading RA208T;
+Reading RA208V;
+Reading RA208W;
+Reading RA208Y;
+Mutating residue = META206 into ILE
+Mutating residue = META206 into LYS
+Mutating residue = META206 into LEU
+Mutating residue = META206 into ASN
+Mutating residue = META206 into PRO
+Mutating residue = META206 into GLN
+Mutating residue = META206 into ARG
+Mutating residue = META206 into SER
+Mutating residue = META206 into THR
+Mutating residue = META206 into VAL
+Mutating residue = META206 into TRP
+Mutating residue = META206 into TYR
+Mutating residue = GLUA207 into ALA
+Mutating residue = GLUA207 into CYS
+Mutating residue = GLUA207 into ASP
+Mutating residue = GLUA207 into PHE
+Mutating residue = GLUA207 into GLY
+Mutating residue = GLUA207 into HIS
+Mutating residue = GLUA207 into ILE
+Mutating residue = GLUA207 into LYS
+Mutating residue = GLUA207 into LEU
+Mutating residue = GLUA207 into MET
+Mutating residue = GLUA207 into ASN
+Mutating residue = GLUA207 into PRO
+Mutating residue = GLUA207 into GLN
+Mutating residue = GLUA207 into ARG
+Mutating residue = GLUA207 into SER
+Mutating residue = GLUA207 into THR
+Mutating residue = GLUA207 into VAL
+Mutating residue = GLUA207 into TRP
+Mutating residue = GLUA207 into TYR
+Mutating residue = ARGA208 into ALA
+Mutating residue = ARGA208 into CYS
+Mutating residue = ARGA208 into ASP
+Mutating residue = ARGA208 into GLU
+Mutating residue = ARGA208 into PHE
+Mutating residue = ARGA208 into GLY
+Mutating residue = ARGA208 into HIS
+Mutating residue = ARGA208 into ILE
+Mutating residue = ARGA208 into LYS
+Mutating residue = ARGA208 into LEU
+Mutating residue = ARGA208 into MET
+Mutating residue = ARGA208 into ASN
+Mutating residue = ARGA208 into PRO
+Mutating residue = ARGA208 into GLN
+Mutating residue = ARGA208 into SER
+Mutating residue = ARGA208 into THR
+Mutating residue = ARGA208 into VAL
+Mutating residue = ARGA208 into TRP
+Mutating residue = ARGA208 into TYR
+Your file run OK
+End time of FoldX: Sun May 17 15:03:31 2026
+Total time spend: 360.081 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

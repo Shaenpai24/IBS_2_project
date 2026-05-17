@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading SA43D;
+Reading SA43E;
+Reading SA43F;
+Reading SA43G;
+Reading SA43H;
+Reading SA43I;
+Reading SA43K;
+Reading SA43L;
+Reading SA43M;
+Reading SA43N;
+Reading SA43P;
+Reading SA43Q;
+Reading SA43R;
+Reading SA43T;
+Reading SA43V;
+Reading SA43W;
+Reading SA43Y;
+Reading PA44A;
+Reading PA44C;
+Reading PA44D;
+Reading PA44E;
+Reading PA44F;
+Reading PA44G;
+Reading PA44H;
+Reading PA44I;
+Reading PA44K;
+Reading PA44L;
+Reading PA44M;
+Reading PA44N;
+Reading PA44Q;
+Reading PA44R;
+Reading PA44S;
+Reading PA44T;
+Reading PA44V;
+Reading PA44W;
+Reading PA44Y;
+Reading GA45A;
+Reading GA45C;
+Reading GA45D;
+Reading GA45E;
+Reading GA45F;
+Reading GA45H;
+Reading GA45I;
+Reading GA45K;
+Reading GA45L;
+Reading GA45M;
+Reading GA45N;
+Reading GA45P;
+Reading GA45Q;
+Reading GA45R;
+Mutating residue = SERA43 into ASP
+Mutating residue = SERA43 into GLU
+Mutating residue = SERA43 into PHE
+Mutating residue = SERA43 into GLY
+Mutating residue = SERA43 into HIS
+Mutating residue = SERA43 into ILE
+Mutating residue = SERA43 into LYS
+Mutating residue = SERA43 into LEU
+Mutating residue = SERA43 into MET
+Mutating residue = SERA43 into ASN
+Mutating residue = SERA43 into PRO
+Mutating residue = SERA43 into GLN
+Mutating residue = SERA43 into ARG
+Mutating residue = SERA43 into THR
+Mutating residue = SERA43 into VAL
+Mutating residue = SERA43 into TRP
+Mutating residue = SERA43 into TYR
+Mutating residue = PROA44 into ALA
+Mutating residue = PROA44 into CYS
+Mutating residue = PROA44 into ASP
+Mutating residue = PROA44 into GLU
+Mutating residue = PROA44 into PHE
+Mutating residue = PROA44 into GLY
+Mutating residue = PROA44 into HIS
+Mutating residue = PROA44 into ILE
+Mutating residue = PROA44 into LYS
+Mutating residue = PROA44 into LEU
+Mutating residue = PROA44 into MET
+Mutating residue = PROA44 into ASN
+Mutating residue = PROA44 into GLN
+Mutating residue = PROA44 into ARG
+Mutating residue = PROA44 into SER
+Mutating residue = PROA44 into THR
+Mutating residue = PROA44 into VAL
+Mutating residue = PROA44 into TRP
+Mutating residue = PROA44 into TYR
+Mutating residue = GLYA45 into ALA
+Mutating residue = GLYA45 into CYS
+Mutating residue = GLYA45 into ASP
+Mutating residue = GLYA45 into GLU
+Mutating residue = GLYA45 into PHE
+Mutating residue = GLYA45 into HIS
+Mutating residue = GLYA45 into ILE
+Mutating residue = GLYA45 into LYS
+Mutating residue = GLYA45 into LEU
+Mutating residue = GLYA45 into MET
+Mutating residue = GLYA45 into ASN
+Mutating residue = GLYA45 into PRO
+Mutating residue = GLYA45 into GLN
+Mutating residue = GLYA45 into ARG
+Your file run OK
+End time of FoldX: Sun May 17 01:03:13 2026
+Total time spend: 20.939 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

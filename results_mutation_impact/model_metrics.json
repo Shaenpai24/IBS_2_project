@@ -1,0 +1,33 @@
+{
+  "input_csv": "prnp_mutation_features_tier2_structural.csv",
+  "rows": 4655,
+  "features": 41,
+  "train_rows": 3724,
+  "test_rows": 931,
+  "grouped_by": "position",
+  "target_note": "Targets are heuristic proxy labels/scores derived from existing mutation features. Replace or calibrate them with experimental pathogenicity or ddG labels when available.",
+  "high_severity_classifier": {
+    "accuracy": 0.9462943071965628,
+    "precision": 0.9116279069767442,
+    "recall": 0.8634361233480177,
+    "f1": 0.8868778280542986,
+    "roc_auc": 0.9893872647176613,
+    "average_precision": 0.9688492823326834,
+    "confusion_matrix": [
+      [
+        685,
+        19
+      ],
+      [
+        31,
+        196
+      ]
+    ],
+    "classification_report": "              precision    recall  f1-score   support\n\n           0       0.96      0.97      0.96       704\n           1       0.91      0.86      0.89       227\n\n    accuracy                           0.95       931\n   macro avg       0.93      0.92      0.93       931\nweighted avg       0.95      0.95      0.95       931\n"
+  },
+  "severity_regressor": {
+    "mae": 1.7365398318026581,
+    "rmse": 4.005053932089875,
+    "r2": 0.804367684309046
+  }
+}

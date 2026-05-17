@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading HA179Y;
+Reading TA180A;
+Reading TA180C;
+Reading TA180D;
+Reading TA180E;
+Reading TA180F;
+Reading TA180G;
+Reading TA180H;
+Reading TA180I;
+Reading TA180K;
+Reading TA180L;
+Reading TA180M;
+Reading TA180N;
+Reading TA180P;
+Reading TA180Q;
+Reading TA180R;
+Reading TA180S;
+Reading TA180V;
+Reading TA180W;
+Reading TA180Y;
+Reading VA181A;
+Reading VA181C;
+Reading VA181D;
+Reading VA181E;
+Reading VA181F;
+Reading VA181G;
+Reading VA181H;
+Reading VA181I;
+Reading VA181K;
+Reading VA181L;
+Reading VA181M;
+Reading VA181N;
+Reading VA181P;
+Reading VA181Q;
+Reading VA181R;
+Reading VA181S;
+Reading VA181T;
+Reading VA181W;
+Reading VA181Y;
+Reading TA182A;
+Reading TA182C;
+Reading TA182D;
+Reading TA182E;
+Reading TA182F;
+Reading TA182G;
+Reading TA182H;
+Reading TA182I;
+Reading TA182K;
+Reading TA182L;
+Reading TA182M;
+HA179Y	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: HA179Y in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00069\individual_list_batch_00069.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

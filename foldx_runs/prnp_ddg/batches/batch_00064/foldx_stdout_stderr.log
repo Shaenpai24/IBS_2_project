@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading NA166T;
+Reading NA166V;
+Reading NA166W;
+Reading NA166Y;
+Reading FA167A;
+Reading FA167C;
+Reading FA167D;
+Reading FA167E;
+Reading FA167G;
+Reading FA167H;
+Reading FA167I;
+Reading FA167K;
+Reading FA167L;
+Reading FA167M;
+Reading FA167N;
+Reading FA167P;
+Reading FA167Q;
+Reading FA167R;
+Reading FA167S;
+Reading FA167T;
+Reading FA167V;
+Reading FA167W;
+Reading FA167Y;
+Reading VA168A;
+Reading VA168C;
+Reading VA168D;
+Reading VA168E;
+Reading VA168F;
+Reading VA168G;
+Reading VA168H;
+Reading VA168I;
+Reading VA168K;
+Reading VA168L;
+Reading VA168M;
+Reading VA168N;
+Reading VA168P;
+Reading VA168Q;
+Reading VA168R;
+Reading VA168S;
+Reading VA168T;
+Reading VA168W;
+Reading VA168Y;
+Reading HA169A;
+Reading HA169C;
+Reading HA169D;
+Reading HA169E;
+Reading HA169F;
+Reading HA169G;
+Reading HA169I;
+Reading HA169K;
+NA166T	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: NA166T in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00064\individual_list_batch_00064.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

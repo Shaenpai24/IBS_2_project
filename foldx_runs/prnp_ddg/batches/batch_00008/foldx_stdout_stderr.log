@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading LA19K;
+Reading LA19M;
+Reading LA19N;
+Reading LA19P;
+Reading LA19Q;
+Reading LA19R;
+Reading LA19S;
+Reading LA19T;
+Reading LA19V;
+Reading LA19W;
+Reading LA19Y;
+Reading GA20A;
+Reading GA20C;
+Reading GA20D;
+Reading GA20E;
+Reading GA20F;
+Reading GA20H;
+Reading GA20I;
+Reading GA20K;
+Reading GA20L;
+Reading GA20M;
+Reading GA20N;
+Reading GA20P;
+Reading GA20Q;
+Reading GA20R;
+Reading GA20S;
+Reading GA20T;
+Reading GA20V;
+Reading GA20W;
+Reading GA20Y;
+Reading LA21A;
+Reading LA21C;
+Reading LA21D;
+Reading LA21E;
+Reading LA21F;
+Reading LA21G;
+Reading LA21H;
+Reading LA21I;
+Reading LA21K;
+Reading LA21M;
+Reading LA21N;
+Reading LA21P;
+Reading LA21Q;
+Reading LA21R;
+Reading LA21S;
+Reading LA21T;
+Reading LA21V;
+Reading LA21W;
+Reading LA21Y;
+Reading CA22A;
+Mutating residue = LEUA19 into LYS
+Mutating residue = LEUA19 into MET
+Mutating residue = LEUA19 into ASN
+Mutating residue = LEUA19 into PRO
+Mutating residue = LEUA19 into GLN
+Mutating residue = LEUA19 into ARG
+Mutating residue = LEUA19 into SER
+Mutating residue = LEUA19 into THR
+Mutating residue = LEUA19 into VAL
+Mutating residue = LEUA19 into TRP
+Mutating residue = LEUA19 into TYR
+Mutating residue = GLYA20 into ALA
+Mutating residue = GLYA20 into CYS
+Mutating residue = GLYA20 into ASP
+Mutating residue = GLYA20 into GLU
+Mutating residue = GLYA20 into PHE
+Mutating residue = GLYA20 into HIS
+Mutating residue = GLYA20 into ILE
+Mutating residue = GLYA20 into LYS
+Mutating residue = GLYA20 into LEU
+Mutating residue = GLYA20 into MET
+Mutating residue = GLYA20 into ASN
+Mutating residue = GLYA20 into PRO
+Mutating residue = GLYA20 into GLN
+Mutating residue = GLYA20 into ARG
+Mutating residue = GLYA20 into SER
+Mutating residue = GLYA20 into THR
+Mutating residue = GLYA20 into VAL
+Mutating residue = GLYA20 into TRP
+Mutating residue = GLYA20 into TYR
+Mutating residue = LEUA21 into ALA
+Mutating residue = LEUA21 into CYS
+Mutating residue = LEUA21 into ASP
+Mutating residue = LEUA21 into GLU
+Mutating residue = LEUA21 into PHE
+Mutating residue = LEUA21 into GLY
+Mutating residue = LEUA21 into HIS
+Mutating residue = LEUA21 into ILE
+Mutating residue = LEUA21 into LYS
+Mutating residue = LEUA21 into MET
+Mutating residue = LEUA21 into ASN
+Mutating residue = LEUA21 into PRO
+Mutating residue = LEUA21 into GLN
+Mutating residue = LEUA21 into ARG
+Mutating residue = LEUA21 into SER
+Mutating residue = LEUA21 into THR
+Mutating residue = LEUA21 into VAL
+Mutating residue = LEUA21 into TRP
+Mutating residue = LEUA21 into TYR
+Mutating residue = CYSA22 into ALA
+Your file run OK
+End time of FoldX: Sun May 17 00:50:50 2026
+Total time spend: 71.342 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

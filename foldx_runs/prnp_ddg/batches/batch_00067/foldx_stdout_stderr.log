@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading IA174R;
+Reading IA174S;
+Reading IA174T;
+Reading IA174V;
+Reading IA174W;
+Reading IA174Y;
+Reading TA175A;
+Reading TA175C;
+Reading TA175D;
+Reading TA175E;
+Reading TA175F;
+Reading TA175G;
+Reading TA175H;
+Reading TA175I;
+Reading TA175K;
+Reading TA175L;
+Reading TA175M;
+Reading TA175N;
+Reading TA175P;
+Reading TA175Q;
+Reading TA175R;
+Reading TA175S;
+Reading TA175V;
+Reading TA175W;
+Reading TA175Y;
+Reading IA176A;
+Reading IA176C;
+Reading IA176D;
+Reading IA176E;
+Reading IA176F;
+Reading IA176G;
+Reading IA176H;
+Reading IA176K;
+Reading IA176L;
+Reading IA176M;
+Reading IA176N;
+Reading IA176P;
+Reading IA176Q;
+Reading IA176R;
+Reading IA176S;
+Reading IA176T;
+Reading IA176V;
+Reading IA176W;
+Reading IA176Y;
+Reading KA177A;
+Reading KA177C;
+Reading KA177D;
+Reading KA177E;
+Reading KA177F;
+Reading KA177G;
+IA174R	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: IA174R in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00067\individual_list_batch_00067.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

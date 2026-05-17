@@ -1,0 +1,45 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading YA128L;
+Reading YA128M;
+Reading YA128N;
+Reading YA128P;
+Reading YA128Q;
+Reading YA128R;
+Reading YA128S;
+Reading YA128T;
+Reading YA128V;
+Reading YA128W;
+Mutating residue = TYRA128 into LEU
+Mutating residue = TYRA128 into MET
+Mutating residue = TYRA128 into ASN
+Mutating residue = TYRA128 into PRO
+Mutating residue = TYRA128 into GLN
+Mutating residue = TYRA128 into ARG
+Mutating residue = TYRA128 into SER
+Mutating residue = TYRA128 into THR
+Mutating residue = TYRA128 into VAL
+Mutating residue = TYRA128 into TRP
+Your file run OK
+End time of FoldX: Sun May 17 16:25:14 2026
+Total time spend: 65.93 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading WA16S;
+Reading WA16T;
+Reading WA16V;
+Reading WA16Y;
+Reading SA17A;
+Reading SA17C;
+Reading SA17D;
+Reading SA17E;
+Reading SA17F;
+Reading SA17G;
+Reading SA17H;
+Reading SA17I;
+Reading SA17K;
+Reading SA17L;
+Reading SA17M;
+Reading SA17N;
+Reading SA17P;
+Reading SA17Q;
+Reading SA17R;
+Reading SA17T;
+Reading SA17V;
+Reading SA17W;
+Reading SA17Y;
+Reading DA18A;
+Reading DA18C;
+Reading DA18E;
+Reading DA18F;
+Reading DA18G;
+Reading DA18H;
+Reading DA18I;
+Reading DA18K;
+Reading DA18L;
+Reading DA18M;
+Reading DA18N;
+Reading DA18P;
+Reading DA18Q;
+Reading DA18R;
+Reading DA18S;
+Reading DA18T;
+Reading DA18V;
+Reading DA18W;
+Reading DA18Y;
+Reading LA19A;
+Reading LA19C;
+Reading LA19D;
+Reading LA19E;
+Reading LA19F;
+Reading LA19G;
+Reading LA19H;
+Reading LA19I;
+Mutating residue = TRPA16 into SER
+Mutating residue = TRPA16 into THR
+Mutating residue = TRPA16 into VAL
+Mutating residue = TRPA16 into TYR
+Mutating residue = SERA17 into ALA
+Mutating residue = SERA17 into CYS
+Mutating residue = SERA17 into ASP
+Mutating residue = SERA17 into GLU
+Mutating residue = SERA17 into PHE
+Mutating residue = SERA17 into GLY
+Mutating residue = SERA17 into HIS
+Mutating residue = SERA17 into ILE
+Mutating residue = SERA17 into LYS
+Mutating residue = SERA17 into LEU
+Mutating residue = SERA17 into MET
+Mutating residue = SERA17 into ASN
+Mutating residue = SERA17 into PRO
+Mutating residue = SERA17 into GLN
+Mutating residue = SERA17 into ARG
+Mutating residue = SERA17 into THR
+Mutating residue = SERA17 into VAL
+Mutating residue = SERA17 into TRP
+Mutating residue = SERA17 into TYR
+Mutating residue = ASPA18 into ALA
+Mutating residue = ASPA18 into CYS
+Mutating residue = ASPA18 into GLU
+Mutating residue = ASPA18 into PHE
+Mutating residue = ASPA18 into GLY
+Mutating residue = ASPA18 into HIS
+Mutating residue = ASPA18 into ILE
+Mutating residue = ASPA18 into LYS
+Mutating residue = ASPA18 into LEU
+Mutating residue = ASPA18 into MET
+Mutating residue = ASPA18 into ASN
+Mutating residue = ASPA18 into PRO
+Mutating residue = ASPA18 into GLN
+Mutating residue = ASPA18 into ARG
+Mutating residue = ASPA18 into SER
+Mutating residue = ASPA18 into THR
+Mutating residue = ASPA18 into VAL
+Mutating residue = ASPA18 into TRP
+Mutating residue = ASPA18 into TYR
+Mutating residue = LEUA19 into ALA
+Mutating residue = LEUA19 into CYS
+Mutating residue = LEUA19 into ASP
+Mutating residue = LEUA19 into GLU
+Mutating residue = LEUA19 into PHE
+Mutating residue = LEUA19 into GLY
+Mutating residue = LEUA19 into HIS
+Mutating residue = LEUA19 into ILE
+Your file run OK
+End time of FoldX: Sun May 17 00:49:39 2026
+Total time spend: 94.295 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

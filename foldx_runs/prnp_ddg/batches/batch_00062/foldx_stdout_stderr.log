@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading YA161M;
+Reading YA161N;
+Reading YA161P;
+Reading YA161Q;
+Reading YA161R;
+Reading YA161S;
+Reading YA161T;
+Reading YA161V;
+Reading YA161W;
+Reading SA162A;
+Reading SA162C;
+Reading SA162D;
+Reading SA162E;
+Reading SA162F;
+Reading SA162G;
+Reading SA162H;
+Reading SA162I;
+Reading SA162K;
+Reading SA162L;
+Reading SA162M;
+Reading SA162N;
+Reading SA162P;
+Reading SA162Q;
+Reading SA162R;
+Reading SA162T;
+Reading SA162V;
+Reading SA162W;
+Reading SA162Y;
+Reading NA163A;
+Reading NA163C;
+Reading NA163D;
+Reading NA163E;
+Reading NA163F;
+Reading NA163G;
+Reading NA163H;
+Reading NA163I;
+Reading NA163K;
+Reading NA163L;
+Reading NA163M;
+Reading NA163P;
+Reading NA163Q;
+Reading NA163R;
+Reading NA163S;
+Reading NA163T;
+Reading NA163V;
+Reading NA163W;
+Reading NA163Y;
+Reading QA164A;
+Reading QA164C;
+Reading QA164D;
+YA161M	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: YA161M in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00062\individual_list_batch_00062.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

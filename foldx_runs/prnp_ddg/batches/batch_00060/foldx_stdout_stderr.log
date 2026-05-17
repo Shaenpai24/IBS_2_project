@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading RA156G;
+Reading RA156H;
+Reading RA156I;
+Reading RA156K;
+Reading RA156L;
+Reading RA156M;
+Reading RA156N;
+Reading RA156P;
+Reading RA156Q;
+Reading RA156S;
+Reading RA156T;
+Reading RA156V;
+Reading RA156W;
+Reading RA156Y;
+Reading PA157A;
+Reading PA157C;
+Reading PA157D;
+Reading PA157E;
+Reading PA157F;
+Reading PA157G;
+Reading PA157H;
+Reading PA157I;
+Reading PA157K;
+Reading PA157L;
+Reading PA157M;
+Reading PA157N;
+Reading PA157Q;
+Reading PA157R;
+Reading PA157S;
+Reading PA157T;
+Reading PA157V;
+Reading PA157W;
+Reading PA157Y;
+Reading MA158A;
+Reading MA158C;
+Reading MA158D;
+Reading MA158E;
+Reading MA158F;
+Reading MA158G;
+Reading MA158H;
+Reading MA158I;
+Reading MA158K;
+Reading MA158L;
+Reading MA158N;
+Reading MA158P;
+Reading MA158Q;
+Reading MA158R;
+Reading MA158S;
+Reading MA158T;
+Reading MA158V;
+PA157A	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: PA157A in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00060\individual_list_batch_00060.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

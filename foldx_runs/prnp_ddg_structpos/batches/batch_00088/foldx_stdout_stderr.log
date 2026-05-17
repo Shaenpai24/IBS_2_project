@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading SA237Y;
+Reading PA238A;
+Reading PA238C;
+Reading PA238D;
+Reading PA238E;
+Reading PA238F;
+Reading PA238G;
+Reading PA238H;
+Reading PA238I;
+Reading PA238K;
+Reading PA238L;
+Reading PA238M;
+Reading PA238N;
+Reading PA238Q;
+Reading PA238R;
+Reading PA238S;
+Reading PA238T;
+Reading PA238V;
+Reading PA238W;
+Reading PA238Y;
+Reading PA239A;
+Reading PA239C;
+Reading PA239D;
+Reading PA239E;
+Reading PA239F;
+Reading PA239G;
+Reading PA239H;
+Reading PA239I;
+Reading PA239K;
+Reading PA239L;
+Reading PA239M;
+Reading PA239N;
+Reading PA239Q;
+Reading PA239R;
+Reading PA239S;
+Reading PA239T;
+Reading PA239V;
+Reading PA239W;
+Reading PA239Y;
+Reading VA240A;
+Reading VA240C;
+Reading VA240D;
+Reading VA240E;
+Reading VA240F;
+Reading VA240G;
+Reading VA240H;
+Reading VA240I;
+Reading VA240K;
+Reading VA240L;
+Reading VA240M;
+Mutating residue = SERA237 into TYR
+Mutating residue = PROA238 into ALA
+Mutating residue = PROA238 into CYS
+Mutating residue = PROA238 into ASP
+Mutating residue = PROA238 into GLU
+Mutating residue = PROA238 into PHE
+Mutating residue = PROA238 into GLY
+Mutating residue = PROA238 into HIS
+Mutating residue = PROA238 into ILE
+Mutating residue = PROA238 into LYS
+Mutating residue = PROA238 into LEU
+Mutating residue = PROA238 into MET
+Mutating residue = PROA238 into ASN
+Mutating residue = PROA238 into GLN
+Mutating residue = PROA238 into ARG
+Mutating residue = PROA238 into SER
+Mutating residue = PROA238 into THR
+Mutating residue = PROA238 into VAL
+Mutating residue = PROA238 into TRP
+Mutating residue = PROA238 into TYR
+Mutating residue = PROA239 into ALA
+Mutating residue = PROA239 into CYS
+Mutating residue = PROA239 into ASP
+Mutating residue = PROA239 into GLU
+Mutating residue = PROA239 into PHE
+Mutating residue = PROA239 into GLY
+Mutating residue = PROA239 into HIS
+Mutating residue = PROA239 into ILE
+Mutating residue = PROA239 into LYS
+Mutating residue = PROA239 into LEU
+Mutating residue = PROA239 into MET
+Mutating residue = PROA239 into ASN
+Mutating residue = PROA239 into GLN
+Mutating residue = PROA239 into ARG
+Mutating residue = PROA239 into SER
+Mutating residue = PROA239 into THR
+Mutating residue = PROA239 into VAL
+Mutating residue = PROA239 into TRP
+Mutating residue = PROA239 into TYR
+Mutating residue = VALA240 into ALA
+Mutating residue = VALA240 into CYS
+Mutating residue = VALA240 into ASP
+Mutating residue = VALA240 into GLU
+Mutating residue = VALA240 into PHE
+Mutating residue = VALA240 into GLY
+Mutating residue = VALA240 into HIS
+Mutating residue = VALA240 into ILE
+Mutating residue = VALA240 into LYS
+Mutating residue = VALA240 into LEU
+Mutating residue = VALA240 into MET
+Your file run OK
+End time of FoldX: Sun May 17 15:57:33 2026
+Total time spend: 98.615 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading FA227I;
+Reading FA227K;
+Reading FA227L;
+Reading FA227M;
+Reading FA227N;
+Reading FA227P;
+Reading FA227Q;
+Reading FA227R;
+Reading FA227S;
+Reading FA227T;
+Reading FA227V;
+Reading FA227W;
+Reading FA227Y;
+Reading SA228A;
+Reading SA228C;
+Reading SA228D;
+Reading SA228E;
+Reading SA228F;
+Reading SA228G;
+Reading SA228H;
+Reading SA228I;
+Reading SA228K;
+Reading SA228L;
+Reading SA228M;
+Reading SA228N;
+Reading SA228P;
+Reading SA228Q;
+Reading SA228R;
+Reading SA228T;
+Reading SA228V;
+Reading SA228W;
+Reading SA228Y;
+Reading SA229A;
+Reading SA229C;
+Reading SA229D;
+Reading SA229E;
+Reading SA229F;
+Reading SA229G;
+Reading SA229H;
+Reading SA229I;
+Reading SA229K;
+Reading SA229L;
+Reading SA229M;
+Reading SA229N;
+Reading SA229P;
+Reading SA229Q;
+Reading SA229R;
+Reading SA229T;
+Reading SA229V;
+Reading SA229W;
+FA227I	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: FA227I in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00087\individual_list_batch_00087.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

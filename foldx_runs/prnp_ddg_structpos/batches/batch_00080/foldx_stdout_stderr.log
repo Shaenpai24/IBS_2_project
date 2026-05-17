@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading TA216W;
+Reading TA216Y;
+Reading QA217A;
+Reading QA217C;
+Reading QA217D;
+Reading QA217E;
+Reading QA217F;
+Reading QA217G;
+Reading QA217H;
+Reading QA217I;
+Reading QA217K;
+Reading QA217L;
+Reading QA217M;
+Reading QA217N;
+Reading QA217P;
+Reading QA217R;
+Reading QA217S;
+Reading QA217T;
+Reading QA217V;
+Reading QA217W;
+Reading QA217Y;
+Reading YA218A;
+Reading YA218C;
+Reading YA218D;
+Reading YA218E;
+Reading YA218F;
+Reading YA218G;
+Reading YA218H;
+Reading YA218I;
+Reading YA218K;
+Reading YA218L;
+Reading YA218M;
+Reading YA218N;
+Reading YA218P;
+Reading YA218Q;
+Reading YA218R;
+Reading YA218S;
+Reading YA218T;
+Reading YA218V;
+Reading YA218W;
+Reading EA219A;
+Reading EA219C;
+Reading EA219D;
+Reading EA219F;
+Reading EA219G;
+Reading EA219H;
+Reading EA219I;
+Reading EA219K;
+Reading EA219L;
+Reading EA219M;
+Mutating residue = THRA216 into TRP
+Mutating residue = THRA216 into TYR
+Mutating residue = GLNA217 into ALA
+Mutating residue = GLNA217 into CYS
+Mutating residue = GLNA217 into ASP
+Mutating residue = GLNA217 into GLU
+Mutating residue = GLNA217 into PHE
+Mutating residue = GLNA217 into GLY
+Mutating residue = GLNA217 into HIS
+Mutating residue = GLNA217 into ILE
+Mutating residue = GLNA217 into LYS
+Mutating residue = GLNA217 into LEU
+Mutating residue = GLNA217 into MET
+Mutating residue = GLNA217 into ASN
+Mutating residue = GLNA217 into PRO
+Mutating residue = GLNA217 into ARG
+Mutating residue = GLNA217 into SER
+Mutating residue = GLNA217 into THR
+Mutating residue = GLNA217 into VAL
+Mutating residue = GLNA217 into TRP
+Mutating residue = GLNA217 into TYR
+Mutating residue = TYRA218 into ALA
+Mutating residue = TYRA218 into CYS
+Mutating residue = TYRA218 into ASP
+Mutating residue = TYRA218 into GLU
+Mutating residue = TYRA218 into PHE
+Mutating residue = TYRA218 into GLY
+Mutating residue = TYRA218 into HIS
+Mutating residue = TYRA218 into ILE
+Mutating residue = TYRA218 into LYS
+Mutating residue = TYRA218 into LEU
+Mutating residue = TYRA218 into MET
+Mutating residue = TYRA218 into ASN
+Mutating residue = TYRA218 into PRO
+Mutating residue = TYRA218 into GLN
+Mutating residue = TYRA218 into ARG
+Mutating residue = TYRA218 into SER
+Mutating residue = TYRA218 into THR
+Mutating residue = TYRA218 into VAL
+Mutating residue = TYRA218 into TRP
+Mutating residue = GLUA219 into ALA
+Mutating residue = GLUA219 into CYS
+Mutating residue = GLUA219 into ASP
+Mutating residue = GLUA219 into PHE
+Mutating residue = GLUA219 into GLY
+Mutating residue = GLUA219 into HIS
+Mutating residue = GLUA219 into ILE
+Mutating residue = GLUA219 into LYS
+Mutating residue = GLUA219 into LEU
+Mutating residue = GLUA219 into MET
+Your file run OK
+End time of FoldX: Sun May 17 15:24:31 2026
+Total time spend: 296.392 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

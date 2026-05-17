@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading GA187V;
+Reading GA187W;
+Reading GA187Y;
+Reading EA188A;
+Reading EA188C;
+Reading EA188D;
+Reading EA188F;
+Reading EA188G;
+Reading EA188H;
+Reading EA188I;
+Reading EA188K;
+Reading EA188L;
+Reading EA188M;
+Reading EA188N;
+Reading EA188P;
+Reading EA188Q;
+Reading EA188R;
+Reading EA188S;
+Reading EA188T;
+Reading EA188V;
+Reading EA188W;
+Reading EA188Y;
+Reading NA189A;
+Reading NA189C;
+Reading NA189D;
+Reading NA189E;
+Reading NA189F;
+Reading NA189G;
+Reading NA189H;
+Reading NA189I;
+Reading NA189K;
+Reading NA189L;
+Reading NA189M;
+Reading NA189P;
+Reading NA189Q;
+Reading NA189R;
+Reading NA189S;
+Reading NA189T;
+Reading NA189V;
+Reading NA189W;
+Reading NA189Y;
+Reading FA190A;
+Reading FA190C;
+Reading FA190D;
+Reading FA190E;
+Reading FA190G;
+Reading FA190H;
+Reading FA190I;
+Reading FA190K;
+Reading FA190L;
+GA187V	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: GA187V in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00072\individual_list_batch_00072.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

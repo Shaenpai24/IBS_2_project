@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading KA185H;
+Reading KA185I;
+Reading KA185L;
+Reading KA185M;
+Reading KA185N;
+Reading KA185P;
+Reading KA185Q;
+Reading KA185R;
+Reading KA185S;
+Reading KA185T;
+Reading KA185V;
+Reading KA185W;
+Reading KA185Y;
+Reading QA186A;
+Reading QA186C;
+Reading QA186D;
+Reading QA186E;
+Reading QA186F;
+Reading QA186G;
+Reading QA186H;
+Reading QA186I;
+Reading QA186K;
+Reading QA186L;
+Reading QA186M;
+Reading QA186N;
+Reading QA186P;
+Reading QA186R;
+Reading QA186S;
+Reading QA186T;
+Reading QA186V;
+Reading QA186W;
+Reading QA186Y;
+Reading HA187A;
+Reading HA187C;
+Reading HA187D;
+Reading HA187E;
+Reading HA187F;
+Reading HA187G;
+Reading HA187I;
+Reading HA187K;
+Reading HA187L;
+Reading HA187M;
+Reading HA187N;
+Reading HA187P;
+Reading HA187Q;
+Reading HA187R;
+Reading HA187S;
+Reading HA187T;
+Reading HA187V;
+Reading HA187W;
+Mutating residue = LYSA185 into HIS
+Mutating residue = LYSA185 into ILE
+Mutating residue = LYSA185 into LEU
+Mutating residue = LYSA185 into MET
+Mutating residue = LYSA185 into ASN
+Mutating residue = LYSA185 into PRO
+Mutating residue = LYSA185 into GLN
+Mutating residue = LYSA185 into ARG
+Mutating residue = LYSA185 into SER
+Mutating residue = LYSA185 into THR
+Mutating residue = LYSA185 into VAL
+Mutating residue = LYSA185 into TRP
+Mutating residue = LYSA185 into TYR
+Mutating residue = GLNA186 into ALA
+Mutating residue = GLNA186 into CYS
+Mutating residue = GLNA186 into ASP
+Mutating residue = GLNA186 into GLU
+Mutating residue = GLNA186 into PHE
+Mutating residue = GLNA186 into GLY
+Mutating residue = GLNA186 into HIS
+Mutating residue = GLNA186 into ILE
+Mutating residue = GLNA186 into LYS
+Mutating residue = GLNA186 into LEU
+Mutating residue = GLNA186 into MET
+Mutating residue = GLNA186 into ASN
+Mutating residue = GLNA186 into PRO
+Mutating residue = GLNA186 into ARG
+Mutating residue = GLNA186 into SER
+Mutating residue = GLNA186 into THR
+Mutating residue = GLNA186 into VAL
+Mutating residue = GLNA186 into TRP
+Mutating residue = GLNA186 into TYR
+Mutating residue = H2SA187 into ALA
+Mutating residue = H2SA187 into CYS
+Mutating residue = H2SA187 into ASP
+Mutating residue = H2SA187 into GLU
+Mutating residue = H2SA187 into PHE
+Mutating residue = H2SA187 into GLY
+Mutating residue = H2SA187 into ILE
+Mutating residue = H2SA187 into LYS
+Mutating residue = H2SA187 into LEU
+Mutating residue = H2SA187 into MET
+Mutating residue = H2SA187 into ASN
+Mutating residue = H2SA187 into PRO
+Mutating residue = H2SA187 into GLN
+Mutating residue = H2SA187 into ARG
+Mutating residue = H2SA187 into SER
+Mutating residue = H2SA187 into THR
+Mutating residue = H2SA187 into VAL
+Mutating residue = H2SA187 into TRP
+Your file run OK
+End time of FoldX: Sun May 17 14:11:37 2026
+Total time spend: 863.19 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

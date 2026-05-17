@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading AA108W;
+Reading AA108Y;
+Reading AA109C;
+Reading AA109D;
+Reading AA109E;
+Reading AA109F;
+Reading AA109G;
+Reading AA109H;
+Reading AA109I;
+Reading AA109K;
+Reading AA109L;
+Reading AA109M;
+Reading AA109N;
+Reading AA109P;
+Reading AA109Q;
+Reading AA109R;
+Reading AA109S;
+Reading AA109T;
+Reading AA109V;
+Reading AA109W;
+Reading AA109Y;
+Reading AA110C;
+Reading AA110D;
+Reading AA110E;
+Reading AA110F;
+Reading AA110G;
+Reading AA110H;
+Reading AA110I;
+Reading AA110K;
+Reading AA110L;
+Reading AA110M;
+Reading AA110N;
+Reading AA110P;
+Reading AA110Q;
+Reading AA110R;
+Reading AA110S;
+Reading AA110T;
+Reading AA110V;
+Reading AA110W;
+Reading AA110Y;
+Reading GA111A;
+Reading GA111C;
+Reading GA111D;
+Reading GA111E;
+Reading GA111F;
+Reading GA111H;
+Reading GA111I;
+Reading GA111K;
+Reading GA111L;
+Reading GA111M;
+AA108W	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: AA108W in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00042\individual_list_batch_00042.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

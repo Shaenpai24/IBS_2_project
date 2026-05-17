@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading LA235F;
+Reading LA235G;
+Reading LA235H;
+Reading LA235I;
+Reading LA235K;
+Reading LA235M;
+Reading LA235N;
+Reading LA235P;
+Reading LA235Q;
+Reading LA235R;
+Reading LA235S;
+Reading LA235T;
+Reading LA235V;
+Reading LA235W;
+Reading LA235Y;
+Reading IA236A;
+Reading IA236C;
+Reading IA236D;
+Reading IA236E;
+Reading IA236F;
+Reading IA236G;
+Reading IA236H;
+Reading IA236K;
+Reading IA236L;
+Reading IA236M;
+Reading IA236N;
+Reading IA236P;
+Reading IA236Q;
+Reading IA236R;
+Reading IA236S;
+Reading IA236T;
+Reading IA236V;
+Reading IA236W;
+Reading IA236Y;
+Reading SA237A;
+Reading SA237C;
+Reading SA237D;
+Reading SA237E;
+Reading SA237F;
+Reading SA237G;
+Reading SA237H;
+Reading SA237I;
+Reading SA237K;
+Reading SA237L;
+Reading SA237M;
+Reading SA237N;
+Reading SA237P;
+Reading SA237Q;
+Reading SA237R;
+Reading SA237T;
+LA235F	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: LA235F in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00090\individual_list_batch_00090.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

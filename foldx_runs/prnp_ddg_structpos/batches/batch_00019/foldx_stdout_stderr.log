@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading RA48I;
+Reading RA48K;
+Reading RA48L;
+Reading RA48M;
+Reading RA48N;
+Reading RA48P;
+Reading RA48Q;
+Reading RA48S;
+Reading RA48T;
+Reading RA48V;
+Reading RA48W;
+Reading RA48Y;
+Reading YA49A;
+Reading YA49C;
+Reading YA49D;
+Reading YA49E;
+Reading YA49F;
+Reading YA49G;
+Reading YA49H;
+Reading YA49I;
+Reading YA49K;
+Reading YA49L;
+Reading YA49M;
+Reading YA49N;
+Reading YA49P;
+Reading YA49Q;
+Reading YA49R;
+Reading YA49S;
+Reading YA49T;
+Reading YA49V;
+Reading YA49W;
+Reading PA50A;
+Reading PA50C;
+Reading PA50D;
+Reading PA50E;
+Reading PA50F;
+Reading PA50G;
+Reading PA50H;
+Reading PA50I;
+Reading PA50K;
+Reading PA50L;
+Reading PA50M;
+Reading PA50N;
+Reading PA50Q;
+Reading PA50R;
+Reading PA50S;
+Reading PA50T;
+Reading PA50V;
+Reading PA50W;
+Reading PA50Y;
+Mutating residue = ARGA48 into ILE
+Mutating residue = ARGA48 into LYS
+Mutating residue = ARGA48 into LEU
+Mutating residue = ARGA48 into MET
+Mutating residue = ARGA48 into ASN
+Mutating residue = ARGA48 into PRO
+Mutating residue = ARGA48 into GLN
+Mutating residue = ARGA48 into SER
+Mutating residue = ARGA48 into THR
+Mutating residue = ARGA48 into VAL
+Mutating residue = ARGA48 into TRP
+Mutating residue = ARGA48 into TYR
+Mutating residue = TYRA49 into ALA
+Mutating residue = TYRA49 into CYS
+Mutating residue = TYRA49 into ASP
+Mutating residue = TYRA49 into GLU
+Mutating residue = TYRA49 into PHE
+Mutating residue = TYRA49 into GLY
+Mutating residue = TYRA49 into HIS
+Mutating residue = TYRA49 into ILE
+Mutating residue = TYRA49 into LYS
+Mutating residue = TYRA49 into LEU
+Mutating residue = TYRA49 into MET
+Mutating residue = TYRA49 into ASN
+Mutating residue = TYRA49 into PRO
+Mutating residue = TYRA49 into GLN
+Mutating residue = TYRA49 into ARG
+Mutating residue = TYRA49 into SER
+Mutating residue = TYRA49 into THR
+Mutating residue = TYRA49 into VAL
+Mutating residue = TYRA49 into TRP
+Mutating residue = PROA50 into ALA
+Mutating residue = PROA50 into CYS
+Mutating residue = PROA50 into ASP
+Mutating residue = PROA50 into GLU
+Mutating residue = PROA50 into PHE
+Mutating residue = PROA50 into GLY
+Mutating residue = PROA50 into HIS
+Mutating residue = PROA50 into ILE
+Mutating residue = PROA50 into LYS
+Mutating residue = PROA50 into LEU
+Mutating residue = PROA50 into MET
+Mutating residue = PROA50 into ASN
+Mutating residue = PROA50 into GLN
+Mutating residue = PROA50 into ARG
+Mutating residue = PROA50 into SER
+Mutating residue = PROA50 into THR
+Mutating residue = PROA50 into VAL
+Mutating residue = PROA50 into TRP
+Mutating residue = PROA50 into TYR
+Your file run OK
+End time of FoldX: Sun May 17 01:57:46 2026
+Total time spend: 36.627 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

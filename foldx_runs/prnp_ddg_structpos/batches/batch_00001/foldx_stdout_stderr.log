@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading MA1A;
+Reading MA1C;
+Reading MA1D;
+Reading MA1E;
+Reading MA1F;
+Reading MA1G;
+Reading MA1H;
+Reading MA1I;
+Reading MA1K;
+Reading MA1L;
+Reading MA1N;
+Reading MA1P;
+Reading MA1Q;
+Reading MA1R;
+Reading MA1S;
+Reading MA1T;
+Reading MA1V;
+Reading MA1W;
+Reading MA1Y;
+Reading AA2C;
+Reading AA2D;
+Reading AA2E;
+Reading AA2F;
+Reading AA2G;
+Reading AA2H;
+Reading AA2I;
+Reading AA2K;
+Reading AA2L;
+Reading AA2M;
+Reading AA2N;
+Reading AA2P;
+Reading AA2Q;
+Reading AA2R;
+Reading AA2S;
+Reading AA2T;
+Reading AA2V;
+Reading AA2W;
+Reading AA2Y;
+Reading NA3A;
+Reading NA3C;
+Reading NA3D;
+Reading NA3E;
+Reading NA3F;
+Reading NA3G;
+Reading NA3H;
+Reading NA3I;
+Reading NA3K;
+Reading NA3L;
+Reading NA3M;
+Reading NA3P;
+Mutating residue = META1 into ALA
+Mutating residue = META1 into CYS
+Mutating residue = META1 into ASP
+Mutating residue = META1 into GLU
+Mutating residue = META1 into PHE
+Mutating residue = META1 into GLY
+Mutating residue = META1 into HIS
+Mutating residue = META1 into ILE
+Mutating residue = META1 into LYS
+Mutating residue = META1 into LEU
+Mutating residue = META1 into ASN
+Mutating residue = META1 into PRO
+Mutating residue = META1 into GLN
+Mutating residue = META1 into ARG
+Mutating residue = META1 into SER
+Mutating residue = META1 into THR
+Mutating residue = META1 into VAL
+Mutating residue = META1 into TRP
+Mutating residue = META1 into TYR
+Mutating residue = ALAA2 into CYS
+Mutating residue = ALAA2 into ASP
+Mutating residue = ALAA2 into GLU
+Mutating residue = ALAA2 into PHE
+Mutating residue = ALAA2 into GLY
+Mutating residue = ALAA2 into HIS
+Mutating residue = ALAA2 into ILE
+Mutating residue = ALAA2 into LYS
+Mutating residue = ALAA2 into LEU
+Mutating residue = ALAA2 into MET
+Mutating residue = ALAA2 into ASN
+Mutating residue = ALAA2 into PRO
+Mutating residue = ALAA2 into GLN
+Mutating residue = ALAA2 into ARG
+Mutating residue = ALAA2 into SER
+Mutating residue = ALAA2 into THR
+Mutating residue = ALAA2 into VAL
+Mutating residue = ALAA2 into TRP
+Mutating residue = ALAA2 into TYR
+Mutating residue = ASNA3 into ALA
+Mutating residue = ASNA3 into CYS
+Mutating residue = ASNA3 into ASP
+Mutating residue = ASNA3 into GLU
+Mutating residue = ASNA3 into PHE
+Mutating residue = ASNA3 into GLY
+Mutating residue = ASNA3 into HIS
+Mutating residue = ASNA3 into ILE
+Mutating residue = ASNA3 into LYS
+Mutating residue = ASNA3 into LEU
+Mutating residue = ASNA3 into MET
+Mutating residue = ASNA3 into PRO
+Your file run OK
+End time of FoldX: Sun May 17 01:26:08 2026
+Total time spend: 113.968 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

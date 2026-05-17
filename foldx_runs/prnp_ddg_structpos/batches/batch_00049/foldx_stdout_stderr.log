@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading SA135H;
+Reading SA135I;
+Reading SA135K;
+Reading SA135L;
+Reading SA135M;
+Reading SA135N;
+Reading SA135P;
+Reading SA135Q;
+Reading SA135R;
+Reading SA135T;
+Reading SA135V;
+Reading SA135W;
+Reading SA135Y;
+Reading RA136A;
+Reading RA136C;
+Reading RA136D;
+Reading RA136E;
+Reading RA136F;
+Reading RA136G;
+Reading RA136H;
+Reading RA136I;
+Reading RA136K;
+Reading RA136L;
+Reading RA136M;
+Reading RA136N;
+Reading RA136P;
+Reading RA136Q;
+Reading RA136S;
+Reading RA136T;
+Reading RA136V;
+Reading RA136W;
+Reading RA136Y;
+Reading PA137A;
+Reading PA137C;
+Reading PA137D;
+Reading PA137E;
+Reading PA137F;
+Reading PA137G;
+Reading PA137H;
+Reading PA137I;
+Reading PA137K;
+Reading PA137L;
+Reading PA137M;
+Reading PA137N;
+Reading PA137Q;
+Reading PA137R;
+Reading PA137S;
+Reading PA137T;
+Reading PA137V;
+Reading PA137W;
+Mutating residue = SERA135 into HIS
+Mutating residue = SERA135 into ILE
+Mutating residue = SERA135 into LYS
+Mutating residue = SERA135 into LEU
+Mutating residue = SERA135 into MET
+Mutating residue = SERA135 into ASN
+Mutating residue = SERA135 into PRO
+Mutating residue = SERA135 into GLN
+Mutating residue = SERA135 into ARG
+Mutating residue = SERA135 into THR
+Mutating residue = SERA135 into VAL
+Mutating residue = SERA135 into TRP
+Mutating residue = SERA135 into TYR
+Mutating residue = ARGA136 into ALA
+Mutating residue = ARGA136 into CYS
+Mutating residue = ARGA136 into ASP
+Mutating residue = ARGA136 into GLU
+Mutating residue = ARGA136 into PHE
+Mutating residue = ARGA136 into GLY
+Mutating residue = ARGA136 into HIS
+Mutating residue = ARGA136 into ILE
+Mutating residue = ARGA136 into LYS
+Mutating residue = ARGA136 into LEU
+Mutating residue = ARGA136 into MET
+Mutating residue = ARGA136 into ASN
+Mutating residue = ARGA136 into PRO
+Mutating residue = ARGA136 into GLN
+Mutating residue = ARGA136 into SER
+Mutating residue = ARGA136 into THR
+Mutating residue = ARGA136 into VAL
+Mutating residue = ARGA136 into TRP
+Mutating residue = ARGA136 into TYR
+Mutating residue = PROA137 into ALA
+Mutating residue = PROA137 into CYS
+Mutating residue = PROA137 into ASP
+Mutating residue = PROA137 into GLU
+Mutating residue = PROA137 into PHE
+Mutating residue = PROA137 into GLY
+Mutating residue = PROA137 into HIS
+Mutating residue = PROA137 into ILE
+Mutating residue = PROA137 into LYS
+Mutating residue = PROA137 into LEU
+Mutating residue = PROA137 into MET
+Mutating residue = PROA137 into ASN
+Mutating residue = PROA137 into GLN
+Mutating residue = PROA137 into ARG
+Mutating residue = PROA137 into SER
+Mutating residue = PROA137 into THR
+Mutating residue = PROA137 into VAL
+Mutating residue = PROA137 into TRP
+Your file run OK
+End time of FoldX: Sun May 17 12:12:22 2026
+Total time spend: 126.637 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

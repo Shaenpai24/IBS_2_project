@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading GA29Y;
+Reading GA30A;
+Reading GA30C;
+Reading GA30D;
+Reading GA30E;
+Reading GA30F;
+Reading GA30H;
+Reading GA30I;
+Reading GA30K;
+Reading GA30L;
+Reading GA30M;
+Reading GA30N;
+Reading GA30P;
+Reading GA30Q;
+Reading GA30R;
+Reading GA30S;
+Reading GA30T;
+Reading GA30V;
+Reading GA30W;
+Reading GA30Y;
+Reading WA31A;
+Reading WA31C;
+Reading WA31D;
+Reading WA31E;
+Reading WA31F;
+Reading WA31G;
+Reading WA31H;
+Reading WA31I;
+Reading WA31K;
+Reading WA31L;
+Reading WA31M;
+Reading WA31N;
+Reading WA31P;
+Reading WA31Q;
+Reading WA31R;
+Reading WA31S;
+Reading WA31T;
+Reading WA31V;
+Reading WA31Y;
+Reading NA32A;
+Reading NA32C;
+Reading NA32D;
+Reading NA32E;
+Reading NA32F;
+Reading NA32G;
+Reading NA32H;
+Reading NA32I;
+Reading NA32K;
+Reading NA32L;
+Reading NA32M;
+Mutating residue = GLYA29 into TYR
+Mutating residue = GLYA30 into ALA
+Mutating residue = GLYA30 into CYS
+Mutating residue = GLYA30 into ASP
+Mutating residue = GLYA30 into GLU
+Mutating residue = GLYA30 into PHE
+Mutating residue = GLYA30 into HIS
+Mutating residue = GLYA30 into ILE
+Mutating residue = GLYA30 into LYS
+Mutating residue = GLYA30 into LEU
+Mutating residue = GLYA30 into MET
+Mutating residue = GLYA30 into ASN
+Mutating residue = GLYA30 into PRO
+Mutating residue = GLYA30 into GLN
+Mutating residue = GLYA30 into ARG
+Mutating residue = GLYA30 into SER
+Mutating residue = GLYA30 into THR
+Mutating residue = GLYA30 into VAL
+Mutating residue = GLYA30 into TRP
+Mutating residue = GLYA30 into TYR
+Mutating residue = TRPA31 into ALA
+Mutating residue = TRPA31 into CYS
+Mutating residue = TRPA31 into ASP
+Mutating residue = TRPA31 into GLU
+Mutating residue = TRPA31 into PHE
+Mutating residue = TRPA31 into GLY
+Mutating residue = TRPA31 into HIS
+Mutating residue = TRPA31 into ILE
+Mutating residue = TRPA31 into LYS
+Mutating residue = TRPA31 into LEU
+Mutating residue = TRPA31 into MET
+Mutating residue = TRPA31 into ASN
+Mutating residue = TRPA31 into PRO
+Mutating residue = TRPA31 into GLN
+Mutating residue = TRPA31 into ARG
+Mutating residue = TRPA31 into SER
+Mutating residue = TRPA31 into THR
+Mutating residue = TRPA31 into VAL
+Mutating residue = TRPA31 into TYR
+Mutating residue = ASNA32 into ALA
+Mutating residue = ASNA32 into CYS
+Mutating residue = ASNA32 into ASP
+Mutating residue = ASNA32 into GLU
+Mutating residue = ASNA32 into PHE
+Mutating residue = ASNA32 into GLY
+Mutating residue = ASNA32 into HIS
+Mutating residue = ASNA32 into ILE
+Mutating residue = ASNA32 into LYS
+Mutating residue = ASNA32 into LEU
+Mutating residue = ASNA32 into MET
+Your file run OK
+End time of FoldX: Sun May 17 01:00:37 2026
+Total time spend: 36.045 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

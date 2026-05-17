@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading VA153P;
+Reading VA153Q;
+Reading VA153R;
+Reading VA153S;
+Reading VA153T;
+Reading VA153W;
+Reading VA153Y;
+Reading YA154A;
+Reading YA154C;
+Reading YA154D;
+Reading YA154E;
+Reading YA154F;
+Reading YA154G;
+Reading YA154H;
+Reading YA154I;
+Reading YA154K;
+Reading YA154L;
+Reading YA154M;
+Reading YA154N;
+Reading YA154P;
+Reading YA154Q;
+Reading YA154R;
+Reading YA154S;
+Reading YA154T;
+Reading YA154V;
+Reading YA154W;
+Reading YA155A;
+Reading YA155C;
+Reading YA155D;
+Reading YA155E;
+Reading YA155F;
+Reading YA155G;
+Reading YA155H;
+Reading YA155I;
+Reading YA155K;
+Reading YA155L;
+Reading YA155M;
+Reading YA155N;
+Reading YA155P;
+Reading YA155Q;
+Reading YA155R;
+Reading YA155S;
+Reading YA155T;
+Reading YA155V;
+Reading YA155W;
+Reading RA156A;
+Reading RA156C;
+Reading RA156D;
+Reading RA156E;
+Reading RA156F;
+VA153P	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: VA153P in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00059\individual_list_batch_00059.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

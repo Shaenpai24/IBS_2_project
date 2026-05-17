@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading TA193F;
+Reading TA193G;
+Reading TA193H;
+Reading TA193I;
+Reading TA193K;
+Reading TA193L;
+Reading TA193M;
+Reading TA193N;
+Reading TA193P;
+Reading TA193Q;
+Reading TA193R;
+Reading TA193S;
+Reading TA193V;
+Reading TA193W;
+Reading TA193Y;
+Reading KA194A;
+Reading KA194C;
+Reading KA194D;
+Reading KA194E;
+Reading KA194F;
+Reading KA194G;
+Reading KA194H;
+Reading KA194I;
+Reading KA194L;
+Reading KA194M;
+Reading KA194N;
+Reading KA194P;
+Reading KA194Q;
+Reading KA194R;
+Reading KA194S;
+Reading KA194T;
+Reading KA194V;
+Reading KA194W;
+Reading KA194Y;
+Reading GA195A;
+Reading GA195C;
+Reading GA195D;
+Reading GA195E;
+Reading GA195F;
+Reading GA195H;
+Reading GA195I;
+Reading GA195K;
+Reading GA195L;
+Reading GA195M;
+Reading GA195N;
+Reading GA195P;
+Reading GA195Q;
+Reading GA195R;
+Reading GA195S;
+Reading GA195T;
+Mutating residue = THRA193 into PHE
+Mutating residue = THRA193 into GLY
+Mutating residue = THRA193 into HIS
+Mutating residue = THRA193 into ILE
+Mutating residue = THRA193 into LYS
+Mutating residue = THRA193 into LEU
+Mutating residue = THRA193 into MET
+Mutating residue = THRA193 into ASN
+Mutating residue = THRA193 into PRO
+Mutating residue = THRA193 into GLN
+Mutating residue = THRA193 into ARG
+Mutating residue = THRA193 into SER
+Mutating residue = THRA193 into VAL
+Mutating residue = THRA193 into TRP
+Mutating residue = THRA193 into TYR
+Mutating residue = LYSA194 into ALA
+Mutating residue = LYSA194 into CYS
+Mutating residue = LYSA194 into ASP
+Mutating residue = LYSA194 into GLU
+Mutating residue = LYSA194 into PHE
+Mutating residue = LYSA194 into GLY
+Mutating residue = LYSA194 into HIS
+Mutating residue = LYSA194 into ILE
+Mutating residue = LYSA194 into LEU
+Mutating residue = LYSA194 into MET
+Mutating residue = LYSA194 into ASN
+Mutating residue = LYSA194 into PRO
+Mutating residue = LYSA194 into GLN
+Mutating residue = LYSA194 into ARG
+Mutating residue = LYSA194 into SER
+Mutating residue = LYSA194 into THR
+Mutating residue = LYSA194 into VAL
+Mutating residue = LYSA194 into TRP
+Mutating residue = LYSA194 into TYR
+Mutating residue = GLYA195 into ALA
+Mutating residue = GLYA195 into CYS
+Mutating residue = GLYA195 into ASP
+Mutating residue = GLYA195 into GLU
+Mutating residue = GLYA195 into PHE
+Mutating residue = GLYA195 into HIS
+Mutating residue = GLYA195 into ILE
+Mutating residue = GLYA195 into LYS
+Mutating residue = GLYA195 into LEU
+Mutating residue = GLYA195 into MET
+Mutating residue = GLYA195 into ASN
+Mutating residue = GLYA195 into PRO
+Mutating residue = GLYA195 into GLN
+Mutating residue = GLYA195 into ARG
+Mutating residue = GLYA195 into SER
+Mutating residue = GLYA195 into THR
+Your file run OK
+End time of FoldX: Sun May 17 14:30:53 2026
+Total time spend: 365.276 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

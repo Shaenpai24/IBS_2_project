@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading IA243D;
+Reading IA243E;
+Reading IA243F;
+Reading IA243G;
+Reading IA243H;
+Reading IA243K;
+Reading IA243L;
+Reading IA243M;
+Reading IA243N;
+Reading IA243P;
+Reading IA243Q;
+Reading IA243R;
+Reading IA243S;
+Reading IA243T;
+Reading IA243V;
+Reading IA243W;
+Reading IA243Y;
+Reading VA244A;
+Reading VA244C;
+Reading VA244D;
+Reading VA244E;
+Reading VA244F;
+Reading VA244G;
+Reading VA244H;
+Reading VA244I;
+Reading VA244K;
+Reading VA244L;
+Reading VA244M;
+Reading VA244N;
+Reading VA244P;
+Reading VA244Q;
+Reading VA244R;
+Reading VA244S;
+Reading VA244T;
+Reading VA244W;
+Reading VA244Y;
+Reading GA245A;
+Reading GA245C;
+Reading GA245D;
+Reading GA245E;
+Reading GA245F;
+Reading GA245H;
+Reading GA245I;
+Reading GA245K;
+Reading GA245L;
+Reading GA245M;
+Reading GA245N;
+Reading GA245P;
+Reading GA245Q;
+Reading GA245R;
+IA243D	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: IA243D in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00093\individual_list_batch_00093.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

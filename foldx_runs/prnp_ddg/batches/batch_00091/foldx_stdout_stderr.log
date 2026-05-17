@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading SA237V;
+Reading SA237W;
+Reading SA237Y;
+Reading FA238A;
+Reading FA238C;
+Reading FA238D;
+Reading FA238E;
+Reading FA238G;
+Reading FA238H;
+Reading FA238I;
+Reading FA238K;
+Reading FA238L;
+Reading FA238M;
+Reading FA238N;
+Reading FA238P;
+Reading FA238Q;
+Reading FA238R;
+Reading FA238S;
+Reading FA238T;
+Reading FA238V;
+Reading FA238W;
+Reading FA238Y;
+Reading LA239A;
+Reading LA239C;
+Reading LA239D;
+Reading LA239E;
+Reading LA239F;
+Reading LA239G;
+Reading LA239H;
+Reading LA239I;
+Reading LA239K;
+Reading LA239M;
+Reading LA239N;
+Reading LA239P;
+Reading LA239Q;
+Reading LA239R;
+Reading LA239S;
+Reading LA239T;
+Reading LA239V;
+Reading LA239W;
+Reading LA239Y;
+Reading IA240A;
+Reading IA240C;
+Reading IA240D;
+Reading IA240E;
+Reading IA240F;
+Reading IA240G;
+Reading IA240H;
+Reading IA240K;
+Reading IA240L;
+FA238A	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: FA238A in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00091\individual_list_batch_00091.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

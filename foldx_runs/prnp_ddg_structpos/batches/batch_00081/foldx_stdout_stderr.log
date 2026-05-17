@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading EA219N;
+Reading EA219P;
+Reading EA219Q;
+Reading EA219R;
+Reading EA219S;
+Reading EA219T;
+Reading EA219V;
+Reading EA219W;
+Reading EA219Y;
+Reading RA220A;
+Reading RA220C;
+Reading RA220D;
+Reading RA220E;
+Reading RA220F;
+Reading RA220G;
+Reading RA220H;
+Reading RA220I;
+Reading RA220K;
+Reading RA220L;
+Reading RA220M;
+Reading RA220N;
+Reading RA220P;
+Reading RA220Q;
+Reading RA220S;
+Reading RA220T;
+Reading RA220V;
+Reading RA220W;
+Reading RA220Y;
+Reading EA221A;
+Reading EA221C;
+Reading EA221D;
+Reading EA221F;
+Reading EA221G;
+Reading EA221H;
+Reading EA221I;
+Reading EA221K;
+Reading EA221L;
+Reading EA221M;
+Reading EA221N;
+Reading EA221P;
+Reading EA221Q;
+Reading EA221R;
+Reading EA221S;
+Reading EA221T;
+Reading EA221V;
+Reading EA221W;
+Reading EA221Y;
+Reading SA222A;
+Reading SA222C;
+Reading SA222D;
+Mutating residue = GLUA219 into ASN
+Mutating residue = GLUA219 into PRO
+Mutating residue = GLUA219 into GLN
+Mutating residue = GLUA219 into ARG
+Mutating residue = GLUA219 into SER
+Mutating residue = GLUA219 into THR
+Mutating residue = GLUA219 into VAL
+Mutating residue = GLUA219 into TRP
+Mutating residue = GLUA219 into TYR
+Mutating residue = ARGA220 into ALA
+Mutating residue = ARGA220 into CYS
+Mutating residue = ARGA220 into ASP
+Mutating residue = ARGA220 into GLU
+Mutating residue = ARGA220 into PHE
+Mutating residue = ARGA220 into GLY
+Mutating residue = ARGA220 into HIS
+Mutating residue = ARGA220 into ILE
+Mutating residue = ARGA220 into LYS
+Mutating residue = ARGA220 into LEU
+Mutating residue = ARGA220 into MET
+Mutating residue = ARGA220 into ASN
+Mutating residue = ARGA220 into PRO
+Mutating residue = ARGA220 into GLN
+Mutating residue = ARGA220 into SER
+Mutating residue = ARGA220 into THR
+Mutating residue = ARGA220 into VAL
+Mutating residue = ARGA220 into TRP
+Mutating residue = ARGA220 into TYR
+Mutating residue = GLUA221 into ALA
+Mutating residue = GLUA221 into CYS
+Mutating residue = GLUA221 into ASP
+Mutating residue = GLUA221 into PHE
+Mutating residue = GLUA221 into GLY
+Mutating residue = GLUA221 into HIS
+Mutating residue = GLUA221 into ILE
+Mutating residue = GLUA221 into LYS
+Mutating residue = GLUA221 into LEU
+Mutating residue = GLUA221 into MET
+Mutating residue = GLUA221 into ASN
+Mutating residue = GLUA221 into PRO
+Mutating residue = GLUA221 into GLN
+Mutating residue = GLUA221 into ARG
+Mutating residue = GLUA221 into SER
+Mutating residue = GLUA221 into THR
+Mutating residue = GLUA221 into VAL
+Mutating residue = GLUA221 into TRP
+Mutating residue = GLUA221 into TYR
+Mutating residue = SERA222 into ALA
+Mutating residue = SERA222 into CYS
+Mutating residue = SERA222 into ASP
+Your file run OK
+End time of FoldX: Sun May 17 15:29:27 2026
+Total time spend: 295.746 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

@@ -1,0 +1,36 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading VA129A;
+Reading VA129C;
+Reading VA129D;
+Reading VA129E;
+Reading VA129F;
+Reading VA129G;
+Reading VA129H;
+Reading VA129I;
+Reading VA129K;
+Reading VA129L;
+VA129A	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: VA129A in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg_structpos_retry1\batches\batch_00009\individual_list_batch_00009.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

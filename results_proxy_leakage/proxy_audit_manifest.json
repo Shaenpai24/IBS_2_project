@@ -1,0 +1,75 @@
+{
+  "input_csv": "prnp_mutation_features_tier2_structural.csv",
+  "rows": 4655,
+  "folds": 5,
+  "grouped_by": "position",
+  "proxy_formula_features": {
+    "chemical": [
+      "grantham",
+      "blosum62",
+      "delta_hydropathy",
+      "delta_volume",
+      "delta_charge",
+      "delta_polarity_flag"
+    ],
+    "conservation": [
+      "conservation_wt_freq",
+      "position_entropy"
+    ],
+    "structural": [
+      "af2_neighbor_count_8A",
+      "af2_is_buried_proxy",
+      "is_globular_domain_region",
+      "af2_plddt",
+      "delta_volume"
+    ]
+  },
+  "feature_groups": {
+    "biochemical_only": [
+      "grantham",
+      "blosum62",
+      "delta_hydropathy",
+      "delta_volume",
+      "delta_charge",
+      "wt_is_polar",
+      "mut_is_polar",
+      "delta_polarity_flag",
+      "delta_instability_index",
+      "delta_gravy",
+      "delta_pI",
+      "delta_net_charge",
+      "delta_aromaticity",
+      "delta_aliphatic_index",
+      "delta_hydrophobic_stretch_count",
+      "delta_octapeptide_repeat_count",
+      "delta_n_glyco_motif_count"
+    ],
+    "conservation_only": [
+      "conservation_wt_freq",
+      "conservation_mut_freq",
+      "conservation_delta_freq",
+      "position_entropy",
+      "position_observation_count"
+    ],
+    "structural_only": [
+      "af2_mapped",
+      "af2_struct_seq_id",
+      "af2_plddt",
+      "af2_plddt_window_mean_5",
+      "af2_plddt_window_min_5",
+      "af2_neighbor_count_8A",
+      "af2_neighbor_count_12A",
+      "af2_mean_neighbor_distance_8A",
+      "af2_min_neighbor_distance",
+      "af2_is_buried_proxy",
+      "af2_is_exposed_proxy",
+      "af2_is_low_confidence",
+      "af2_is_high_confidence",
+      "is_signal_peptide_region",
+      "is_octapeptide_repeat_region",
+      "is_globular_domain_region",
+      "is_gpi_anchor_region"
+    ]
+  },
+  "warning": "This audit evaluates proxy target circularity. It does not validate biological pathogenicity or experimental stability."
+}

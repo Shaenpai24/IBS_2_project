@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading QA219K;
+Reading QA219L;
+Reading QA219M;
+Reading QA219N;
+Reading QA219P;
+Reading QA219R;
+Reading QA219S;
+Reading QA219T;
+Reading QA219V;
+Reading QA219W;
+Reading QA219Y;
+Reading RA220A;
+Reading RA220C;
+Reading RA220D;
+Reading RA220E;
+Reading RA220F;
+Reading RA220G;
+Reading RA220H;
+Reading RA220I;
+Reading RA220K;
+Reading RA220L;
+Reading RA220M;
+Reading RA220N;
+Reading RA220P;
+Reading RA220Q;
+Reading RA220S;
+Reading RA220T;
+Reading RA220V;
+Reading RA220W;
+Reading RA220Y;
+Reading GA221A;
+Reading GA221C;
+Reading GA221D;
+Reading GA221E;
+Reading GA221F;
+Reading GA221H;
+Reading GA221I;
+Reading GA221K;
+Reading GA221L;
+Reading GA221M;
+Reading GA221N;
+Reading GA221P;
+Reading GA221Q;
+Reading GA221R;
+Reading GA221S;
+Reading GA221T;
+Reading GA221V;
+Reading GA221W;
+Reading GA221Y;
+Reading SA222A;
+QA219K	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: QA219K in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00084\individual_list_batch_00084.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

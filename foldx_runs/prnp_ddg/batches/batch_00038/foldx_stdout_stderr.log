@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading KA98I;
+Reading KA98L;
+Reading KA98M;
+Reading KA98N;
+Reading KA98P;
+Reading KA98Q;
+Reading KA98R;
+Reading KA98S;
+Reading KA98T;
+Reading KA98V;
+Reading KA98W;
+Reading KA98Y;
+Reading TA99A;
+Reading TA99C;
+Reading TA99D;
+Reading TA99E;
+Reading TA99F;
+Reading TA99G;
+Reading TA99H;
+Reading TA99I;
+Reading TA99K;
+Reading TA99L;
+Reading TA99M;
+Reading TA99N;
+Reading TA99P;
+Reading TA99Q;
+Reading TA99R;
+Reading TA99S;
+Reading TA99V;
+Reading TA99W;
+Reading TA99Y;
+Reading NA100A;
+Reading NA100C;
+Reading NA100D;
+Reading NA100E;
+Reading NA100F;
+Reading NA100G;
+Reading NA100H;
+Reading NA100I;
+Reading NA100K;
+Reading NA100L;
+Reading NA100M;
+Reading NA100P;
+Reading NA100Q;
+Reading NA100R;
+Reading NA100S;
+Reading NA100T;
+Reading NA100V;
+Reading NA100W;
+Reading NA100Y;
+KA98I	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: KA98I in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00038\individual_list_batch_00038.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

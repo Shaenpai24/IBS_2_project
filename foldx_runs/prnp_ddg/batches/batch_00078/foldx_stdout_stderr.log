@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading EA203Q;
+Reading EA203R;
+Reading EA203S;
+Reading EA203T;
+Reading EA203V;
+Reading EA203W;
+Reading EA203Y;
+Reading QA204A;
+Reading QA204C;
+Reading QA204D;
+Reading QA204E;
+Reading QA204F;
+Reading QA204G;
+Reading QA204H;
+Reading QA204I;
+Reading QA204K;
+Reading QA204L;
+Reading QA204M;
+Reading QA204N;
+Reading QA204P;
+Reading QA204R;
+Reading QA204S;
+Reading QA204T;
+Reading QA204V;
+Reading QA204W;
+Reading QA204Y;
+Reading MA205A;
+Reading MA205C;
+Reading MA205D;
+Reading MA205E;
+Reading MA205F;
+Reading MA205G;
+Reading MA205H;
+Reading MA205I;
+Reading MA205K;
+Reading MA205L;
+Reading MA205N;
+Reading MA205P;
+Reading MA205Q;
+Reading MA205R;
+Reading MA205S;
+Reading MA205T;
+Reading MA205V;
+Reading MA205W;
+Reading MA205Y;
+Reading CA206A;
+Reading CA206D;
+Reading CA206E;
+Reading CA206F;
+Reading CA206G;
+EA203Q	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: EA203Q in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00078\individual_list_batch_00078.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

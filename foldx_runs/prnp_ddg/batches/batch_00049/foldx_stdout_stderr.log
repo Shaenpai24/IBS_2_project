@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading SA127H;
+Reading SA127I;
+Reading SA127K;
+Reading SA127L;
+Reading SA127M;
+Reading SA127N;
+Reading SA127P;
+Reading SA127Q;
+Reading SA127R;
+Reading SA127T;
+Reading SA127V;
+Reading SA127W;
+Reading SA127Y;
+Reading RA128A;
+Reading RA128C;
+Reading RA128D;
+Reading RA128E;
+Reading RA128F;
+Reading RA128G;
+Reading RA128H;
+Reading RA128I;
+Reading RA128K;
+Reading RA128L;
+Reading RA128M;
+Reading RA128N;
+Reading RA128P;
+Reading RA128Q;
+Reading RA128S;
+Reading RA128T;
+Reading RA128V;
+Reading RA128W;
+Reading RA128Y;
+Reading PA129A;
+Reading PA129C;
+Reading PA129D;
+Reading PA129E;
+Reading PA129F;
+Reading PA129G;
+Reading PA129H;
+Reading PA129I;
+Reading PA129K;
+Reading PA129L;
+Reading PA129M;
+Reading PA129N;
+Reading PA129Q;
+Reading PA129R;
+Reading PA129S;
+Reading PA129T;
+Reading PA129V;
+Reading PA129W;
+SA127H	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: SA127H in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00049\individual_list_batch_00049.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

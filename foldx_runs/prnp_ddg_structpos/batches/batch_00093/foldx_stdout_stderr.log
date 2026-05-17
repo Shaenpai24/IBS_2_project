@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading IA251D;
+Reading IA251E;
+Reading IA251F;
+Reading IA251G;
+Reading IA251H;
+Reading IA251K;
+Reading IA251L;
+Reading IA251M;
+Reading IA251N;
+Reading IA251P;
+Reading IA251Q;
+Reading IA251R;
+Reading IA251S;
+Reading IA251T;
+Reading IA251V;
+Reading IA251W;
+Reading IA251Y;
+Reading VA252A;
+Reading VA252C;
+Reading VA252D;
+Reading VA252E;
+Reading VA252F;
+Reading VA252G;
+Reading VA252H;
+Reading VA252I;
+Reading VA252K;
+Reading VA252L;
+Reading VA252M;
+Reading VA252N;
+Reading VA252P;
+Reading VA252Q;
+Reading VA252R;
+Reading VA252S;
+Reading VA252T;
+Reading VA252W;
+Reading VA252Y;
+Reading GA253A;
+Reading GA253C;
+Reading GA253D;
+Reading GA253E;
+Reading GA253F;
+Reading GA253H;
+Reading GA253I;
+Reading GA253K;
+Reading GA253L;
+Reading GA253M;
+Reading GA253N;
+Reading GA253P;
+Reading GA253Q;
+Reading GA253R;
+Mutating residue = ILEA251 into ASP
+Mutating residue = ILEA251 into GLU
+Mutating residue = ILEA251 into PHE
+Mutating residue = ILEA251 into GLY
+Mutating residue = ILEA251 into HIS
+Mutating residue = ILEA251 into LYS
+Mutating residue = ILEA251 into LEU
+Mutating residue = ILEA251 into MET
+Mutating residue = ILEA251 into ASN
+Mutating residue = ILEA251 into PRO
+Mutating residue = ILEA251 into GLN
+Mutating residue = ILEA251 into ARG
+Mutating residue = ILEA251 into SER
+Mutating residue = ILEA251 into THR
+Mutating residue = ILEA251 into VAL
+Mutating residue = ILEA251 into TRP
+Mutating residue = ILEA251 into TYR
+Mutating residue = VALA252 into ALA
+Mutating residue = VALA252 into CYS
+Mutating residue = VALA252 into ASP
+Mutating residue = VALA252 into GLU
+Mutating residue = VALA252 into PHE
+Mutating residue = VALA252 into GLY
+Mutating residue = VALA252 into HIS
+Mutating residue = VALA252 into ILE
+Mutating residue = VALA252 into LYS
+Mutating residue = VALA252 into LEU
+Mutating residue = VALA252 into MET
+Mutating residue = VALA252 into ASN
+Mutating residue = VALA252 into PRO
+Mutating residue = VALA252 into GLN
+Mutating residue = VALA252 into ARG
+Mutating residue = VALA252 into SER
+Mutating residue = VALA252 into THR
+Mutating residue = VALA252 into TRP
+Mutating residue = VALA252 into TYR
+Mutating residue = GLYA253 into ALA
+Mutating residue = GLYA253 into CYS
+Mutating residue = GLYA253 into ASP
+Mutating residue = GLYA253 into GLU
+Mutating residue = GLYA253 into PHE
+Mutating residue = GLYA253 into HIS
+Mutating residue = GLYA253 into ILE
+Mutating residue = GLYA253 into LYS
+Mutating residue = GLYA253 into LEU
+Mutating residue = GLYA253 into MET
+Mutating residue = GLYA253 into ASN
+Mutating residue = GLYA253 into PRO
+Mutating residue = GLYA253 into GLN
+Mutating residue = GLYA253 into ARG
+Your file run OK
+End time of FoldX: Sun May 17 16:12:55 2026
+Total time spend: 111.023 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

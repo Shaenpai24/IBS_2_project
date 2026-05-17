@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading PA137Y;
+Reading IA138A;
+Reading IA138C;
+Reading IA138D;
+Reading IA138E;
+Reading IA138F;
+Reading IA138G;
+Reading IA138H;
+Reading IA138K;
+Reading IA138L;
+Reading IA138M;
+Reading IA138N;
+Reading IA138P;
+Reading IA138Q;
+Reading IA138R;
+Reading IA138S;
+Reading IA138T;
+Reading IA138V;
+Reading IA138W;
+Reading IA138Y;
+Reading IA139A;
+Reading IA139C;
+Reading IA139D;
+Reading IA139E;
+Reading IA139F;
+Reading IA139G;
+Reading IA139H;
+Reading IA139K;
+Reading IA139L;
+Reading IA139M;
+Reading IA139N;
+Reading IA139P;
+Reading IA139Q;
+Reading IA139R;
+Reading IA139S;
+Reading IA139T;
+Reading IA139V;
+Reading IA139W;
+Reading IA139Y;
+Reading HA140A;
+Reading HA140C;
+Reading HA140D;
+Reading HA140E;
+Reading HA140F;
+Reading HA140G;
+Reading HA140I;
+Reading HA140K;
+Reading HA140L;
+Reading HA140M;
+Reading HA140N;
+Mutating residue = PROA137 into TYR
+Mutating residue = ILEA138 into ALA
+Mutating residue = ILEA138 into CYS
+Mutating residue = ILEA138 into ASP
+Mutating residue = ILEA138 into GLU
+Mutating residue = ILEA138 into PHE
+Mutating residue = ILEA138 into GLY
+Mutating residue = ILEA138 into HIS
+Mutating residue = ILEA138 into LYS
+Mutating residue = ILEA138 into LEU
+Mutating residue = ILEA138 into MET
+Mutating residue = ILEA138 into ASN
+Mutating residue = ILEA138 into PRO
+Mutating residue = ILEA138 into GLN
+Mutating residue = ILEA138 into ARG
+Mutating residue = ILEA138 into SER
+Mutating residue = ILEA138 into THR
+Mutating residue = ILEA138 into VAL
+Mutating residue = ILEA138 into TRP
+Mutating residue = ILEA138 into TYR
+Mutating residue = ILEA139 into ALA
+Mutating residue = ILEA139 into CYS
+Mutating residue = ILEA139 into ASP
+Mutating residue = ILEA139 into GLU
+Mutating residue = ILEA139 into PHE
+Mutating residue = ILEA139 into GLY
+Mutating residue = ILEA139 into HIS
+Mutating residue = ILEA139 into LYS
+Mutating residue = ILEA139 into LEU
+Mutating residue = ILEA139 into MET
+Mutating residue = ILEA139 into ASN
+Mutating residue = ILEA139 into PRO
+Mutating residue = ILEA139 into GLN
+Mutating residue = ILEA139 into ARG
+Mutating residue = ILEA139 into SER
+Mutating residue = ILEA139 into THR
+Mutating residue = ILEA139 into VAL
+Mutating residue = ILEA139 into TRP
+Mutating residue = ILEA139 into TYR
+Mutating residue = H1SA140 into ALA
+Mutating residue = H1SA140 into CYS
+Mutating residue = H1SA140 into ASP
+Mutating residue = H1SA140 into GLU
+Mutating residue = H1SA140 into PHE
+Mutating residue = H1SA140 into GLY
+Mutating residue = H1SA140 into ILE
+Mutating residue = H1SA140 into LYS
+Mutating residue = H1SA140 into LEU
+Mutating residue = H1SA140 into MET
+Mutating residue = H1SA140 into ASN
+Your file run OK
+End time of FoldX: Sun May 17 12:16:07 2026
+Total time spend: 224.575 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

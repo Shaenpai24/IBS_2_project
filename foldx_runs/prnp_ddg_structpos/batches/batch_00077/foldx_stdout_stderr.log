@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading VA209A;
+Reading VA209C;
+Reading VA209D;
+Reading VA209E;
+Reading VA209F;
+Reading VA209G;
+Reading VA209H;
+Reading VA209I;
+Reading VA209K;
+Reading VA209L;
+Reading VA209M;
+Reading VA209N;
+Reading VA209P;
+Reading VA209Q;
+Reading VA209R;
+Reading VA209S;
+Reading VA209T;
+Reading VA209W;
+Reading VA209Y;
+Reading VA210A;
+Reading VA210C;
+Reading VA210D;
+Reading VA210E;
+Reading VA210F;
+Reading VA210G;
+Reading VA210H;
+Reading VA210I;
+Reading VA210K;
+Reading VA210L;
+Reading VA210M;
+Reading VA210N;
+Reading VA210P;
+Reading VA210Q;
+Reading VA210R;
+Reading VA210S;
+Reading VA210T;
+Reading VA210W;
+Reading VA210Y;
+Reading EA211A;
+Reading EA211C;
+Reading EA211D;
+Reading EA211F;
+Reading EA211G;
+Reading EA211H;
+Reading EA211I;
+Reading EA211K;
+Reading EA211L;
+Reading EA211M;
+Reading EA211N;
+Reading EA211P;
+Mutating residue = VALA209 into ALA
+Mutating residue = VALA209 into CYS
+Mutating residue = VALA209 into ASP
+Mutating residue = VALA209 into GLU
+Mutating residue = VALA209 into PHE
+Mutating residue = VALA209 into GLY
+Mutating residue = VALA209 into HIS
+Mutating residue = VALA209 into ILE
+Mutating residue = VALA209 into LYS
+Mutating residue = VALA209 into LEU
+Mutating residue = VALA209 into MET
+Mutating residue = VALA209 into ASN
+Mutating residue = VALA209 into PRO
+Mutating residue = VALA209 into GLN
+Mutating residue = VALA209 into ARG
+Mutating residue = VALA209 into SER
+Mutating residue = VALA209 into THR
+Mutating residue = VALA209 into TRP
+Mutating residue = VALA209 into TYR
+Mutating residue = VALA210 into ALA
+Mutating residue = VALA210 into CYS
+Mutating residue = VALA210 into ASP
+Mutating residue = VALA210 into GLU
+Mutating residue = VALA210 into PHE
+Mutating residue = VALA210 into GLY
+Mutating residue = VALA210 into HIS
+Mutating residue = VALA210 into ILE
+Mutating residue = VALA210 into LYS
+Mutating residue = VALA210 into LEU
+Mutating residue = VALA210 into MET
+Mutating residue = VALA210 into ASN
+Mutating residue = VALA210 into PRO
+Mutating residue = VALA210 into GLN
+Mutating residue = VALA210 into ARG
+Mutating residue = VALA210 into SER
+Mutating residue = VALA210 into THR
+Mutating residue = VALA210 into TRP
+Mutating residue = VALA210 into TYR
+Mutating residue = GLUA211 into ALA
+Mutating residue = GLUA211 into CYS
+Mutating residue = GLUA211 into ASP
+Mutating residue = GLUA211 into PHE
+Mutating residue = GLUA211 into GLY
+Mutating residue = GLUA211 into HIS
+Mutating residue = GLUA211 into ILE
+Mutating residue = GLUA211 into LYS
+Mutating residue = GLUA211 into LEU
+Mutating residue = GLUA211 into MET
+Mutating residue = GLUA211 into ASN
+Mutating residue = GLUA211 into PRO
+Your file run OK
+End time of FoldX: Sun May 17 15:08:52 2026
+Total time spend: 320.827 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

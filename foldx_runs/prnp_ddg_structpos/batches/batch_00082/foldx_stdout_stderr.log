@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading SA222E;
+Reading SA222F;
+Reading SA222G;
+Reading SA222H;
+Reading SA222I;
+Reading SA222K;
+Reading SA222L;
+Reading SA222M;
+Reading SA222N;
+Reading SA222P;
+Reading SA222Q;
+Reading SA222R;
+Reading SA222T;
+Reading SA222V;
+Reading SA222W;
+Reading SA222Y;
+Reading QA223A;
+Reading QA223C;
+Reading QA223D;
+Reading QA223E;
+Reading QA223F;
+Reading QA223G;
+Reading QA223H;
+Reading QA223I;
+Reading QA223K;
+Reading QA223L;
+Reading QA223M;
+Reading QA223N;
+Reading QA223P;
+Reading QA223R;
+Reading QA223S;
+Reading QA223T;
+Reading QA223V;
+Reading QA223W;
+Reading QA223Y;
+Reading AA224C;
+Reading AA224D;
+Reading AA224E;
+Reading AA224F;
+Reading AA224G;
+Reading AA224H;
+Reading AA224I;
+Reading AA224K;
+Reading AA224L;
+Reading AA224M;
+Reading AA224N;
+Reading AA224P;
+Reading AA224Q;
+Reading AA224R;
+Reading AA224S;
+Mutating residue = SERA222 into GLU
+Mutating residue = SERA222 into PHE
+Mutating residue = SERA222 into GLY
+Mutating residue = SERA222 into HIS
+Mutating residue = SERA222 into ILE
+Mutating residue = SERA222 into LYS
+Mutating residue = SERA222 into LEU
+Mutating residue = SERA222 into MET
+Mutating residue = SERA222 into ASN
+Mutating residue = SERA222 into PRO
+Mutating residue = SERA222 into GLN
+Mutating residue = SERA222 into ARG
+Mutating residue = SERA222 into THR
+Mutating residue = SERA222 into VAL
+Mutating residue = SERA222 into TRP
+Mutating residue = SERA222 into TYR
+Mutating residue = GLNA223 into ALA
+Mutating residue = GLNA223 into CYS
+Mutating residue = GLNA223 into ASP
+Mutating residue = GLNA223 into GLU
+Mutating residue = GLNA223 into PHE
+Mutating residue = GLNA223 into GLY
+Mutating residue = GLNA223 into HIS
+Mutating residue = GLNA223 into ILE
+Mutating residue = GLNA223 into LYS
+Mutating residue = GLNA223 into LEU
+Mutating residue = GLNA223 into MET
+Mutating residue = GLNA223 into ASN
+Mutating residue = GLNA223 into PRO
+Mutating residue = GLNA223 into ARG
+Mutating residue = GLNA223 into SER
+Mutating residue = GLNA223 into THR
+Mutating residue = GLNA223 into VAL
+Mutating residue = GLNA223 into TRP
+Mutating residue = GLNA223 into TYR
+Mutating residue = ALAA224 into CYS
+Mutating residue = ALAA224 into ASP
+Mutating residue = ALAA224 into GLU
+Mutating residue = ALAA224 into PHE
+Mutating residue = ALAA224 into GLY
+Mutating residue = ALAA224 into HIS
+Mutating residue = ALAA224 into ILE
+Mutating residue = ALAA224 into LYS
+Mutating residue = ALAA224 into LEU
+Mutating residue = ALAA224 into MET
+Mutating residue = ALAA224 into ASN
+Mutating residue = ALAA224 into PRO
+Mutating residue = ALAA224 into GLN
+Mutating residue = ALAA224 into ARG
+Mutating residue = ALAA224 into SER
+Your file run OK
+End time of FoldX: Sun May 17 15:35:52 2026
+Total time spend: 385.234 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

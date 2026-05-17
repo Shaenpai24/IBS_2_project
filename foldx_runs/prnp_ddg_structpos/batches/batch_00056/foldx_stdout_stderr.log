@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading NA153S;
+Reading NA153T;
+Reading NA153V;
+Reading NA153W;
+Reading NA153Y;
+Reading MA154A;
+Reading MA154C;
+Reading MA154D;
+Reading MA154E;
+Reading MA154F;
+Reading MA154G;
+Reading MA154H;
+Reading MA154I;
+Reading MA154K;
+Reading MA154L;
+Reading MA154N;
+Reading MA154P;
+Reading MA154Q;
+Reading MA154R;
+Reading MA154S;
+Reading MA154T;
+Reading MA154V;
+Reading MA154W;
+Reading MA154Y;
+Reading HA155A;
+Reading HA155C;
+Reading HA155D;
+Reading HA155E;
+Reading HA155F;
+Reading HA155G;
+Reading HA155I;
+Reading HA155K;
+Reading HA155L;
+Reading HA155M;
+Reading HA155N;
+Reading HA155P;
+Reading HA155Q;
+Reading HA155R;
+Reading HA155S;
+Reading HA155T;
+Reading HA155V;
+Reading HA155W;
+Reading HA155Y;
+Reading RA156A;
+Reading RA156C;
+Reading RA156D;
+Reading RA156E;
+Reading RA156F;
+Reading RA156G;
+Reading RA156H;
+Mutating residue = ASNA153 into SER
+Mutating residue = ASNA153 into THR
+Mutating residue = ASNA153 into VAL
+Mutating residue = ASNA153 into TRP
+Mutating residue = ASNA153 into TYR
+Mutating residue = META154 into ALA
+Mutating residue = META154 into CYS
+Mutating residue = META154 into ASP
+Mutating residue = META154 into GLU
+Mutating residue = META154 into PHE
+Mutating residue = META154 into GLY
+Mutating residue = META154 into HIS
+Mutating residue = META154 into ILE
+Mutating residue = META154 into LYS
+Mutating residue = META154 into LEU
+Mutating residue = META154 into ASN
+Mutating residue = META154 into PRO
+Mutating residue = META154 into GLN
+Mutating residue = META154 into ARG
+Mutating residue = META154 into SER
+Mutating residue = META154 into THR
+Mutating residue = META154 into VAL
+Mutating residue = META154 into TRP
+Mutating residue = META154 into TYR
+Mutating residue = HISA155 into ALA
+Mutating residue = HISA155 into CYS
+Mutating residue = HISA155 into ASP
+Mutating residue = HISA155 into GLU
+Mutating residue = HISA155 into PHE
+Mutating residue = HISA155 into GLY
+Mutating residue = HISA155 into ILE
+Mutating residue = HISA155 into LYS
+Mutating residue = HISA155 into LEU
+Mutating residue = HISA155 into MET
+Mutating residue = HISA155 into ASN
+Mutating residue = HISA155 into PRO
+Mutating residue = HISA155 into GLN
+Mutating residue = HISA155 into ARG
+Mutating residue = HISA155 into SER
+Mutating residue = HISA155 into THR
+Mutating residue = HISA155 into VAL
+Mutating residue = HISA155 into TRP
+Mutating residue = HISA155 into TYR
+Mutating residue = ARGA156 into ALA
+Mutating residue = ARGA156 into CYS
+Mutating residue = ARGA156 into ASP
+Mutating residue = ARGA156 into GLU
+Mutating residue = ARGA156 into PHE
+Mutating residue = ARGA156 into GLY
+Mutating residue = ARGA156 into HIS
+Your file run OK
+End time of FoldX: Sun May 17 12:47:57 2026
+Total time spend: 384.192 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

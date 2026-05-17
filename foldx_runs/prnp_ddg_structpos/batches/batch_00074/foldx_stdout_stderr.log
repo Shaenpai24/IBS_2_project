@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading TA201D;
+Reading TA201E;
+Reading TA201F;
+Reading TA201G;
+Reading TA201H;
+Reading TA201I;
+Reading TA201K;
+Reading TA201L;
+Reading TA201M;
+Reading TA201N;
+Reading TA201P;
+Reading TA201Q;
+Reading TA201R;
+Reading TA201S;
+Reading TA201V;
+Reading TA201W;
+Reading TA201Y;
+Reading DA202A;
+Reading DA202C;
+Reading DA202E;
+Reading DA202F;
+Reading DA202G;
+Reading DA202H;
+Reading DA202I;
+Reading DA202K;
+Reading DA202L;
+Reading DA202M;
+Reading DA202N;
+Reading DA202P;
+Reading DA202Q;
+Reading DA202R;
+Reading DA202S;
+Reading DA202T;
+Reading DA202V;
+Reading DA202W;
+Reading DA202Y;
+Reading VA203A;
+Reading VA203C;
+Reading VA203D;
+Reading VA203E;
+Reading VA203F;
+Reading VA203G;
+Reading VA203H;
+Reading VA203I;
+Reading VA203K;
+Reading VA203L;
+Reading VA203M;
+Reading VA203N;
+Reading VA203P;
+Reading VA203Q;
+Mutating residue = THRA201 into ASP
+Mutating residue = THRA201 into GLU
+Mutating residue = THRA201 into PHE
+Mutating residue = THRA201 into GLY
+Mutating residue = THRA201 into HIS
+Mutating residue = THRA201 into ILE
+Mutating residue = THRA201 into LYS
+Mutating residue = THRA201 into LEU
+Mutating residue = THRA201 into MET
+Mutating residue = THRA201 into ASN
+Mutating residue = THRA201 into PRO
+Mutating residue = THRA201 into GLN
+Mutating residue = THRA201 into ARG
+Mutating residue = THRA201 into SER
+Mutating residue = THRA201 into VAL
+Mutating residue = THRA201 into TRP
+Mutating residue = THRA201 into TYR
+Mutating residue = ASPA202 into ALA
+Mutating residue = ASPA202 into CYS
+Mutating residue = ASPA202 into GLU
+Mutating residue = ASPA202 into PHE
+Mutating residue = ASPA202 into GLY
+Mutating residue = ASPA202 into HIS
+Mutating residue = ASPA202 into ILE
+Mutating residue = ASPA202 into LYS
+Mutating residue = ASPA202 into LEU
+Mutating residue = ASPA202 into MET
+Mutating residue = ASPA202 into ASN
+Mutating residue = ASPA202 into PRO
+Mutating residue = ASPA202 into GLN
+Mutating residue = ASPA202 into ARG
+Mutating residue = ASPA202 into SER
+Mutating residue = ASPA202 into THR
+Mutating residue = ASPA202 into VAL
+Mutating residue = ASPA202 into TRP
+Mutating residue = ASPA202 into TYR
+Mutating residue = VALA203 into ALA
+Mutating residue = VALA203 into CYS
+Mutating residue = VALA203 into ASP
+Mutating residue = VALA203 into GLU
+Mutating residue = VALA203 into PHE
+Mutating residue = VALA203 into GLY
+Mutating residue = VALA203 into HIS
+Mutating residue = VALA203 into ILE
+Mutating residue = VALA203 into LYS
+Mutating residue = VALA203 into LEU
+Mutating residue = VALA203 into MET
+Mutating residue = VALA203 into ASN
+Mutating residue = VALA203 into PRO
+Mutating residue = VALA203 into GLN
+Your file run OK
+End time of FoldX: Sun May 17 14:47:21 2026
+Total time spend: 355.686 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

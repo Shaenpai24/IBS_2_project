@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading HA69N;
+Reading HA69P;
+Reading HA69Q;
+Reading HA69R;
+Reading HA69S;
+Reading HA69T;
+Reading HA69V;
+Reading HA69W;
+Reading HA69Y;
+Reading GA70A;
+Reading GA70C;
+Reading GA70D;
+Reading GA70E;
+Reading GA70F;
+Reading GA70H;
+Reading GA70I;
+Reading GA70K;
+Reading GA70L;
+Reading GA70M;
+Reading GA70N;
+Reading GA70P;
+Reading GA70Q;
+Reading GA70R;
+Reading GA70S;
+Reading GA70T;
+Reading GA70V;
+Reading GA70W;
+Reading GA70Y;
+Reading GA71A;
+Reading GA71C;
+Reading GA71D;
+Reading GA71E;
+Reading GA71F;
+Reading GA71H;
+Reading GA71I;
+Reading GA71K;
+Reading GA71L;
+Reading GA71M;
+Reading GA71N;
+Reading GA71P;
+Reading GA71Q;
+Reading GA71R;
+Reading GA71S;
+Reading GA71T;
+Reading GA71V;
+Reading GA71W;
+Reading GA71Y;
+Reading GA72A;
+Reading GA72C;
+Reading GA72D;
+Mutating residue = H1SA69 into ASN
+Mutating residue = H1SA69 into PRO
+Mutating residue = H1SA69 into GLN
+Mutating residue = H1SA69 into ARG
+Mutating residue = H1SA69 into SER
+Mutating residue = H1SA69 into THR
+Mutating residue = H1SA69 into VAL
+Mutating residue = H1SA69 into TRP
+Mutating residue = H1SA69 into TYR
+Mutating residue = GLYA70 into ALA
+Mutating residue = GLYA70 into CYS
+Mutating residue = GLYA70 into ASP
+Mutating residue = GLYA70 into GLU
+Mutating residue = GLYA70 into PHE
+Mutating residue = GLYA70 into HIS
+Mutating residue = GLYA70 into ILE
+Mutating residue = GLYA70 into LYS
+Mutating residue = GLYA70 into LEU
+Mutating residue = GLYA70 into MET
+Mutating residue = GLYA70 into ASN
+Mutating residue = GLYA70 into PRO
+Mutating residue = GLYA70 into GLN
+Mutating residue = GLYA70 into ARG
+Mutating residue = GLYA70 into SER
+Mutating residue = GLYA70 into THR
+Mutating residue = GLYA70 into VAL
+Mutating residue = GLYA70 into TRP
+Mutating residue = GLYA70 into TYR
+Mutating residue = GLYA71 into ALA
+Mutating residue = GLYA71 into CYS
+Mutating residue = GLYA71 into ASP
+Mutating residue = GLYA71 into GLU
+Mutating residue = GLYA71 into PHE
+Mutating residue = GLYA71 into HIS
+Mutating residue = GLYA71 into ILE
+Mutating residue = GLYA71 into LYS
+Mutating residue = GLYA71 into LEU
+Mutating residue = GLYA71 into MET
+Mutating residue = GLYA71 into ASN
+Mutating residue = GLYA71 into PRO
+Mutating residue = GLYA71 into GLN
+Mutating residue = GLYA71 into ARG
+Mutating residue = GLYA71 into SER
+Mutating residue = GLYA71 into THR
+Mutating residue = GLYA71 into VAL
+Mutating residue = GLYA71 into TRP
+Mutating residue = GLYA71 into TYR
+Mutating residue = GLYA72 into ALA
+Mutating residue = GLYA72 into CYS
+Mutating residue = GLYA72 into ASP
+Your file run OK
+End time of FoldX: Sun May 17 01:59:55 2026
+Total time spend: 26.256 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading SA135F;
+Reading SA135G;
+Reading SA135H;
+Reading SA135I;
+Reading SA135K;
+Reading SA135L;
+Reading SA135M;
+Reading SA135N;
+Reading SA135P;
+Reading SA135Q;
+Reading SA135R;
+Reading SA135T;
+Reading SA135V;
+Reading SA135W;
+Reading SA135Y;
+Reading DA136A;
+Reading DA136C;
+Reading DA136E;
+Reading DA136F;
+Reading DA136G;
+Reading DA136H;
+Reading DA136I;
+Reading DA136K;
+Reading DA136L;
+Reading DA136M;
+Reading DA136N;
+Reading DA136P;
+Reading DA136Q;
+Reading DA136R;
+Reading DA136S;
+Reading DA136T;
+Reading DA136V;
+Reading DA136W;
+Reading DA136Y;
+Reading YA137A;
+Reading YA137C;
+Reading YA137D;
+Reading YA137E;
+Reading YA137F;
+Reading YA137G;
+Reading YA137H;
+Reading YA137I;
+Reading YA137K;
+Reading YA137L;
+Reading YA137M;
+Reading YA137N;
+Reading YA137P;
+Reading YA137Q;
+Reading YA137R;
+Reading YA137S;
+DA136A	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: DA136A in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00052\individual_list_batch_00052.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

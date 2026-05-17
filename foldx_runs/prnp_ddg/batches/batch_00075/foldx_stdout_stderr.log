@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading VA195R;
+Reading VA195S;
+Reading VA195T;
+Reading VA195W;
+Reading VA195Y;
+Reading KA196A;
+Reading KA196C;
+Reading KA196D;
+Reading KA196E;
+Reading KA196F;
+Reading KA196G;
+Reading KA196H;
+Reading KA196I;
+Reading KA196L;
+Reading KA196M;
+Reading KA196N;
+Reading KA196P;
+Reading KA196Q;
+Reading KA196R;
+Reading KA196S;
+Reading KA196T;
+Reading KA196V;
+Reading KA196W;
+Reading KA196Y;
+Reading MA197A;
+Reading MA197C;
+Reading MA197D;
+Reading MA197E;
+Reading MA197F;
+Reading MA197G;
+Reading MA197H;
+Reading MA197I;
+Reading MA197K;
+Reading MA197L;
+Reading MA197N;
+Reading MA197P;
+Reading MA197Q;
+Reading MA197R;
+Reading MA197S;
+Reading MA197T;
+Reading MA197V;
+Reading MA197W;
+Reading MA197Y;
+Reading MA198A;
+Reading MA198C;
+Reading MA198D;
+Reading MA198E;
+Reading MA198F;
+Reading MA198G;
+Reading MA198H;
+VA195R	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: VA195R in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00075\individual_list_batch_00075.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

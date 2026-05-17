@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading NA174T;
+Reading NA174V;
+Reading NA174W;
+Reading NA174Y;
+Reading FA175A;
+Reading FA175C;
+Reading FA175D;
+Reading FA175E;
+Reading FA175G;
+Reading FA175H;
+Reading FA175I;
+Reading FA175K;
+Reading FA175L;
+Reading FA175M;
+Reading FA175N;
+Reading FA175P;
+Reading FA175Q;
+Reading FA175R;
+Reading FA175S;
+Reading FA175T;
+Reading FA175V;
+Reading FA175W;
+Reading FA175Y;
+Reading VA176A;
+Reading VA176C;
+Reading VA176D;
+Reading VA176E;
+Reading VA176F;
+Reading VA176G;
+Reading VA176H;
+Reading VA176I;
+Reading VA176K;
+Reading VA176L;
+Reading VA176M;
+Reading VA176N;
+Reading VA176P;
+Reading VA176Q;
+Reading VA176R;
+Reading VA176S;
+Reading VA176T;
+Reading VA176W;
+Reading VA176Y;
+Reading HA177A;
+Reading HA177C;
+Reading HA177D;
+Reading HA177E;
+Reading HA177F;
+Reading HA177G;
+Reading HA177I;
+Reading HA177K;
+Mutating residue = ASNA174 into THR
+Mutating residue = ASNA174 into VAL
+Mutating residue = ASNA174 into TRP
+Mutating residue = ASNA174 into TYR
+Mutating residue = PHEA175 into ALA
+Mutating residue = PHEA175 into CYS
+Mutating residue = PHEA175 into ASP
+Mutating residue = PHEA175 into GLU
+Mutating residue = PHEA175 into GLY
+Mutating residue = PHEA175 into HIS
+Mutating residue = PHEA175 into ILE
+Mutating residue = PHEA175 into LYS
+Mutating residue = PHEA175 into LEU
+Mutating residue = PHEA175 into MET
+Mutating residue = PHEA175 into ASN
+Mutating residue = PHEA175 into PRO
+Mutating residue = PHEA175 into GLN
+Mutating residue = PHEA175 into ARG
+Mutating residue = PHEA175 into SER
+Mutating residue = PHEA175 into THR
+Mutating residue = PHEA175 into VAL
+Mutating residue = PHEA175 into TRP
+Mutating residue = PHEA175 into TYR
+Mutating residue = VALA176 into ALA
+Mutating residue = VALA176 into CYS
+Mutating residue = VALA176 into ASP
+Mutating residue = VALA176 into GLU
+Mutating residue = VALA176 into PHE
+Mutating residue = VALA176 into GLY
+Mutating residue = VALA176 into HIS
+Mutating residue = VALA176 into ILE
+Mutating residue = VALA176 into LYS
+Mutating residue = VALA176 into LEU
+Mutating residue = VALA176 into MET
+Mutating residue = VALA176 into ASN
+Mutating residue = VALA176 into PRO
+Mutating residue = VALA176 into GLN
+Mutating residue = VALA176 into ARG
+Mutating residue = VALA176 into SER
+Mutating residue = VALA176 into THR
+Mutating residue = VALA176 into TRP
+Mutating residue = VALA176 into TYR
+Mutating residue = H2SA177 into ALA
+Mutating residue = H2SA177 into CYS
+Mutating residue = H2SA177 into ASP
+Mutating residue = H2SA177 into GLU
+Mutating residue = H2SA177 into PHE
+Mutating residue = H2SA177 into GLY
+Mutating residue = H2SA177 into ILE
+Mutating residue = H2SA177 into LYS
+Your file run OK
+End time of FoldX: Sun May 17 13:30:02 2026
+Total time spend: 349.235 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

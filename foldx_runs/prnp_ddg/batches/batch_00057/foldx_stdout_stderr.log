@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading RA148I;
+Reading RA148K;
+Reading RA148L;
+Reading RA148M;
+Reading RA148N;
+Reading RA148P;
+Reading RA148Q;
+Reading RA148S;
+Reading RA148T;
+Reading RA148V;
+Reading RA148W;
+Reading RA148Y;
+Reading YA149A;
+Reading YA149C;
+Reading YA149D;
+Reading YA149E;
+Reading YA149F;
+Reading YA149G;
+Reading YA149H;
+Reading YA149I;
+Reading YA149K;
+Reading YA149L;
+Reading YA149M;
+Reading YA149N;
+Reading YA149P;
+Reading YA149Q;
+Reading YA149R;
+Reading YA149S;
+Reading YA149T;
+Reading YA149V;
+Reading YA149W;
+Reading PA150A;
+Reading PA150C;
+Reading PA150D;
+Reading PA150E;
+Reading PA150F;
+Reading PA150G;
+Reading PA150H;
+Reading PA150I;
+Reading PA150K;
+Reading PA150L;
+Reading PA150M;
+Reading PA150N;
+Reading PA150Q;
+Reading PA150R;
+Reading PA150S;
+Reading PA150T;
+Reading PA150V;
+Reading PA150W;
+Reading PA150Y;
+PA150A	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: PA150A in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00057\individual_list_batch_00057.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

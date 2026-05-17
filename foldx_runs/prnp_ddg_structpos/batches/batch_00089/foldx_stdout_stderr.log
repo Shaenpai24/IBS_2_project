@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading VA240N;
+Reading VA240P;
+Reading VA240Q;
+Reading VA240R;
+Reading VA240S;
+Reading VA240T;
+Reading VA240W;
+Reading VA240Y;
+Reading IA241A;
+Reading IA241C;
+Reading IA241D;
+Reading IA241E;
+Reading IA241F;
+Reading IA241G;
+Reading IA241H;
+Reading IA241K;
+Reading IA241L;
+Reading IA241M;
+Reading IA241N;
+Reading IA241P;
+Reading IA241Q;
+Reading IA241R;
+Reading IA241S;
+Reading IA241T;
+Reading IA241V;
+Reading IA241W;
+Reading IA241Y;
+Reading LA242A;
+Reading LA242C;
+Reading LA242D;
+Reading LA242E;
+Reading LA242F;
+Reading LA242G;
+Reading LA242H;
+Reading LA242I;
+Reading LA242K;
+Reading LA242M;
+Reading LA242N;
+Reading LA242P;
+Reading LA242Q;
+Reading LA242R;
+Reading LA242S;
+Reading LA242T;
+Reading LA242V;
+Reading LA242W;
+Reading LA242Y;
+Reading LA243A;
+Reading LA243C;
+Reading LA243D;
+Reading LA243E;
+Mutating residue = VALA240 into ASN
+Mutating residue = VALA240 into PRO
+Mutating residue = VALA240 into GLN
+Mutating residue = VALA240 into ARG
+Mutating residue = VALA240 into SER
+Mutating residue = VALA240 into THR
+Mutating residue = VALA240 into TRP
+Mutating residue = VALA240 into TYR
+Mutating residue = ILEA241 into ALA
+Mutating residue = ILEA241 into CYS
+Mutating residue = ILEA241 into ASP
+Mutating residue = ILEA241 into GLU
+Mutating residue = ILEA241 into PHE
+Mutating residue = ILEA241 into GLY
+Mutating residue = ILEA241 into HIS
+Mutating residue = ILEA241 into LYS
+Mutating residue = ILEA241 into LEU
+Mutating residue = ILEA241 into MET
+Mutating residue = ILEA241 into ASN
+Mutating residue = ILEA241 into PRO
+Mutating residue = ILEA241 into GLN
+Mutating residue = ILEA241 into ARG
+Mutating residue = ILEA241 into SER
+Mutating residue = ILEA241 into THR
+Mutating residue = ILEA241 into VAL
+Mutating residue = ILEA241 into TRP
+Mutating residue = ILEA241 into TYR
+Mutating residue = LEUA242 into ALA
+Mutating residue = LEUA242 into CYS
+Mutating residue = LEUA242 into ASP
+Mutating residue = LEUA242 into GLU
+Mutating residue = LEUA242 into PHE
+Mutating residue = LEUA242 into GLY
+Mutating residue = LEUA242 into HIS
+Mutating residue = LEUA242 into ILE
+Mutating residue = LEUA242 into LYS
+Mutating residue = LEUA242 into MET
+Mutating residue = LEUA242 into ASN
+Mutating residue = LEUA242 into PRO
+Mutating residue = LEUA242 into GLN
+Mutating residue = LEUA242 into ARG
+Mutating residue = LEUA242 into SER
+Mutating residue = LEUA242 into THR
+Mutating residue = LEUA242 into VAL
+Mutating residue = LEUA242 into TRP
+Mutating residue = LEUA242 into TYR
+Mutating residue = LEUA243 into ALA
+Mutating residue = LEUA243 into CYS
+Mutating residue = LEUA243 into ASP
+Mutating residue = LEUA243 into GLU
+Your file run OK
+End time of FoldX: Sun May 17 15:59:55 2026
+Total time spend: 142.616 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

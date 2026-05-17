@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading GA119L;
+Reading GA119M;
+Reading GA119N;
+Reading GA119P;
+Reading GA119Q;
+Reading GA119R;
+Reading GA119S;
+Reading GA119T;
+Reading GA119V;
+Reading GA119W;
+Reading GA119Y;
+Reading YA120A;
+Reading YA120C;
+Reading YA120D;
+Reading YA120E;
+Reading YA120F;
+Reading YA120G;
+Reading YA120H;
+Reading YA120I;
+Reading YA120K;
+Reading YA120L;
+Reading YA120M;
+Reading YA120N;
+Reading YA120P;
+Reading YA120Q;
+Reading YA120R;
+Reading YA120S;
+Reading YA120T;
+Reading YA120V;
+Reading YA120W;
+Reading VA121A;
+Reading VA121C;
+Reading VA121D;
+Reading VA121E;
+Reading VA121F;
+Reading VA121G;
+Reading VA121H;
+Reading VA121I;
+Reading VA121K;
+Reading VA121L;
+Reading VA121M;
+Reading VA121N;
+Reading VA121P;
+Reading VA121Q;
+Reading VA121R;
+Reading VA121S;
+Reading VA121T;
+Reading VA121W;
+Reading VA121Y;
+Reading LA122A;
+YA120A	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: YA120A in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00046\individual_list_batch_00046.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

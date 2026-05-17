@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading AA14F;
+Reading AA14G;
+Reading AA14H;
+Reading AA14I;
+Reading AA14K;
+Reading AA14L;
+Reading AA14M;
+Reading AA14N;
+Reading AA14P;
+Reading AA14Q;
+Reading AA14R;
+Reading AA14S;
+Reading AA14T;
+Reading AA14V;
+Reading AA14W;
+Reading AA14Y;
+Reading TA15A;
+Reading TA15C;
+Reading TA15D;
+Reading TA15E;
+Reading TA15F;
+Reading TA15G;
+Reading TA15H;
+Reading TA15I;
+Reading TA15K;
+Reading TA15L;
+Reading TA15M;
+Reading TA15N;
+Reading TA15P;
+Reading TA15Q;
+Reading TA15R;
+Reading TA15S;
+Reading TA15V;
+Reading TA15W;
+Reading TA15Y;
+Reading WA16A;
+Reading WA16C;
+Reading WA16D;
+Reading WA16E;
+Reading WA16F;
+Reading WA16G;
+Reading WA16H;
+Reading WA16I;
+Reading WA16K;
+Reading WA16L;
+Reading WA16M;
+Reading WA16N;
+Reading WA16P;
+Reading WA16Q;
+Reading WA16R;
+Mutating residue = ALAA14 into PHE
+Mutating residue = ALAA14 into GLY
+Mutating residue = ALAA14 into HIS
+Mutating residue = ALAA14 into ILE
+Mutating residue = ALAA14 into LYS
+Mutating residue = ALAA14 into LEU
+Mutating residue = ALAA14 into MET
+Mutating residue = ALAA14 into ASN
+Mutating residue = ALAA14 into PRO
+Mutating residue = ALAA14 into GLN
+Mutating residue = ALAA14 into ARG
+Mutating residue = ALAA14 into SER
+Mutating residue = ALAA14 into THR
+Mutating residue = ALAA14 into VAL
+Mutating residue = ALAA14 into TRP
+Mutating residue = ALAA14 into TYR
+Mutating residue = THRA15 into ALA
+Mutating residue = THRA15 into CYS
+Mutating residue = THRA15 into ASP
+Mutating residue = THRA15 into GLU
+Mutating residue = THRA15 into PHE
+Mutating residue = THRA15 into GLY
+Mutating residue = THRA15 into HIS
+Mutating residue = THRA15 into ILE
+Mutating residue = THRA15 into LYS
+Mutating residue = THRA15 into LEU
+Mutating residue = THRA15 into MET
+Mutating residue = THRA15 into ASN
+Mutating residue = THRA15 into PRO
+Mutating residue = THRA15 into GLN
+Mutating residue = THRA15 into ARG
+Mutating residue = THRA15 into SER
+Mutating residue = THRA15 into VAL
+Mutating residue = THRA15 into TRP
+Mutating residue = THRA15 into TYR
+Mutating residue = TRPA16 into ALA
+Mutating residue = TRPA16 into CYS
+Mutating residue = TRPA16 into ASP
+Mutating residue = TRPA16 into GLU
+Mutating residue = TRPA16 into PHE
+Mutating residue = TRPA16 into GLY
+Mutating residue = TRPA16 into HIS
+Mutating residue = TRPA16 into ILE
+Mutating residue = TRPA16 into LYS
+Mutating residue = TRPA16 into LEU
+Mutating residue = TRPA16 into MET
+Mutating residue = TRPA16 into ASN
+Mutating residue = TRPA16 into PRO
+Mutating residue = TRPA16 into GLN
+Mutating residue = TRPA16 into ARG
+Your file run OK
+End time of FoldX: Sun May 17 01:40:38 2026
+Total time spend: 143.757 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

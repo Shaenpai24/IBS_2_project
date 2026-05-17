@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading CA206H;
+Reading CA206I;
+Reading CA206K;
+Reading CA206L;
+Reading CA206M;
+Reading CA206N;
+Reading CA206P;
+Reading CA206Q;
+Reading CA206R;
+Reading CA206S;
+Reading CA206T;
+Reading CA206V;
+Reading CA206W;
+Reading CA206Y;
+Reading IA207A;
+Reading IA207C;
+Reading IA207D;
+Reading IA207E;
+Reading IA207F;
+Reading IA207G;
+Reading IA207H;
+Reading IA207K;
+Reading IA207L;
+Reading IA207M;
+Reading IA207N;
+Reading IA207P;
+Reading IA207Q;
+Reading IA207R;
+Reading IA207S;
+Reading IA207T;
+Reading IA207V;
+Reading IA207W;
+Reading IA207Y;
+Reading TA208A;
+Reading TA208C;
+Reading TA208D;
+Reading TA208E;
+Reading TA208F;
+Reading TA208G;
+Reading TA208H;
+Reading TA208I;
+Reading TA208K;
+Reading TA208L;
+Reading TA208M;
+Reading TA208N;
+Reading TA208P;
+Reading TA208Q;
+Reading TA208R;
+Reading TA208S;
+Reading TA208V;
+CA206H	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: CA206H in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00079\individual_list_batch_00079.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

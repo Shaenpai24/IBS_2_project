@@ -16,6 +16,11 @@ Repository layout
 - `prnp_mutation_features_tier2_structural.csv` — Merge of Tier-2 mutation features with AlphaFold-derived per-position proxies (4,655 rows, ~47 columns).
 - `AF-P04156-F1-model_v4.pdb` — AlphaFold prediction used to derive structural proxies.
 - `generate_prnp_alphafold_features.py` — Script to parse the AlphaFold structure, compute per-residue metrics (pLDDT windows, neighbor counts, exposure proxies), and merge into mutation-level features.
+- `train_mutation_impact_models.py` — Baseline mutation-impact modeling script. It builds transparent proxy targets from biochemical, conservation, and AlphaFold structural features, trains Random Forest classifier/regressor models, and exports ranked mutation-impact predictions.
+- `validate_proxy_leakage.py` — Audits circularity in the heuristic proxy targets and runs grouped ablation experiments for biochemical-only, conservation-only, structural-only, combined, and formula-feature-removed models.
+- `prepare_ddg_inputs.py` — Exports mutation lists/templates for external ΔΔG engines such as FoldX or Rosetta and can merge completed ΔΔG results into `prnp_mutation_features_ddg.csv`.
+- `run_foldx_ddg_batches.py` — Resumable batched FoldX runner. It repairs the AlphaFold structure once, runs BuildModel in checkpointed mutation batches, skips completed mutations on resume, and merges parsed ΔΔG values into `prnp_mutation_features_ddg.csv`.
+- `train_ddg_models_and_hotspots.py` — Trains biologically grounded ΔΔG regression and destabilization classification models, then generates mutation explanations, residue hotspot rankings, heatmaps, and structural sensitivity maps.
 - `prnp_viewer.html` — Single-file interactive dashboard (CSV viewer + embedded 3Dmol.js visualiser) for exploring variants and highlighting residues on the AlphaFold model.
 - `.github/workflows/deploy-pages.yml`, `index.html`, `.nojekyll` — Files to enable GitHub Pages hosting for the viewer.
 
@@ -55,6 +60,62 @@ Rationale: AlphaFold outputs a per-residue confidence metric (pLDDT) and an atom
 
 4) Merging to mutation level
 - Position-level structural proxies were joined with `prnp_mutation_features_tier2.csv` on the reference position to produce `prnp_mutation_features_tier2_structural.csv`. Each mutation row therefore contains both sequence-derived mutation features and structural context features for the mutated position.
+
+5) Baseline mutation-impact modeling
+- `train_mutation_impact_models.py` creates interpretable proxy scores:
+  - `chemical_impact_score`
+  - `evolutionary_importance_score`
+  - `structural_sensitivity_score`
+  - `mutation_severity_score`
+  - `destabilization_proxy_score`
+- The script then trains:
+  - a Random Forest classifier for high-severity mutation probability
+  - a Random Forest regressor for mutation severity score
+- The train/test split is grouped by residue position, so all mutations from a held-out position remain together in the test set.
+- Outputs are saved under `results_mutation_impact/`, including ranked predictions, model metrics, feature importance tables, and serialized model files.
+
+Important: these are heuristic proxy targets derived from existing features, not experimentally validated pathogenicity or ΔΔG labels. They are useful for ranking, exploration, and model plumbing, but should be calibrated against curated variant labels or stability measurements before biological claims are made.
+
+6) Proxy leakage validation
+- `validate_proxy_leakage.py` identifies the features directly used in heuristic target construction and runs ablation models with grouped cross-validation by residue position.
+- The output folder `results_proxy_leakage/` contains:
+  - `proxy_leakage_report.md`
+  - `ablation_summary.csv`
+  - `ablation_fold_metrics.csv`
+  - `proxy_feature_target_correlations.csv`
+  - `proxy_audit_manifest.json`
+- This stage is intended to quantify circularity and proxy bias before extending the platform with biological labels.
+
+7) ΔΔG label preparation
+- `prepare_ddg_inputs.py` creates external-tool input files under `ddg_inputs/`:
+  - `foldx/individual_list.txt`
+  - `foldx/foldx_mutation_mapping.csv`
+  - `rosetta_mutfiles/*.mutfile`
+  - `ddg_label_template.csv`
+  - `DDG_PROTOCOL.md`
+- If a completed external ΔΔG result CSV is supplied, it merges values into `prnp_mutation_features_ddg.csv`.
+- Without completed external ΔΔG values, the script creates a DDG-ready dataset with empty DDG label columns so downstream code has a stable schema.
+
+8) FoldX ΔΔG generation and biological modeling
+- FoldX executable used locally: `D:\FoldX\foldx_20261231.exe`.
+- The AlphaFold structure is repaired once with FoldX `RepairPDB`; BuildModel is then run in resumable batches.
+- Mutation commands use the AlphaFold/FoldX residue ID (`af2_struct_seq_id` / `foldx_position`), not only the biological reference position. This matters because the reference sequence and PDB numbering diverge after the signal peptide region.
+- Final merged biological-label dataset: `prnp_mutation_features_ddg.csv`.
+- Valid FoldX ΔΔG labels currently available: 4,636 / 4,655 mutations.
+- Missing labels: 19 `V121*` mutations. The mutation table has wild-type `V` at reference position 121, while the AlphaFold structure has `M` at mapped structure residue 129. FoldX correctly rejects `VA129*` because residue 129 is methionine in this structure.
+- Main downstream outputs are in `results_ddg_models/`:
+  - `mutation_ddg_predictions_with_explanations.csv`
+  - `residue_hotspot_rankings.csv`
+  - `structural_sensitivity_map.csv`
+  - `heatmap_observed_ddg.csv`
+  - `heatmap_predicted_ddg.csv`
+  - `heatmap_destabilizing_probability.csv`
+  - `heatmap_predicted_ddg.png`
+  - `heatmap_destabilizing_probability.png`
+  - `ddg_cross_validation_summary.csv`
+  - `ddg_holdout_metrics.csv`
+
+Important: FoldX ΔΔG labels are computational labels generated from an AlphaFold model. They are more biologically grounded than engineered heuristic proxy targets, but they are still not experimental stability measurements.
 
 Feature list and interpretation
 -------------------------------
@@ -109,6 +170,54 @@ python generate_prnp_alphafold_features.py \
   --chain A
 ```
 
+Train baseline mutation-impact models
+```
+python train_mutation_impact_models.py
+```
+
+Audit proxy leakage and feature-family bias
+```
+python validate_proxy_leakage.py
+```
+
+Prepare external ΔΔG mutation inputs
+```
+python prepare_ddg_inputs.py
+```
+
+Run FoldX ΔΔG generation in resumable batches
+```
+python run_foldx_ddg_batches.py --batch_size 50 --workers 1
+```
+
+Merge completed ΔΔG labels
+```
+python prepare_ddg_inputs.py --ddg_results_csv your_ddg_results.csv --ddg_column ddg
+```
+
+Train ΔΔG models and generate hotspot/heatmap outputs
+```
+python train_ddg_models_and_hotspots.py
+```
+
+Main outputs
+```
+results_mutation_impact/mutation_impact_ranked.csv
+results_mutation_impact/mutation_impact_features_with_proxy_targets.csv
+results_mutation_impact/model_metrics.json
+results_mutation_impact/feature_importance_high_severity.csv
+results_mutation_impact/feature_importance_severity_score.csv
+results_mutation_impact/random_forest_high_severity.joblib
+results_mutation_impact/random_forest_severity_score.joblib
+results_proxy_leakage/proxy_leakage_report.md
+ddg_inputs/ddg_label_template.csv
+prnp_mutation_features_ddg.csv
+foldx_ddg_results.csv
+results_ddg_models/mutation_ddg_predictions_with_explanations.csv
+results_ddg_models/residue_hotspot_rankings.csv
+results_ddg_models/heatmap_predicted_ddg.png
+```
+
 Quick demo (local viewer)
 ```
 python -m http.server 8000
@@ -118,6 +227,8 @@ python -m http.server 8000
 Suggested next steps
 --------------------
 - Add `requirements.txt` or `pyproject.toml` to lock dependencies and ease reproducibility.
+- Replace or calibrate proxy targets with curated PRNP pathogenic/benign labels and/or experimentally measured or physics-derived ΔΔG values.
+- Add mutation-aware ESM2 embeddings by embedding wild-type and mutant sequences and using embedding deltas as model features.
 - Optionally run selective mutant structural modeling (ColabFold or Rosetta ddG) for a hand-picked shortlist of variants where structural detail matters.
 - Build a feature registry that documents exact column names, types, ranges, and expected interpretation for each feature for downstream users.
 

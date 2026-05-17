@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading SA222C;
+Reading SA222D;
+Reading SA222E;
+Reading SA222F;
+Reading SA222G;
+Reading SA222H;
+Reading SA222I;
+Reading SA222K;
+Reading SA222L;
+Reading SA222M;
+Reading SA222N;
+Reading SA222P;
+Reading SA222Q;
+Reading SA222R;
+Reading SA222T;
+Reading SA222V;
+Reading SA222W;
+Reading SA222Y;
+Reading SA223A;
+Reading SA223C;
+Reading SA223D;
+Reading SA223E;
+Reading SA223F;
+Reading SA223G;
+Reading SA223H;
+Reading SA223I;
+Reading SA223K;
+Reading SA223L;
+Reading SA223M;
+Reading SA223N;
+Reading SA223P;
+Reading SA223Q;
+Reading SA223R;
+Reading SA223T;
+Reading SA223V;
+Reading SA223W;
+Reading SA223Y;
+Reading MA224A;
+Reading MA224C;
+Reading MA224D;
+Reading MA224E;
+Reading MA224F;
+Reading MA224G;
+Reading MA224H;
+Reading MA224I;
+Reading MA224K;
+Reading MA224L;
+Reading MA224N;
+Reading MA224P;
+Reading MA224Q;
+SA223A	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: SA223A in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00085\individual_list_batch_00085.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

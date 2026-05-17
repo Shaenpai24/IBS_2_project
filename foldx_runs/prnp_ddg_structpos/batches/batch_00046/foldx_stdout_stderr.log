@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading GA127L;
+Reading GA127M;
+Reading GA127N;
+Reading GA127P;
+Reading GA127Q;
+Reading GA127R;
+Reading GA127S;
+Reading GA127T;
+Reading GA127V;
+Reading GA127W;
+Reading GA127Y;
+Reading YA128A;
+Reading YA128C;
+Reading YA128D;
+Reading YA128E;
+Reading YA128F;
+Reading YA128G;
+Reading YA128H;
+Reading YA128I;
+Reading YA128K;
+Reading YA128L;
+Reading YA128M;
+Reading YA128N;
+Reading YA128P;
+Reading YA128Q;
+Reading YA128R;
+Reading YA128S;
+Reading YA128T;
+Reading YA128V;
+Reading YA128W;
+Reading VA129A;
+Reading VA129C;
+Reading VA129D;
+Reading VA129E;
+Reading VA129F;
+Reading VA129G;
+Reading VA129H;
+Reading VA129I;
+Reading VA129K;
+Reading VA129L;
+Reading VA129M;
+Reading VA129N;
+Reading VA129P;
+Reading VA129Q;
+Reading VA129R;
+Reading VA129S;
+Reading VA129T;
+Reading VA129W;
+Reading VA129Y;
+Reading LA130A;
+VA129A	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: VA129A in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg_structpos\batches\batch_00046\individual_list_batch_00046.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

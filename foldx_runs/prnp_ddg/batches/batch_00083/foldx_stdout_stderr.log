@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading AA216T;
+Reading AA216V;
+Reading AA216W;
+Reading AA216Y;
+Reading YA217A;
+Reading YA217C;
+Reading YA217D;
+Reading YA217E;
+Reading YA217F;
+Reading YA217G;
+Reading YA217H;
+Reading YA217I;
+Reading YA217K;
+Reading YA217L;
+Reading YA217M;
+Reading YA217N;
+Reading YA217P;
+Reading YA217Q;
+Reading YA217R;
+Reading YA217S;
+Reading YA217T;
+Reading YA217V;
+Reading YA217W;
+Reading YA218A;
+Reading YA218C;
+Reading YA218D;
+Reading YA218E;
+Reading YA218F;
+Reading YA218G;
+Reading YA218H;
+Reading YA218I;
+Reading YA218K;
+Reading YA218L;
+Reading YA218M;
+Reading YA218N;
+Reading YA218P;
+Reading YA218Q;
+Reading YA218R;
+Reading YA218S;
+Reading YA218T;
+Reading YA218V;
+Reading YA218W;
+Reading QA219A;
+Reading QA219C;
+Reading QA219D;
+Reading QA219E;
+Reading QA219F;
+Reading QA219G;
+Reading QA219H;
+Reading QA219I;
+AA216T	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: AA216T in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00083\individual_list_batch_00083.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

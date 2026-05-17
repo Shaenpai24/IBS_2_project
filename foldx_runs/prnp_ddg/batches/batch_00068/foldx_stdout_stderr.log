@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading KA177H;
+Reading KA177I;
+Reading KA177L;
+Reading KA177M;
+Reading KA177N;
+Reading KA177P;
+Reading KA177Q;
+Reading KA177R;
+Reading KA177S;
+Reading KA177T;
+Reading KA177V;
+Reading KA177W;
+Reading KA177Y;
+Reading QA178A;
+Reading QA178C;
+Reading QA178D;
+Reading QA178E;
+Reading QA178F;
+Reading QA178G;
+Reading QA178H;
+Reading QA178I;
+Reading QA178K;
+Reading QA178L;
+Reading QA178M;
+Reading QA178N;
+Reading QA178P;
+Reading QA178R;
+Reading QA178S;
+Reading QA178T;
+Reading QA178V;
+Reading QA178W;
+Reading QA178Y;
+Reading HA179A;
+Reading HA179C;
+Reading HA179D;
+Reading HA179E;
+Reading HA179F;
+Reading HA179G;
+Reading HA179I;
+Reading HA179K;
+Reading HA179L;
+Reading HA179M;
+Reading HA179N;
+Reading HA179P;
+Reading HA179Q;
+Reading HA179R;
+Reading HA179S;
+Reading HA179T;
+Reading HA179V;
+Reading HA179W;
+KA177H	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: KA177H in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00068\individual_list_batch_00068.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

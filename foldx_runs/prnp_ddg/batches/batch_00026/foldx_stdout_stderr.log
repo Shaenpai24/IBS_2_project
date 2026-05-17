@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading GA66T;
+Reading GA66V;
+Reading GA66W;
+Reading GA66Y;
+Reading QA67A;
+Reading QA67C;
+Reading QA67D;
+Reading QA67E;
+Reading QA67F;
+Reading QA67G;
+Reading QA67H;
+Reading QA67I;
+Reading QA67K;
+Reading QA67L;
+Reading QA67M;
+Reading QA67N;
+Reading QA67P;
+Reading QA67R;
+Reading QA67S;
+Reading QA67T;
+Reading QA67V;
+Reading QA67W;
+Reading QA67Y;
+Reading PA68A;
+Reading PA68C;
+Reading PA68D;
+Reading PA68E;
+Reading PA68F;
+Reading PA68G;
+Reading PA68H;
+Reading PA68I;
+Reading PA68K;
+Reading PA68L;
+Reading PA68M;
+Reading PA68N;
+Reading PA68Q;
+Reading PA68R;
+Reading PA68S;
+Reading PA68T;
+Reading PA68V;
+Reading PA68W;
+Reading PA68Y;
+Reading HA69A;
+Reading HA69C;
+Reading HA69D;
+Reading HA69E;
+Reading HA69F;
+Reading HA69G;
+Reading HA69I;
+Reading HA69K;
+Mutating residue = GLYA66 into THR
+Mutating residue = GLYA66 into VAL
+Mutating residue = GLYA66 into TRP
+Mutating residue = GLYA66 into TYR
+Mutating residue = GLNA67 into ALA
+Mutating residue = GLNA67 into CYS
+Mutating residue = GLNA67 into ASP
+Mutating residue = GLNA67 into GLU
+Mutating residue = GLNA67 into PHE
+Mutating residue = GLNA67 into GLY
+Mutating residue = GLNA67 into HIS
+Mutating residue = GLNA67 into ILE
+Mutating residue = GLNA67 into LYS
+Mutating residue = GLNA67 into LEU
+Mutating residue = GLNA67 into MET
+Mutating residue = GLNA67 into ASN
+Mutating residue = GLNA67 into PRO
+Mutating residue = GLNA67 into ARG
+Mutating residue = GLNA67 into SER
+Mutating residue = GLNA67 into THR
+Mutating residue = GLNA67 into VAL
+Mutating residue = GLNA67 into TRP
+Mutating residue = GLNA67 into TYR
+Mutating residue = PROA68 into ALA
+Mutating residue = PROA68 into CYS
+Mutating residue = PROA68 into ASP
+Mutating residue = PROA68 into GLU
+Mutating residue = PROA68 into PHE
+Mutating residue = PROA68 into GLY
+Mutating residue = PROA68 into HIS
+Mutating residue = PROA68 into ILE
+Mutating residue = PROA68 into LYS
+Mutating residue = PROA68 into LEU
+Mutating residue = PROA68 into MET
+Mutating residue = PROA68 into ASN
+Mutating residue = PROA68 into GLN
+Mutating residue = PROA68 into ARG
+Mutating residue = PROA68 into SER
+Mutating residue = PROA68 into THR
+Mutating residue = PROA68 into VAL
+Mutating residue = PROA68 into TRP
+Mutating residue = PROA68 into TYR
+Mutating residue = H1SA69 into ALA
+Mutating residue = H1SA69 into CYS
+Mutating residue = H1SA69 into ASP
+Mutating residue = H1SA69 into GLU
+Mutating residue = H1SA69 into PHE
+Mutating residue = H1SA69 into GLY
+Mutating residue = H1SA69 into ILE
+Mutating residue = H1SA69 into LYS
+Your file run OK
+End time of FoldX: Sun May 17 01:07:35 2026
+Total time spend: 39.271 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

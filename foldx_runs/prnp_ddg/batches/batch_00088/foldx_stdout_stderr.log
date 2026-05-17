@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading SA229Y;
+Reading PA230A;
+Reading PA230C;
+Reading PA230D;
+Reading PA230E;
+Reading PA230F;
+Reading PA230G;
+Reading PA230H;
+Reading PA230I;
+Reading PA230K;
+Reading PA230L;
+Reading PA230M;
+Reading PA230N;
+Reading PA230Q;
+Reading PA230R;
+Reading PA230S;
+Reading PA230T;
+Reading PA230V;
+Reading PA230W;
+Reading PA230Y;
+Reading PA231A;
+Reading PA231C;
+Reading PA231D;
+Reading PA231E;
+Reading PA231F;
+Reading PA231G;
+Reading PA231H;
+Reading PA231I;
+Reading PA231K;
+Reading PA231L;
+Reading PA231M;
+Reading PA231N;
+Reading PA231Q;
+Reading PA231R;
+Reading PA231S;
+Reading PA231T;
+Reading PA231V;
+Reading PA231W;
+Reading PA231Y;
+Reading VA232A;
+Reading VA232C;
+Reading VA232D;
+Reading VA232E;
+Reading VA232F;
+Reading VA232G;
+Reading VA232H;
+Reading VA232I;
+Reading VA232K;
+Reading VA232L;
+Reading VA232M;
+SA229Y	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: SA229Y in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00088\individual_list_batch_00088.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

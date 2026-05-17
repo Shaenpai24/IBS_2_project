@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading LA122C;
+Reading LA122D;
+Reading LA122E;
+Reading LA122F;
+Reading LA122G;
+Reading LA122H;
+Reading LA122I;
+Reading LA122K;
+Reading LA122M;
+Reading LA122N;
+Reading LA122P;
+Reading LA122Q;
+Reading LA122R;
+Reading LA122S;
+Reading LA122T;
+Reading LA122V;
+Reading LA122W;
+Reading LA122Y;
+Reading GA123A;
+Reading GA123C;
+Reading GA123D;
+Reading GA123E;
+Reading GA123F;
+Reading GA123H;
+Reading GA123I;
+Reading GA123K;
+Reading GA123L;
+Reading GA123M;
+Reading GA123N;
+Reading GA123P;
+Reading GA123Q;
+Reading GA123R;
+Reading GA123S;
+Reading GA123T;
+Reading GA123V;
+Reading GA123W;
+Reading GA123Y;
+Reading SA124A;
+Reading SA124C;
+Reading SA124D;
+Reading SA124E;
+Reading SA124F;
+Reading SA124G;
+Reading SA124H;
+Reading SA124I;
+Reading SA124K;
+Reading SA124L;
+Reading SA124M;
+Reading SA124N;
+Reading SA124P;
+LA122C	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: LA122C in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00047\individual_list_batch_00047.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading LA11N;
+Reading LA11P;
+Reading LA11Q;
+Reading LA11R;
+Reading LA11S;
+Reading LA11T;
+Reading LA11V;
+Reading LA11W;
+Reading LA11Y;
+Reading FA12A;
+Reading FA12C;
+Reading FA12D;
+Reading FA12E;
+Reading FA12G;
+Reading FA12H;
+Reading FA12I;
+Reading FA12K;
+Reading FA12L;
+Reading FA12M;
+Reading FA12N;
+Reading FA12P;
+Reading FA12Q;
+Reading FA12R;
+Reading FA12S;
+Reading FA12T;
+Reading FA12V;
+Reading FA12W;
+Reading FA12Y;
+Reading VA13A;
+Reading VA13C;
+Reading VA13D;
+Reading VA13E;
+Reading VA13F;
+Reading VA13G;
+Reading VA13H;
+Reading VA13I;
+Reading VA13K;
+Reading VA13L;
+Reading VA13M;
+Reading VA13N;
+Reading VA13P;
+Reading VA13Q;
+Reading VA13R;
+Reading VA13S;
+Reading VA13T;
+Reading VA13W;
+Reading VA13Y;
+Reading AA14C;
+Reading AA14D;
+Reading AA14E;
+Mutating residue = LEUA11 into ASN
+Mutating residue = LEUA11 into PRO
+Mutating residue = LEUA11 into GLN
+Mutating residue = LEUA11 into ARG
+Mutating residue = LEUA11 into SER
+Mutating residue = LEUA11 into THR
+Mutating residue = LEUA11 into VAL
+Mutating residue = LEUA11 into TRP
+Mutating residue = LEUA11 into TYR
+Mutating residue = PHEA12 into ALA
+Mutating residue = PHEA12 into CYS
+Mutating residue = PHEA12 into ASP
+Mutating residue = PHEA12 into GLU
+Mutating residue = PHEA12 into GLY
+Mutating residue = PHEA12 into HIS
+Mutating residue = PHEA12 into ILE
+Mutating residue = PHEA12 into LYS
+Mutating residue = PHEA12 into LEU
+Mutating residue = PHEA12 into MET
+Mutating residue = PHEA12 into ASN
+Mutating residue = PHEA12 into PRO
+Mutating residue = PHEA12 into GLN
+Mutating residue = PHEA12 into ARG
+Mutating residue = PHEA12 into SER
+Mutating residue = PHEA12 into THR
+Mutating residue = PHEA12 into VAL
+Mutating residue = PHEA12 into TRP
+Mutating residue = PHEA12 into TYR
+Mutating residue = VALA13 into ALA
+Mutating residue = VALA13 into CYS
+Mutating residue = VALA13 into ASP
+Mutating residue = VALA13 into GLU
+Mutating residue = VALA13 into PHE
+Mutating residue = VALA13 into GLY
+Mutating residue = VALA13 into HIS
+Mutating residue = VALA13 into ILE
+Mutating residue = VALA13 into LYS
+Mutating residue = VALA13 into LEU
+Mutating residue = VALA13 into MET
+Mutating residue = VALA13 into ASN
+Mutating residue = VALA13 into PRO
+Mutating residue = VALA13 into GLN
+Mutating residue = VALA13 into ARG
+Mutating residue = VALA13 into SER
+Mutating residue = VALA13 into THR
+Mutating residue = VALA13 into TRP
+Mutating residue = VALA13 into TYR
+Mutating residue = ALAA14 into CYS
+Mutating residue = ALAA14 into ASP
+Mutating residue = ALAA14 into GLU
+Your file run OK
+End time of FoldX: Sun May 17 00:45:58 2026
+Total time spend: 115.626 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

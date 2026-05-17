@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading HA103Q;
+Reading HA103R;
+Reading HA103S;
+Reading HA103T;
+Reading HA103V;
+Reading HA103W;
+Reading HA103Y;
+Reading MA104A;
+Reading MA104C;
+Reading MA104D;
+Reading MA104E;
+Reading MA104F;
+Reading MA104G;
+Reading MA104H;
+Reading MA104I;
+Reading MA104K;
+Reading MA104L;
+Reading MA104N;
+Reading MA104P;
+Reading MA104Q;
+Reading MA104R;
+Reading MA104S;
+Reading MA104T;
+Reading MA104V;
+Reading MA104W;
+Reading MA104Y;
+Reading AA105C;
+Reading AA105D;
+Reading AA105E;
+Reading AA105F;
+Reading AA105G;
+Reading AA105H;
+Reading AA105I;
+Reading AA105K;
+Reading AA105L;
+Reading AA105M;
+Reading AA105N;
+Reading AA105P;
+Reading AA105Q;
+Reading AA105R;
+Reading AA105S;
+Reading AA105T;
+Reading AA105V;
+Reading AA105W;
+Reading AA105Y;
+Reading GA106A;
+Reading GA106C;
+Reading GA106D;
+Reading GA106E;
+Reading GA106F;
+HA103Q	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: HA103Q in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00040\individual_list_batch_00040.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading SA132Q;
+Reading SA132R;
+Reading SA132T;
+Reading SA132V;
+Reading SA132W;
+Reading SA132Y;
+Reading AA133C;
+Reading AA133D;
+Reading AA133E;
+Reading AA133F;
+Reading AA133G;
+Reading AA133H;
+Reading AA133I;
+Reading AA133K;
+Reading AA133L;
+Reading AA133M;
+Reading AA133N;
+Reading AA133P;
+Reading AA133Q;
+Reading AA133R;
+Reading AA133S;
+Reading AA133T;
+Reading AA133V;
+Reading AA133W;
+Reading AA133Y;
+Reading MA134A;
+Reading MA134C;
+Reading MA134D;
+Reading MA134E;
+Reading MA134F;
+Reading MA134G;
+Reading MA134H;
+Reading MA134I;
+Reading MA134K;
+Reading MA134L;
+Reading MA134N;
+Reading MA134P;
+Reading MA134Q;
+Reading MA134R;
+Reading MA134S;
+Reading MA134T;
+Reading MA134V;
+Reading MA134W;
+Reading MA134Y;
+Reading SA135A;
+Reading SA135C;
+Reading SA135D;
+Reading SA135E;
+Reading SA135F;
+Reading SA135G;
+Mutating residue = SERA132 into GLN
+Mutating residue = SERA132 into ARG
+Mutating residue = SERA132 into THR
+Mutating residue = SERA132 into VAL
+Mutating residue = SERA132 into TRP
+Mutating residue = SERA132 into TYR
+Mutating residue = ALAA133 into CYS
+Mutating residue = ALAA133 into ASP
+Mutating residue = ALAA133 into GLU
+Mutating residue = ALAA133 into PHE
+Mutating residue = ALAA133 into GLY
+Mutating residue = ALAA133 into HIS
+Mutating residue = ALAA133 into ILE
+Mutating residue = ALAA133 into LYS
+Mutating residue = ALAA133 into LEU
+Mutating residue = ALAA133 into MET
+Mutating residue = ALAA133 into ASN
+Mutating residue = ALAA133 into PRO
+Mutating residue = ALAA133 into GLN
+Mutating residue = ALAA133 into ARG
+Mutating residue = ALAA133 into SER
+Mutating residue = ALAA133 into THR
+Mutating residue = ALAA133 into VAL
+Mutating residue = ALAA133 into TRP
+Mutating residue = ALAA133 into TYR
+Mutating residue = META134 into ALA
+Mutating residue = META134 into CYS
+Mutating residue = META134 into ASP
+Mutating residue = META134 into GLU
+Mutating residue = META134 into PHE
+Mutating residue = META134 into GLY
+Mutating residue = META134 into HIS
+Mutating residue = META134 into ILE
+Mutating residue = META134 into LYS
+Mutating residue = META134 into LEU
+Mutating residue = META134 into ASN
+Mutating residue = META134 into PRO
+Mutating residue = META134 into GLN
+Mutating residue = META134 into ARG
+Mutating residue = META134 into SER
+Mutating residue = META134 into THR
+Mutating residue = META134 into VAL
+Mutating residue = META134 into TRP
+Mutating residue = META134 into TYR
+Mutating residue = SERA135 into ALA
+Mutating residue = SERA135 into CYS
+Mutating residue = SERA135 into ASP
+Mutating residue = SERA135 into GLU
+Mutating residue = SERA135 into PHE
+Mutating residue = SERA135 into GLY
+Your file run OK
+End time of FoldX: Sun May 17 12:10:15 2026
+Total time spend: 112.687 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading VA232N;
+Reading VA232P;
+Reading VA232Q;
+Reading VA232R;
+Reading VA232S;
+Reading VA232T;
+Reading VA232W;
+Reading VA232Y;
+Reading IA233A;
+Reading IA233C;
+Reading IA233D;
+Reading IA233E;
+Reading IA233F;
+Reading IA233G;
+Reading IA233H;
+Reading IA233K;
+Reading IA233L;
+Reading IA233M;
+Reading IA233N;
+Reading IA233P;
+Reading IA233Q;
+Reading IA233R;
+Reading IA233S;
+Reading IA233T;
+Reading IA233V;
+Reading IA233W;
+Reading IA233Y;
+Reading LA234A;
+Reading LA234C;
+Reading LA234D;
+Reading LA234E;
+Reading LA234F;
+Reading LA234G;
+Reading LA234H;
+Reading LA234I;
+Reading LA234K;
+Reading LA234M;
+Reading LA234N;
+Reading LA234P;
+Reading LA234Q;
+Reading LA234R;
+Reading LA234S;
+Reading LA234T;
+Reading LA234V;
+Reading LA234W;
+Reading LA234Y;
+Reading LA235A;
+Reading LA235C;
+Reading LA235D;
+Reading LA235E;
+VA232N	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: VA232N in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00089\individual_list_batch_00089.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

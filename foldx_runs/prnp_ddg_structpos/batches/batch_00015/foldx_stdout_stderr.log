@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading RA37V;
+Reading RA37W;
+Reading RA37Y;
+Reading YA38A;
+Reading YA38C;
+Reading YA38D;
+Reading YA38E;
+Reading YA38F;
+Reading YA38G;
+Reading YA38H;
+Reading YA38I;
+Reading YA38K;
+Reading YA38L;
+Reading YA38M;
+Reading YA38N;
+Reading YA38P;
+Reading YA38Q;
+Reading YA38R;
+Reading YA38S;
+Reading YA38T;
+Reading YA38V;
+Reading YA38W;
+Reading PA39A;
+Reading PA39C;
+Reading PA39D;
+Reading PA39E;
+Reading PA39F;
+Reading PA39G;
+Reading PA39H;
+Reading PA39I;
+Reading PA39K;
+Reading PA39L;
+Reading PA39M;
+Reading PA39N;
+Reading PA39Q;
+Reading PA39R;
+Reading PA39S;
+Reading PA39T;
+Reading PA39V;
+Reading PA39W;
+Reading PA39Y;
+Reading GA40A;
+Reading GA40C;
+Reading GA40D;
+Reading GA40E;
+Reading GA40F;
+Reading GA40H;
+Reading GA40I;
+Reading GA40K;
+Reading GA40L;
+Mutating residue = ARGA37 into VAL
+Mutating residue = ARGA37 into TRP
+Mutating residue = ARGA37 into TYR
+Mutating residue = TYRA38 into ALA
+Mutating residue = TYRA38 into CYS
+Mutating residue = TYRA38 into ASP
+Mutating residue = TYRA38 into GLU
+Mutating residue = TYRA38 into PHE
+Mutating residue = TYRA38 into GLY
+Mutating residue = TYRA38 into HIS
+Mutating residue = TYRA38 into ILE
+Mutating residue = TYRA38 into LYS
+Mutating residue = TYRA38 into LEU
+Mutating residue = TYRA38 into MET
+Mutating residue = TYRA38 into ASN
+Mutating residue = TYRA38 into PRO
+Mutating residue = TYRA38 into GLN
+Mutating residue = TYRA38 into ARG
+Mutating residue = TYRA38 into SER
+Mutating residue = TYRA38 into THR
+Mutating residue = TYRA38 into VAL
+Mutating residue = TYRA38 into TRP
+Mutating residue = PROA39 into ALA
+Mutating residue = PROA39 into CYS
+Mutating residue = PROA39 into ASP
+Mutating residue = PROA39 into GLU
+Mutating residue = PROA39 into PHE
+Mutating residue = PROA39 into GLY
+Mutating residue = PROA39 into HIS
+Mutating residue = PROA39 into ILE
+Mutating residue = PROA39 into LYS
+Mutating residue = PROA39 into LEU
+Mutating residue = PROA39 into MET
+Mutating residue = PROA39 into ASN
+Mutating residue = PROA39 into GLN
+Mutating residue = PROA39 into ARG
+Mutating residue = PROA39 into SER
+Mutating residue = PROA39 into THR
+Mutating residue = PROA39 into VAL
+Mutating residue = PROA39 into TRP
+Mutating residue = PROA39 into TYR
+Mutating residue = GLYA40 into ALA
+Mutating residue = GLYA40 into CYS
+Mutating residue = GLYA40 into ASP
+Mutating residue = GLYA40 into GLU
+Mutating residue = GLYA40 into PHE
+Mutating residue = GLYA40 into HIS
+Mutating residue = GLYA40 into ILE
+Mutating residue = GLYA40 into LYS
+Mutating residue = GLYA40 into LEU
+Your file run OK
+End time of FoldX: Sun May 17 01:55:30 2026
+Total time spend: 45.17 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading GA93F;
+Reading GA93H;
+Reading GA93I;
+Reading GA93K;
+Reading GA93L;
+Reading GA93M;
+Reading GA93N;
+Reading GA93P;
+Reading GA93Q;
+Reading GA93R;
+Reading GA93S;
+Reading GA93T;
+Reading GA93V;
+Reading GA93W;
+Reading GA93Y;
+Reading GA94A;
+Reading GA94C;
+Reading GA94D;
+Reading GA94E;
+Reading GA94F;
+Reading GA94H;
+Reading GA94I;
+Reading GA94K;
+Reading GA94L;
+Reading GA94M;
+Reading GA94N;
+Reading GA94P;
+Reading GA94Q;
+Reading GA94R;
+Reading GA94S;
+Reading GA94T;
+Reading GA94V;
+Reading GA94W;
+Reading GA94Y;
+Reading TA95A;
+Reading TA95C;
+Reading TA95D;
+Reading TA95E;
+Reading TA95F;
+Reading TA95G;
+Reading TA95H;
+Reading TA95I;
+Reading TA95K;
+Reading TA95L;
+Reading TA95M;
+Reading TA95N;
+Reading TA95P;
+Reading TA95Q;
+Reading TA95R;
+Reading TA95S;
+Mutating residue = GLYA93 into PHE
+Mutating residue = GLYA93 into HIS
+Mutating residue = GLYA93 into ILE
+Mutating residue = GLYA93 into LYS
+Mutating residue = GLYA93 into LEU
+Mutating residue = GLYA93 into MET
+Mutating residue = GLYA93 into ASN
+Mutating residue = GLYA93 into PRO
+Mutating residue = GLYA93 into GLN
+Mutating residue = GLYA93 into ARG
+Mutating residue = GLYA93 into SER
+Mutating residue = GLYA93 into THR
+Mutating residue = GLYA93 into VAL
+Mutating residue = GLYA93 into TRP
+Mutating residue = GLYA93 into TYR
+Mutating residue = GLYA94 into ALA
+Mutating residue = GLYA94 into CYS
+Mutating residue = GLYA94 into ASP
+Mutating residue = GLYA94 into GLU
+Mutating residue = GLYA94 into PHE
+Mutating residue = GLYA94 into HIS
+Mutating residue = GLYA94 into ILE
+Mutating residue = GLYA94 into LYS
+Mutating residue = GLYA94 into LEU
+Mutating residue = GLYA94 into MET
+Mutating residue = GLYA94 into ASN
+Mutating residue = GLYA94 into PRO
+Mutating residue = GLYA94 into GLN
+Mutating residue = GLYA94 into ARG
+Mutating residue = GLYA94 into SER
+Mutating residue = GLYA94 into THR
+Mutating residue = GLYA94 into VAL
+Mutating residue = GLYA94 into TRP
+Mutating residue = GLYA94 into TYR
+Mutating residue = THRA95 into ALA
+Mutating residue = THRA95 into CYS
+Mutating residue = THRA95 into ASP
+Mutating residue = THRA95 into GLU
+Mutating residue = THRA95 into PHE
+Mutating residue = THRA95 into GLY
+Mutating residue = THRA95 into HIS
+Mutating residue = THRA95 into ILE
+Mutating residue = THRA95 into LYS
+Mutating residue = THRA95 into LEU
+Mutating residue = THRA95 into MET
+Mutating residue = THRA95 into ASN
+Mutating residue = THRA95 into PRO
+Mutating residue = THRA95 into GLN
+Mutating residue = THRA95 into ARG
+Mutating residue = THRA95 into SER
+Your file run OK
+End time of FoldX: Sun May 17 02:03:40 2026
+Total time spend: 9.469 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading SA124Q;
+Reading SA124R;
+Reading SA124T;
+Reading SA124V;
+Reading SA124W;
+Reading SA124Y;
+Reading AA125C;
+Reading AA125D;
+Reading AA125E;
+Reading AA125F;
+Reading AA125G;
+Reading AA125H;
+Reading AA125I;
+Reading AA125K;
+Reading AA125L;
+Reading AA125M;
+Reading AA125N;
+Reading AA125P;
+Reading AA125Q;
+Reading AA125R;
+Reading AA125S;
+Reading AA125T;
+Reading AA125V;
+Reading AA125W;
+Reading AA125Y;
+Reading MA126A;
+Reading MA126C;
+Reading MA126D;
+Reading MA126E;
+Reading MA126F;
+Reading MA126G;
+Reading MA126H;
+Reading MA126I;
+Reading MA126K;
+Reading MA126L;
+Reading MA126N;
+Reading MA126P;
+Reading MA126Q;
+Reading MA126R;
+Reading MA126S;
+Reading MA126T;
+Reading MA126V;
+Reading MA126W;
+Reading MA126Y;
+Reading SA127A;
+Reading SA127C;
+Reading SA127D;
+Reading SA127E;
+Reading SA127F;
+Reading SA127G;
+SA124Q	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: SA124Q in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00048\individual_list_batch_00048.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

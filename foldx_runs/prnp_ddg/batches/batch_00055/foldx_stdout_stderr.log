@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading RA143D;
+Reading RA143E;
+Reading RA143F;
+Reading RA143G;
+Reading RA143H;
+Reading RA143I;
+Reading RA143K;
+Reading RA143L;
+Reading RA143M;
+Reading RA143N;
+Reading RA143P;
+Reading RA143Q;
+Reading RA143S;
+Reading RA143T;
+Reading RA143V;
+Reading RA143W;
+Reading RA143Y;
+Reading EA144A;
+Reading EA144C;
+Reading EA144D;
+Reading EA144F;
+Reading EA144G;
+Reading EA144H;
+Reading EA144I;
+Reading EA144K;
+Reading EA144L;
+Reading EA144M;
+Reading EA144N;
+Reading EA144P;
+Reading EA144Q;
+Reading EA144R;
+Reading EA144S;
+Reading EA144T;
+Reading EA144V;
+Reading EA144W;
+Reading EA144Y;
+Reading NA145A;
+Reading NA145C;
+Reading NA145D;
+Reading NA145E;
+Reading NA145F;
+Reading NA145G;
+Reading NA145H;
+Reading NA145I;
+Reading NA145K;
+Reading NA145L;
+Reading NA145M;
+Reading NA145P;
+Reading NA145Q;
+Reading NA145R;
+RA143D	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: RA143D in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00055\individual_list_batch_00055.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

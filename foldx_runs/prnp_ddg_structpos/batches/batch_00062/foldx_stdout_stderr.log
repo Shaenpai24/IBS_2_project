@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading YA169M;
+Reading YA169N;
+Reading YA169P;
+Reading YA169Q;
+Reading YA169R;
+Reading YA169S;
+Reading YA169T;
+Reading YA169V;
+Reading YA169W;
+Reading SA170A;
+Reading SA170C;
+Reading SA170D;
+Reading SA170E;
+Reading SA170F;
+Reading SA170G;
+Reading SA170H;
+Reading SA170I;
+Reading SA170K;
+Reading SA170L;
+Reading SA170M;
+Reading SA170N;
+Reading SA170P;
+Reading SA170Q;
+Reading SA170R;
+Reading SA170T;
+Reading SA170V;
+Reading SA170W;
+Reading SA170Y;
+Reading NA171A;
+Reading NA171C;
+Reading NA171D;
+Reading NA171E;
+Reading NA171F;
+Reading NA171G;
+Reading NA171H;
+Reading NA171I;
+Reading NA171K;
+Reading NA171L;
+Reading NA171M;
+Reading NA171P;
+Reading NA171Q;
+Reading NA171R;
+Reading NA171S;
+Reading NA171T;
+Reading NA171V;
+Reading NA171W;
+Reading NA171Y;
+Reading QA172A;
+Reading QA172C;
+Reading QA172D;
+Mutating residue = TYRA169 into MET
+Mutating residue = TYRA169 into ASN
+Mutating residue = TYRA169 into PRO
+Mutating residue = TYRA169 into GLN
+Mutating residue = TYRA169 into ARG
+Mutating residue = TYRA169 into SER
+Mutating residue = TYRA169 into THR
+Mutating residue = TYRA169 into VAL
+Mutating residue = TYRA169 into TRP
+Mutating residue = SERA170 into ALA
+Mutating residue = SERA170 into CYS
+Mutating residue = SERA170 into ASP
+Mutating residue = SERA170 into GLU
+Mutating residue = SERA170 into PHE
+Mutating residue = SERA170 into GLY
+Mutating residue = SERA170 into HIS
+Mutating residue = SERA170 into ILE
+Mutating residue = SERA170 into LYS
+Mutating residue = SERA170 into LEU
+Mutating residue = SERA170 into MET
+Mutating residue = SERA170 into ASN
+Mutating residue = SERA170 into PRO
+Mutating residue = SERA170 into GLN
+Mutating residue = SERA170 into ARG
+Mutating residue = SERA170 into THR
+Mutating residue = SERA170 into VAL
+Mutating residue = SERA170 into TRP
+Mutating residue = SERA170 into TYR
+Mutating residue = ASNA171 into ALA
+Mutating residue = ASNA171 into CYS
+Mutating residue = ASNA171 into ASP
+Mutating residue = ASNA171 into GLU
+Mutating residue = ASNA171 into PHE
+Mutating residue = ASNA171 into GLY
+Mutating residue = ASNA171 into HIS
+Mutating residue = ASNA171 into ILE
+Mutating residue = ASNA171 into LYS
+Mutating residue = ASNA171 into LEU
+Mutating residue = ASNA171 into MET
+Mutating residue = ASNA171 into PRO
+Mutating residue = ASNA171 into GLN
+Mutating residue = ASNA171 into ARG
+Mutating residue = ASNA171 into SER
+Mutating residue = ASNA171 into THR
+Mutating residue = ASNA171 into VAL
+Mutating residue = ASNA171 into TRP
+Mutating residue = ASNA171 into TYR
+Mutating residue = GLNA172 into ALA
+Mutating residue = GLNA172 into CYS
+Mutating residue = GLNA172 into ASP
+Your file run OK
+End time of FoldX: Sun May 17 13:18:59 2026
+Total time spend: 239.803 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

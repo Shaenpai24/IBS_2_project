@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading SA143F;
+Reading SA143G;
+Reading SA143H;
+Reading SA143I;
+Reading SA143K;
+Reading SA143L;
+Reading SA143M;
+Reading SA143N;
+Reading SA143P;
+Reading SA143Q;
+Reading SA143R;
+Reading SA143T;
+Reading SA143V;
+Reading SA143W;
+Reading SA143Y;
+Reading DA144A;
+Reading DA144C;
+Reading DA144E;
+Reading DA144F;
+Reading DA144G;
+Reading DA144H;
+Reading DA144I;
+Reading DA144K;
+Reading DA144L;
+Reading DA144M;
+Reading DA144N;
+Reading DA144P;
+Reading DA144Q;
+Reading DA144R;
+Reading DA144S;
+Reading DA144T;
+Reading DA144V;
+Reading DA144W;
+Reading DA144Y;
+Reading YA145A;
+Reading YA145C;
+Reading YA145D;
+Reading YA145E;
+Reading YA145F;
+Reading YA145G;
+Reading YA145H;
+Reading YA145I;
+Reading YA145K;
+Reading YA145L;
+Reading YA145M;
+Reading YA145N;
+Reading YA145P;
+Reading YA145Q;
+Reading YA145R;
+Reading YA145S;
+Mutating residue = SERA143 into PHE
+Mutating residue = SERA143 into GLY
+Mutating residue = SERA143 into HIS
+Mutating residue = SERA143 into ILE
+Mutating residue = SERA143 into LYS
+Mutating residue = SERA143 into LEU
+Mutating residue = SERA143 into MET
+Mutating residue = SERA143 into ASN
+Mutating residue = SERA143 into PRO
+Mutating residue = SERA143 into GLN
+Mutating residue = SERA143 into ARG
+Mutating residue = SERA143 into THR
+Mutating residue = SERA143 into VAL
+Mutating residue = SERA143 into TRP
+Mutating residue = SERA143 into TYR
+Mutating residue = ASPA144 into ALA
+Mutating residue = ASPA144 into CYS
+Mutating residue = ASPA144 into GLU
+Mutating residue = ASPA144 into PHE
+Mutating residue = ASPA144 into GLY
+Mutating residue = ASPA144 into HIS
+Mutating residue = ASPA144 into ILE
+Mutating residue = ASPA144 into LYS
+Mutating residue = ASPA144 into LEU
+Mutating residue = ASPA144 into MET
+Mutating residue = ASPA144 into ASN
+Mutating residue = ASPA144 into PRO
+Mutating residue = ASPA144 into GLN
+Mutating residue = ASPA144 into ARG
+Mutating residue = ASPA144 into SER
+Mutating residue = ASPA144 into THR
+Mutating residue = ASPA144 into VAL
+Mutating residue = ASPA144 into TRP
+Mutating residue = ASPA144 into TYR
+Mutating residue = TYRA145 into ALA
+Mutating residue = TYRA145 into CYS
+Mutating residue = TYRA145 into ASP
+Mutating residue = TYRA145 into GLU
+Mutating residue = TYRA145 into PHE
+Mutating residue = TYRA145 into GLY
+Mutating residue = TYRA145 into HIS
+Mutating residue = TYRA145 into ILE
+Mutating residue = TYRA145 into LYS
+Mutating residue = TYRA145 into LEU
+Mutating residue = TYRA145 into MET
+Mutating residue = TYRA145 into ASN
+Mutating residue = TYRA145 into PRO
+Mutating residue = TYRA145 into GLN
+Mutating residue = TYRA145 into ARG
+Mutating residue = TYRA145 into SER
+Your file run OK
+End time of FoldX: Sun May 17 12:23:34 2026
+Total time spend: 171.922 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

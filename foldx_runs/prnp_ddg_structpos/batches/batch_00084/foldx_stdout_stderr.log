@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading QA227K;
+Reading QA227L;
+Reading QA227M;
+Reading QA227N;
+Reading QA227P;
+Reading QA227R;
+Reading QA227S;
+Reading QA227T;
+Reading QA227V;
+Reading QA227W;
+Reading QA227Y;
+Reading RA228A;
+Reading RA228C;
+Reading RA228D;
+Reading RA228E;
+Reading RA228F;
+Reading RA228G;
+Reading RA228H;
+Reading RA228I;
+Reading RA228K;
+Reading RA228L;
+Reading RA228M;
+Reading RA228N;
+Reading RA228P;
+Reading RA228Q;
+Reading RA228S;
+Reading RA228T;
+Reading RA228V;
+Reading RA228W;
+Reading RA228Y;
+Reading GA229A;
+Reading GA229C;
+Reading GA229D;
+Reading GA229E;
+Reading GA229F;
+Reading GA229H;
+Reading GA229I;
+Reading GA229K;
+Reading GA229L;
+Reading GA229M;
+Reading GA229N;
+Reading GA229P;
+Reading GA229Q;
+Reading GA229R;
+Reading GA229S;
+Reading GA229T;
+Reading GA229V;
+Reading GA229W;
+Reading GA229Y;
+Reading SA230A;
+Mutating residue = GLNA227 into LYS
+Mutating residue = GLNA227 into LEU
+Mutating residue = GLNA227 into MET
+Mutating residue = GLNA227 into ASN
+Mutating residue = GLNA227 into PRO
+Mutating residue = GLNA227 into ARG
+Mutating residue = GLNA227 into SER
+Mutating residue = GLNA227 into THR
+Mutating residue = GLNA227 into VAL
+Mutating residue = GLNA227 into TRP
+Mutating residue = GLNA227 into TYR
+Mutating residue = ARGA228 into ALA
+Mutating residue = ARGA228 into CYS
+Mutating residue = ARGA228 into ASP
+Mutating residue = ARGA228 into GLU
+Mutating residue = ARGA228 into PHE
+Mutating residue = ARGA228 into GLY
+Mutating residue = ARGA228 into HIS
+Mutating residue = ARGA228 into ILE
+Mutating residue = ARGA228 into LYS
+Mutating residue = ARGA228 into LEU
+Mutating residue = ARGA228 into MET
+Mutating residue = ARGA228 into ASN
+Mutating residue = ARGA228 into PRO
+Mutating residue = ARGA228 into GLN
+Mutating residue = ARGA228 into SER
+Mutating residue = ARGA228 into THR
+Mutating residue = ARGA228 into VAL
+Mutating residue = ARGA228 into TRP
+Mutating residue = ARGA228 into TYR
+Mutating residue = GLYA229 into ALA
+Mutating residue = GLYA229 into CYS
+Mutating residue = GLYA229 into ASP
+Mutating residue = GLYA229 into GLU
+Mutating residue = GLYA229 into PHE
+Mutating residue = GLYA229 into HIS
+Mutating residue = GLYA229 into ILE
+Mutating residue = GLYA229 into LYS
+Mutating residue = GLYA229 into LEU
+Mutating residue = GLYA229 into MET
+Mutating residue = GLYA229 into ASN
+Mutating residue = GLYA229 into PRO
+Mutating residue = GLYA229 into GLN
+Mutating residue = GLYA229 into ARG
+Mutating residue = GLYA229 into SER
+Mutating residue = GLYA229 into THR
+Mutating residue = GLYA229 into VAL
+Mutating residue = GLYA229 into TRP
+Mutating residue = GLYA229 into TYR
+Mutating residue = SERA230 into ALA
+Your file run OK
+End time of FoldX: Sun May 17 15:48:01 2026
+Total time spend: 368.479 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

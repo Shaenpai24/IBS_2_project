@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading NA159A;
+Reading NA159C;
+Reading NA159D;
+Reading NA159E;
+Reading NA159F;
+Reading NA159G;
+Reading NA159H;
+Reading NA159I;
+Reading NA159K;
+Reading NA159L;
+Reading NA159M;
+Reading NA159P;
+Reading NA159Q;
+Reading NA159R;
+Reading NA159S;
+Reading NA159T;
+Reading NA159V;
+Reading NA159W;
+Reading NA159Y;
+Reading QA160A;
+Reading QA160C;
+Reading QA160D;
+Reading QA160E;
+Reading QA160F;
+Reading QA160G;
+Reading QA160H;
+Reading QA160I;
+Reading QA160K;
+Reading QA160L;
+Reading QA160M;
+Reading QA160N;
+Reading QA160P;
+Reading QA160R;
+Reading QA160S;
+Reading QA160T;
+Reading QA160V;
+Reading QA160W;
+Reading QA160Y;
+Reading VA161A;
+Reading VA161C;
+Reading VA161D;
+Reading VA161E;
+Reading VA161F;
+Reading VA161G;
+Reading VA161H;
+Reading VA161I;
+Reading VA161K;
+Reading VA161L;
+Reading VA161M;
+Reading VA161N;
+Mutating residue = ASNA159 into ALA
+Mutating residue = ASNA159 into CYS
+Mutating residue = ASNA159 into ASP
+Mutating residue = ASNA159 into GLU
+Mutating residue = ASNA159 into PHE
+Mutating residue = ASNA159 into GLY
+Mutating residue = ASNA159 into HIS
+Mutating residue = ASNA159 into ILE
+Mutating residue = ASNA159 into LYS
+Mutating residue = ASNA159 into LEU
+Mutating residue = ASNA159 into MET
+Mutating residue = ASNA159 into PRO
+Mutating residue = ASNA159 into GLN
+Mutating residue = ASNA159 into ARG
+Mutating residue = ASNA159 into SER
+Mutating residue = ASNA159 into THR
+Mutating residue = ASNA159 into VAL
+Mutating residue = ASNA159 into TRP
+Mutating residue = ASNA159 into TYR
+Mutating residue = GLNA160 into ALA
+Mutating residue = GLNA160 into CYS
+Mutating residue = GLNA160 into ASP
+Mutating residue = GLNA160 into GLU
+Mutating residue = GLNA160 into PHE
+Mutating residue = GLNA160 into GLY
+Mutating residue = GLNA160 into HIS
+Mutating residue = GLNA160 into ILE
+Mutating residue = GLNA160 into LYS
+Mutating residue = GLNA160 into LEU
+Mutating residue = GLNA160 into MET
+Mutating residue = GLNA160 into ASN
+Mutating residue = GLNA160 into PRO
+Mutating residue = GLNA160 into ARG
+Mutating residue = GLNA160 into SER
+Mutating residue = GLNA160 into THR
+Mutating residue = GLNA160 into VAL
+Mutating residue = GLNA160 into TRP
+Mutating residue = GLNA160 into TYR
+Mutating residue = VALA161 into ALA
+Mutating residue = VALA161 into CYS
+Mutating residue = VALA161 into ASP
+Mutating residue = VALA161 into GLU
+Mutating residue = VALA161 into PHE
+Mutating residue = VALA161 into GLY
+Mutating residue = VALA161 into HIS
+Mutating residue = VALA161 into ILE
+Mutating residue = VALA161 into LYS
+Mutating residue = VALA161 into LEU
+Mutating residue = VALA161 into MET
+Mutating residue = VALA161 into ASN
+Your file run OK
+End time of FoldX: Sun May 17 12:55:33 2026
+Total time spend: 148.1 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

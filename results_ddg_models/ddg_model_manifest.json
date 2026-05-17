@@ -1,0 +1,12 @@
+{
+  "input_csv": "prnp_mutation_features_ddg.csv",
+  "labeled_rows": 4636,
+  "features": 41,
+  "grouped_by": "position",
+  "destabilizing_threshold_ddg": 1.0,
+  "excluded_feature_prefixes": [
+    "foldx_",
+    "ddg"
+  ],
+  "note": "FoldX DDG labels are computational labels generated on an AlphaFold structure, not experimental measurements."
+}

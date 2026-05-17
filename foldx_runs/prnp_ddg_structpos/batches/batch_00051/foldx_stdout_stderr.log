@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading HA140P;
+Reading HA140Q;
+Reading HA140R;
+Reading HA140S;
+Reading HA140T;
+Reading HA140V;
+Reading HA140W;
+Reading HA140Y;
+Reading FA141A;
+Reading FA141C;
+Reading FA141D;
+Reading FA141E;
+Reading FA141G;
+Reading FA141H;
+Reading FA141I;
+Reading FA141K;
+Reading FA141L;
+Reading FA141M;
+Reading FA141N;
+Reading FA141P;
+Reading FA141Q;
+Reading FA141R;
+Reading FA141S;
+Reading FA141T;
+Reading FA141V;
+Reading FA141W;
+Reading FA141Y;
+Reading GA142A;
+Reading GA142C;
+Reading GA142D;
+Reading GA142E;
+Reading GA142F;
+Reading GA142H;
+Reading GA142I;
+Reading GA142K;
+Reading GA142L;
+Reading GA142M;
+Reading GA142N;
+Reading GA142P;
+Reading GA142Q;
+Reading GA142R;
+Reading GA142S;
+Reading GA142T;
+Reading GA142V;
+Reading GA142W;
+Reading GA142Y;
+Reading SA143A;
+Reading SA143C;
+Reading SA143D;
+Reading SA143E;
+Mutating residue = H1SA140 into PRO
+Mutating residue = H1SA140 into GLN
+Mutating residue = H1SA140 into ARG
+Mutating residue = H1SA140 into SER
+Mutating residue = H1SA140 into THR
+Mutating residue = H1SA140 into VAL
+Mutating residue = H1SA140 into TRP
+Mutating residue = H1SA140 into TYR
+Mutating residue = PHEA141 into ALA
+Mutating residue = PHEA141 into CYS
+Mutating residue = PHEA141 into ASP
+Mutating residue = PHEA141 into GLU
+Mutating residue = PHEA141 into GLY
+Mutating residue = PHEA141 into HIS
+Mutating residue = PHEA141 into ILE
+Mutating residue = PHEA141 into LYS
+Mutating residue = PHEA141 into LEU
+Mutating residue = PHEA141 into MET
+Mutating residue = PHEA141 into ASN
+Mutating residue = PHEA141 into PRO
+Mutating residue = PHEA141 into GLN
+Mutating residue = PHEA141 into ARG
+Mutating residue = PHEA141 into SER
+Mutating residue = PHEA141 into THR
+Mutating residue = PHEA141 into VAL
+Mutating residue = PHEA141 into TRP
+Mutating residue = PHEA141 into TYR
+Mutating residue = GLYA142 into ALA
+Mutating residue = GLYA142 into CYS
+Mutating residue = GLYA142 into ASP
+Mutating residue = GLYA142 into GLU
+Mutating residue = GLYA142 into PHE
+Mutating residue = GLYA142 into HIS
+Mutating residue = GLYA142 into ILE
+Mutating residue = GLYA142 into LYS
+Mutating residue = GLYA142 into LEU
+Mutating residue = GLYA142 into MET
+Mutating residue = GLYA142 into ASN
+Mutating residue = GLYA142 into PRO
+Mutating residue = GLYA142 into GLN
+Mutating residue = GLYA142 into ARG
+Mutating residue = GLYA142 into SER
+Mutating residue = GLYA142 into THR
+Mutating residue = GLYA142 into VAL
+Mutating residue = GLYA142 into TRP
+Mutating residue = GLYA142 into TYR
+Mutating residue = SERA143 into ALA
+Mutating residue = SERA143 into CYS
+Mutating residue = SERA143 into ASP
+Mutating residue = SERA143 into GLU
+Your file run OK
+End time of FoldX: Sun May 17 12:20:42 2026
+Total time spend: 275.179 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

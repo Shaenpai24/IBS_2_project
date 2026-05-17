@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading SA95R;
+Reading SA95T;
+Reading SA95V;
+Reading SA95W;
+Reading SA95Y;
+Reading KA96A;
+Reading KA96C;
+Reading KA96D;
+Reading KA96E;
+Reading KA96F;
+Reading KA96G;
+Reading KA96H;
+Reading KA96I;
+Reading KA96L;
+Reading KA96M;
+Reading KA96N;
+Reading KA96P;
+Reading KA96Q;
+Reading KA96R;
+Reading KA96S;
+Reading KA96T;
+Reading KA96V;
+Reading KA96W;
+Reading KA96Y;
+Reading PA97A;
+Reading PA97C;
+Reading PA97D;
+Reading PA97E;
+Reading PA97F;
+Reading PA97G;
+Reading PA97H;
+Reading PA97I;
+Reading PA97K;
+Reading PA97L;
+Reading PA97M;
+Reading PA97N;
+Reading PA97Q;
+Reading PA97R;
+Reading PA97S;
+Reading PA97T;
+Reading PA97V;
+Reading PA97W;
+Reading PA97Y;
+Reading KA98A;
+Reading KA98C;
+Reading KA98D;
+Reading KA98E;
+Reading KA98F;
+Reading KA98G;
+Reading KA98H;
+SA95R	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: SA95R in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00037\individual_list_batch_00037.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

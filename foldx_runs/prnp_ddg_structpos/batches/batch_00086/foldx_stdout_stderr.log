@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading MA232R;
+Reading MA232S;
+Reading MA232T;
+Reading MA232V;
+Reading MA232W;
+Reading MA232Y;
+Reading VA233A;
+Reading VA233C;
+Reading VA233D;
+Reading VA233E;
+Reading VA233F;
+Reading VA233G;
+Reading VA233H;
+Reading VA233I;
+Reading VA233K;
+Reading VA233L;
+Reading VA233M;
+Reading VA233N;
+Reading VA233P;
+Reading VA233Q;
+Reading VA233R;
+Reading VA233S;
+Reading VA233T;
+Reading VA233W;
+Reading VA233Y;
+Reading LA234A;
+Reading LA234C;
+Reading LA234D;
+Reading LA234E;
+Reading LA234F;
+Reading LA234G;
+Reading LA234H;
+Reading LA234I;
+Reading LA234K;
+Reading LA234M;
+Reading LA234N;
+Reading LA234P;
+Reading LA234Q;
+Reading LA234R;
+Reading LA234S;
+Reading LA234T;
+Reading LA234V;
+Reading LA234W;
+Reading LA234Y;
+Reading FA235A;
+Reading FA235C;
+Reading FA235D;
+Reading FA235E;
+Reading FA235G;
+Reading FA235H;
+Mutating residue = META232 into ARG
+Mutating residue = META232 into SER
+Mutating residue = META232 into THR
+Mutating residue = META232 into VAL
+Mutating residue = META232 into TRP
+Mutating residue = META232 into TYR
+Mutating residue = VALA233 into ALA
+Mutating residue = VALA233 into CYS
+Mutating residue = VALA233 into ASP
+Mutating residue = VALA233 into GLU
+Mutating residue = VALA233 into PHE
+Mutating residue = VALA233 into GLY
+Mutating residue = VALA233 into HIS
+Mutating residue = VALA233 into ILE
+Mutating residue = VALA233 into LYS
+Mutating residue = VALA233 into LEU
+Mutating residue = VALA233 into MET
+Mutating residue = VALA233 into ASN
+Mutating residue = VALA233 into PRO
+Mutating residue = VALA233 into GLN
+Mutating residue = VALA233 into ARG
+Mutating residue = VALA233 into SER
+Mutating residue = VALA233 into THR
+Mutating residue = VALA233 into TRP
+Mutating residue = VALA233 into TYR
+Mutating residue = LEUA234 into ALA
+Mutating residue = LEUA234 into CYS
+Mutating residue = LEUA234 into ASP
+Mutating residue = LEUA234 into GLU
+Mutating residue = LEUA234 into PHE
+Mutating residue = LEUA234 into GLY
+Mutating residue = LEUA234 into HIS
+Mutating residue = LEUA234 into ILE
+Mutating residue = LEUA234 into LYS
+Mutating residue = LEUA234 into MET
+Mutating residue = LEUA234 into ASN
+Mutating residue = LEUA234 into PRO
+Mutating residue = LEUA234 into GLN
+Mutating residue = LEUA234 into ARG
+Mutating residue = LEUA234 into SER
+Mutating residue = LEUA234 into THR
+Mutating residue = LEUA234 into VAL
+Mutating residue = LEUA234 into TRP
+Mutating residue = LEUA234 into TYR
+Mutating residue = PHEA235 into ALA
+Mutating residue = PHEA235 into CYS
+Mutating residue = PHEA235 into ASP
+Mutating residue = PHEA235 into GLU
+Mutating residue = PHEA235 into GLY
+Mutating residue = PHEA235 into HIS
+Your file run OK
+End time of FoldX: Sun May 17 15:54:06 2026
+Total time spend: 124.641 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

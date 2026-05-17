@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading PA129Y;
+Reading IA130A;
+Reading IA130C;
+Reading IA130D;
+Reading IA130E;
+Reading IA130F;
+Reading IA130G;
+Reading IA130H;
+Reading IA130K;
+Reading IA130L;
+Reading IA130M;
+Reading IA130N;
+Reading IA130P;
+Reading IA130Q;
+Reading IA130R;
+Reading IA130S;
+Reading IA130T;
+Reading IA130V;
+Reading IA130W;
+Reading IA130Y;
+Reading IA131A;
+Reading IA131C;
+Reading IA131D;
+Reading IA131E;
+Reading IA131F;
+Reading IA131G;
+Reading IA131H;
+Reading IA131K;
+Reading IA131L;
+Reading IA131M;
+Reading IA131N;
+Reading IA131P;
+Reading IA131Q;
+Reading IA131R;
+Reading IA131S;
+Reading IA131T;
+Reading IA131V;
+Reading IA131W;
+Reading IA131Y;
+Reading HA132A;
+Reading HA132C;
+Reading HA132D;
+Reading HA132E;
+Reading HA132F;
+Reading HA132G;
+Reading HA132I;
+Reading HA132K;
+Reading HA132L;
+Reading HA132M;
+Reading HA132N;
+PA129Y	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: PA129Y in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00050\individual_list_batch_00050.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

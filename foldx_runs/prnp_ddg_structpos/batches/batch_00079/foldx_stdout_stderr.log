@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading CA214H;
+Reading CA214I;
+Reading CA214K;
+Reading CA214L;
+Reading CA214M;
+Reading CA214N;
+Reading CA214P;
+Reading CA214Q;
+Reading CA214R;
+Reading CA214S;
+Reading CA214T;
+Reading CA214V;
+Reading CA214W;
+Reading CA214Y;
+Reading IA215A;
+Reading IA215C;
+Reading IA215D;
+Reading IA215E;
+Reading IA215F;
+Reading IA215G;
+Reading IA215H;
+Reading IA215K;
+Reading IA215L;
+Reading IA215M;
+Reading IA215N;
+Reading IA215P;
+Reading IA215Q;
+Reading IA215R;
+Reading IA215S;
+Reading IA215T;
+Reading IA215V;
+Reading IA215W;
+Reading IA215Y;
+Reading TA216A;
+Reading TA216C;
+Reading TA216D;
+Reading TA216E;
+Reading TA216F;
+Reading TA216G;
+Reading TA216H;
+Reading TA216I;
+Reading TA216K;
+Reading TA216L;
+Reading TA216M;
+Reading TA216N;
+Reading TA216P;
+Reading TA216Q;
+Reading TA216R;
+Reading TA216S;
+Reading TA216V;
+Mutating residue = CYSA214 into HIS
+Mutating residue = CYSA214 into ILE
+Mutating residue = CYSA214 into LYS
+Mutating residue = CYSA214 into LEU
+Mutating residue = CYSA214 into MET
+Mutating residue = CYSA214 into ASN
+Mutating residue = CYSA214 into PRO
+Mutating residue = CYSA214 into GLN
+Mutating residue = CYSA214 into ARG
+Mutating residue = CYSA214 into SER
+Mutating residue = CYSA214 into THR
+Mutating residue = CYSA214 into VAL
+Mutating residue = CYSA214 into TRP
+Mutating residue = CYSA214 into TYR
+Mutating residue = ILEA215 into ALA
+Mutating residue = ILEA215 into CYS
+Mutating residue = ILEA215 into ASP
+Mutating residue = ILEA215 into GLU
+Mutating residue = ILEA215 into PHE
+Mutating residue = ILEA215 into GLY
+Mutating residue = ILEA215 into HIS
+Mutating residue = ILEA215 into LYS
+Mutating residue = ILEA215 into LEU
+Mutating residue = ILEA215 into MET
+Mutating residue = ILEA215 into ASN
+Mutating residue = ILEA215 into PRO
+Mutating residue = ILEA215 into GLN
+Mutating residue = ILEA215 into ARG
+Mutating residue = ILEA215 into SER
+Mutating residue = ILEA215 into THR
+Mutating residue = ILEA215 into VAL
+Mutating residue = ILEA215 into TRP
+Mutating residue = ILEA215 into TYR
+Mutating residue = THRA216 into ALA
+Mutating residue = THRA216 into CYS
+Mutating residue = THRA216 into ASP
+Mutating residue = THRA216 into GLU
+Mutating residue = THRA216 into PHE
+Mutating residue = THRA216 into GLY
+Mutating residue = THRA216 into HIS
+Mutating residue = THRA216 into ILE
+Mutating residue = THRA216 into LYS
+Mutating residue = THRA216 into LEU
+Mutating residue = THRA216 into MET
+Mutating residue = THRA216 into ASN
+Mutating residue = THRA216 into PRO
+Mutating residue = THRA216 into GLN
+Mutating residue = THRA216 into ARG
+Mutating residue = THRA216 into SER
+Mutating residue = THRA216 into VAL
+Your file run OK
+End time of FoldX: Sun May 17 15:19:34 2026
+Total time spend: 342.751 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

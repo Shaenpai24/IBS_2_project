@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading HA169L;
+Reading HA169M;
+Reading HA169N;
+Reading HA169P;
+Reading HA169Q;
+Reading HA169R;
+Reading HA169S;
+Reading HA169T;
+Reading HA169V;
+Reading HA169W;
+Reading HA169Y;
+Reading DA170A;
+Reading DA170C;
+Reading DA170E;
+Reading DA170F;
+Reading DA170G;
+Reading DA170H;
+Reading DA170I;
+Reading DA170K;
+Reading DA170L;
+Reading DA170M;
+Reading DA170N;
+Reading DA170P;
+Reading DA170Q;
+Reading DA170R;
+Reading DA170S;
+Reading DA170T;
+Reading DA170V;
+Reading DA170W;
+Reading DA170Y;
+Reading CA171A;
+Reading CA171D;
+Reading CA171E;
+Reading CA171F;
+Reading CA171G;
+Reading CA171H;
+Reading CA171I;
+Reading CA171K;
+Reading CA171L;
+Reading CA171M;
+Reading CA171N;
+Reading CA171P;
+Reading CA171Q;
+Reading CA171R;
+Reading CA171S;
+Reading CA171T;
+Reading CA171V;
+Reading CA171W;
+Reading CA171Y;
+Reading VA172A;
+HA169L	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: HA169L in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00065\individual_list_batch_00065.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

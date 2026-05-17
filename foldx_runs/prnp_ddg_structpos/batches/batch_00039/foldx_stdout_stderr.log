@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading MA109A;
+Reading MA109C;
+Reading MA109D;
+Reading MA109E;
+Reading MA109F;
+Reading MA109G;
+Reading MA109H;
+Reading MA109I;
+Reading MA109K;
+Reading MA109L;
+Reading MA109N;
+Reading MA109P;
+Reading MA109Q;
+Reading MA109R;
+Reading MA109S;
+Reading MA109T;
+Reading MA109V;
+Reading MA109W;
+Reading MA109Y;
+Reading KA110A;
+Reading KA110C;
+Reading KA110D;
+Reading KA110E;
+Reading KA110F;
+Reading KA110G;
+Reading KA110H;
+Reading KA110I;
+Reading KA110L;
+Reading KA110M;
+Reading KA110N;
+Reading KA110P;
+Reading KA110Q;
+Reading KA110R;
+Reading KA110S;
+Reading KA110T;
+Reading KA110V;
+Reading KA110W;
+Reading KA110Y;
+Reading HA111A;
+Reading HA111C;
+Reading HA111D;
+Reading HA111E;
+Reading HA111F;
+Reading HA111G;
+Reading HA111I;
+Reading HA111K;
+Reading HA111L;
+Reading HA111M;
+Reading HA111N;
+Reading HA111P;
+Mutating residue = META109 into ALA
+Mutating residue = META109 into CYS
+Mutating residue = META109 into ASP
+Mutating residue = META109 into GLU
+Mutating residue = META109 into PHE
+Mutating residue = META109 into GLY
+Mutating residue = META109 into HIS
+Mutating residue = META109 into ILE
+Mutating residue = META109 into LYS
+Mutating residue = META109 into LEU
+Mutating residue = META109 into ASN
+Mutating residue = META109 into PRO
+Mutating residue = META109 into GLN
+Mutating residue = META109 into ARG
+Mutating residue = META109 into SER
+Mutating residue = META109 into THR
+Mutating residue = META109 into VAL
+Mutating residue = META109 into TRP
+Mutating residue = META109 into TYR
+Mutating residue = LYSA110 into ALA
+Mutating residue = LYSA110 into CYS
+Mutating residue = LYSA110 into ASP
+Mutating residue = LYSA110 into GLU
+Mutating residue = LYSA110 into PHE
+Mutating residue = LYSA110 into GLY
+Mutating residue = LYSA110 into HIS
+Mutating residue = LYSA110 into ILE
+Mutating residue = LYSA110 into LEU
+Mutating residue = LYSA110 into MET
+Mutating residue = LYSA110 into ASN
+Mutating residue = LYSA110 into PRO
+Mutating residue = LYSA110 into GLN
+Mutating residue = LYSA110 into ARG
+Mutating residue = LYSA110 into SER
+Mutating residue = LYSA110 into THR
+Mutating residue = LYSA110 into VAL
+Mutating residue = LYSA110 into TRP
+Mutating residue = LYSA110 into TYR
+Mutating residue = H2SA111 into ALA
+Mutating residue = H2SA111 into CYS
+Mutating residue = H2SA111 into ASP
+Mutating residue = H2SA111 into GLU
+Mutating residue = H2SA111 into PHE
+Mutating residue = H2SA111 into GLY
+Mutating residue = H2SA111 into ILE
+Mutating residue = H2SA111 into LYS
+Mutating residue = H2SA111 into LEU
+Mutating residue = H2SA111 into MET
+Mutating residue = H2SA111 into ASN
+Mutating residue = H2SA111 into PRO
+Your file run OK
+End time of FoldX: Sun May 17 02:23:15 2026
+Total time spend: 246.808 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

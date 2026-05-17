@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading MA158W;
+Reading MA158Y;
+Reading DA159A;
+Reading DA159C;
+Reading DA159E;
+Reading DA159F;
+Reading DA159G;
+Reading DA159H;
+Reading DA159I;
+Reading DA159K;
+Reading DA159L;
+Reading DA159M;
+Reading DA159N;
+Reading DA159P;
+Reading DA159Q;
+Reading DA159R;
+Reading DA159S;
+Reading DA159T;
+Reading DA159V;
+Reading DA159W;
+Reading DA159Y;
+Reading EA160A;
+Reading EA160C;
+Reading EA160D;
+Reading EA160F;
+Reading EA160G;
+Reading EA160H;
+Reading EA160I;
+Reading EA160K;
+Reading EA160L;
+Reading EA160M;
+Reading EA160N;
+Reading EA160P;
+Reading EA160Q;
+Reading EA160R;
+Reading EA160S;
+Reading EA160T;
+Reading EA160V;
+Reading EA160W;
+Reading EA160Y;
+Reading YA161A;
+Reading YA161C;
+Reading YA161D;
+Reading YA161E;
+Reading YA161F;
+Reading YA161G;
+Reading YA161H;
+Reading YA161I;
+Reading YA161K;
+Reading YA161L;
+MA158W	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: MA158W in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00061\individual_list_batch_00061.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

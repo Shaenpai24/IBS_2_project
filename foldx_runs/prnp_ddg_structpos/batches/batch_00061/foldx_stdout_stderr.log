@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading MA166W;
+Reading MA166Y;
+Reading DA167A;
+Reading DA167C;
+Reading DA167E;
+Reading DA167F;
+Reading DA167G;
+Reading DA167H;
+Reading DA167I;
+Reading DA167K;
+Reading DA167L;
+Reading DA167M;
+Reading DA167N;
+Reading DA167P;
+Reading DA167Q;
+Reading DA167R;
+Reading DA167S;
+Reading DA167T;
+Reading DA167V;
+Reading DA167W;
+Reading DA167Y;
+Reading EA168A;
+Reading EA168C;
+Reading EA168D;
+Reading EA168F;
+Reading EA168G;
+Reading EA168H;
+Reading EA168I;
+Reading EA168K;
+Reading EA168L;
+Reading EA168M;
+Reading EA168N;
+Reading EA168P;
+Reading EA168Q;
+Reading EA168R;
+Reading EA168S;
+Reading EA168T;
+Reading EA168V;
+Reading EA168W;
+Reading EA168Y;
+Reading YA169A;
+Reading YA169C;
+Reading YA169D;
+Reading YA169E;
+Reading YA169F;
+Reading YA169G;
+Reading YA169H;
+Reading YA169I;
+Reading YA169K;
+Reading YA169L;
+Mutating residue = META166 into TRP
+Mutating residue = META166 into TYR
+Mutating residue = ASPA167 into ALA
+Mutating residue = ASPA167 into CYS
+Mutating residue = ASPA167 into GLU
+Mutating residue = ASPA167 into PHE
+Mutating residue = ASPA167 into GLY
+Mutating residue = ASPA167 into HIS
+Mutating residue = ASPA167 into ILE
+Mutating residue = ASPA167 into LYS
+Mutating residue = ASPA167 into LEU
+Mutating residue = ASPA167 into MET
+Mutating residue = ASPA167 into ASN
+Mutating residue = ASPA167 into PRO
+Mutating residue = ASPA167 into GLN
+Mutating residue = ASPA167 into ARG
+Mutating residue = ASPA167 into SER
+Mutating residue = ASPA167 into THR
+Mutating residue = ASPA167 into VAL
+Mutating residue = ASPA167 into TRP
+Mutating residue = ASPA167 into TYR
+Mutating residue = GLUA168 into ALA
+Mutating residue = GLUA168 into CYS
+Mutating residue = GLUA168 into ASP
+Mutating residue = GLUA168 into PHE
+Mutating residue = GLUA168 into GLY
+Mutating residue = GLUA168 into HIS
+Mutating residue = GLUA168 into ILE
+Mutating residue = GLUA168 into LYS
+Mutating residue = GLUA168 into LEU
+Mutating residue = GLUA168 into MET
+Mutating residue = GLUA168 into ASN
+Mutating residue = GLUA168 into PRO
+Mutating residue = GLUA168 into GLN
+Mutating residue = GLUA168 into ARG
+Mutating residue = GLUA168 into SER
+Mutating residue = GLUA168 into THR
+Mutating residue = GLUA168 into VAL
+Mutating residue = GLUA168 into TRP
+Mutating residue = GLUA168 into TYR
+Mutating residue = TYRA169 into ALA
+Mutating residue = TYRA169 into CYS
+Mutating residue = TYRA169 into ASP
+Mutating residue = TYRA169 into GLU
+Mutating residue = TYRA169 into PHE
+Mutating residue = TYRA169 into GLY
+Mutating residue = TYRA169 into HIS
+Mutating residue = TYRA169 into ILE
+Mutating residue = TYRA169 into LYS
+Mutating residue = TYRA169 into LEU
+Your file run OK
+End time of FoldX: Sun May 17 13:14:59 2026
+Total time spend: 416.318 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

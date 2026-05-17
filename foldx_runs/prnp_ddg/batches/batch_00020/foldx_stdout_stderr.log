@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading PA51A;
+Reading PA51C;
+Reading PA51D;
+Reading PA51E;
+Reading PA51F;
+Reading PA51G;
+Reading PA51H;
+Reading PA51I;
+Reading PA51K;
+Reading PA51L;
+Reading PA51M;
+Reading PA51N;
+Reading PA51Q;
+Reading PA51R;
+Reading PA51S;
+Reading PA51T;
+Reading PA51V;
+Reading PA51W;
+Reading PA51Y;
+Reading QA52A;
+Reading QA52C;
+Reading QA52D;
+Reading QA52E;
+Reading QA52F;
+Reading QA52G;
+Reading QA52H;
+Reading QA52I;
+Reading QA52K;
+Reading QA52L;
+Reading QA52M;
+Reading QA52N;
+Reading QA52P;
+Reading QA52R;
+Reading QA52S;
+Reading QA52T;
+Reading QA52V;
+Reading QA52W;
+Reading QA52Y;
+Reading GA53A;
+Reading GA53C;
+Reading GA53D;
+Reading GA53E;
+Reading GA53F;
+Reading GA53H;
+Reading GA53I;
+Reading GA53K;
+Reading GA53L;
+Reading GA53M;
+Reading GA53N;
+Reading GA53P;
+Mutating residue = PROA51 into ALA
+Mutating residue = PROA51 into CYS
+Mutating residue = PROA51 into ASP
+Mutating residue = PROA51 into GLU
+Mutating residue = PROA51 into PHE
+Mutating residue = PROA51 into GLY
+Mutating residue = PROA51 into HIS
+Mutating residue = PROA51 into ILE
+Mutating residue = PROA51 into LYS
+Mutating residue = PROA51 into LEU
+Mutating residue = PROA51 into MET
+Mutating residue = PROA51 into ASN
+Mutating residue = PROA51 into GLN
+Mutating residue = PROA51 into ARG
+Mutating residue = PROA51 into SER
+Mutating residue = PROA51 into THR
+Mutating residue = PROA51 into VAL
+Mutating residue = PROA51 into TRP
+Mutating residue = PROA51 into TYR
+Mutating residue = GLNA52 into ALA
+Mutating residue = GLNA52 into CYS
+Mutating residue = GLNA52 into ASP
+Mutating residue = GLNA52 into GLU
+Mutating residue = GLNA52 into PHE
+Mutating residue = GLNA52 into GLY
+Mutating residue = GLNA52 into HIS
+Mutating residue = GLNA52 into ILE
+Mutating residue = GLNA52 into LYS
+Mutating residue = GLNA52 into LEU
+Mutating residue = GLNA52 into MET
+Mutating residue = GLNA52 into ASN
+Mutating residue = GLNA52 into PRO
+Mutating residue = GLNA52 into ARG
+Mutating residue = GLNA52 into SER
+Mutating residue = GLNA52 into THR
+Mutating residue = GLNA52 into VAL
+Mutating residue = GLNA52 into TRP
+Mutating residue = GLNA52 into TYR
+Mutating residue = GLYA53 into ALA
+Mutating residue = GLYA53 into CYS
+Mutating residue = GLYA53 into ASP
+Mutating residue = GLYA53 into GLU
+Mutating residue = GLYA53 into PHE
+Mutating residue = GLYA53 into HIS
+Mutating residue = GLYA53 into ILE
+Mutating residue = GLYA53 into LYS
+Mutating residue = GLYA53 into LEU
+Mutating residue = GLYA53 into MET
+Mutating residue = GLYA53 into ASN
+Mutating residue = GLYA53 into PRO
+Your file run OK
+End time of FoldX: Sun May 17 01:04:52 2026
+Total time spend: 30.323 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

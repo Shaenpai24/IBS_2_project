@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading NA151A;
+Reading NA151C;
+Reading NA151D;
+Reading NA151E;
+Reading NA151F;
+Reading NA151G;
+Reading NA151H;
+Reading NA151I;
+Reading NA151K;
+Reading NA151L;
+Reading NA151M;
+Reading NA151P;
+Reading NA151Q;
+Reading NA151R;
+Reading NA151S;
+Reading NA151T;
+Reading NA151V;
+Reading NA151W;
+Reading NA151Y;
+Reading QA152A;
+Reading QA152C;
+Reading QA152D;
+Reading QA152E;
+Reading QA152F;
+Reading QA152G;
+Reading QA152H;
+Reading QA152I;
+Reading QA152K;
+Reading QA152L;
+Reading QA152M;
+Reading QA152N;
+Reading QA152P;
+Reading QA152R;
+Reading QA152S;
+Reading QA152T;
+Reading QA152V;
+Reading QA152W;
+Reading QA152Y;
+Reading VA153A;
+Reading VA153C;
+Reading VA153D;
+Reading VA153E;
+Reading VA153F;
+Reading VA153G;
+Reading VA153H;
+Reading VA153I;
+Reading VA153K;
+Reading VA153L;
+Reading VA153M;
+Reading VA153N;
+NA151A	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: NA151A in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00058\individual_list_batch_00058.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

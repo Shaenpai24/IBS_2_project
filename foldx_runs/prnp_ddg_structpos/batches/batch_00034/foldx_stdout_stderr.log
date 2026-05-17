@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading TA95V;
+Reading TA95W;
+Reading TA95Y;
+Reading HA96A;
+Reading HA96C;
+Reading HA96D;
+Reading HA96E;
+Reading HA96F;
+Reading HA96G;
+Reading HA96I;
+Reading HA96K;
+Reading HA96L;
+Reading HA96M;
+Reading HA96N;
+Reading HA96P;
+Reading HA96Q;
+Reading HA96R;
+Reading HA96S;
+Reading HA96T;
+Reading HA96V;
+Reading HA96W;
+Reading HA96Y;
+Reading SA97A;
+Reading SA97C;
+Reading SA97D;
+Reading SA97E;
+Reading SA97F;
+Reading SA97G;
+Reading SA97H;
+Reading SA97I;
+Reading SA97K;
+Reading SA97L;
+Reading SA97M;
+Reading SA97N;
+Reading SA97P;
+Reading SA97Q;
+Reading SA97R;
+Reading SA97T;
+Reading SA97V;
+Reading SA97W;
+Reading SA97Y;
+Reading QA98A;
+Reading QA98C;
+Reading QA98D;
+Reading QA98E;
+Reading QA98F;
+Reading QA98G;
+Reading QA98H;
+Reading QA98I;
+Reading QA98K;
+Mutating residue = THRA95 into VAL
+Mutating residue = THRA95 into TRP
+Mutating residue = THRA95 into TYR
+Mutating residue = H2SA96 into ALA
+Mutating residue = H2SA96 into CYS
+Mutating residue = H2SA96 into ASP
+Mutating residue = H2SA96 into GLU
+Mutating residue = H2SA96 into PHE
+Mutating residue = H2SA96 into GLY
+Mutating residue = H2SA96 into ILE
+Mutating residue = H2SA96 into LYS
+Mutating residue = H2SA96 into LEU
+Mutating residue = H2SA96 into MET
+Mutating residue = H2SA96 into ASN
+Mutating residue = H2SA96 into PRO
+Mutating residue = H2SA96 into GLN
+Mutating residue = H2SA96 into ARG
+Mutating residue = H2SA96 into SER
+Mutating residue = H2SA96 into THR
+Mutating residue = H2SA96 into VAL
+Mutating residue = H2SA96 into TRP
+Mutating residue = H2SA96 into TYR
+Mutating residue = SERA97 into ALA
+Mutating residue = SERA97 into CYS
+Mutating residue = SERA97 into ASP
+Mutating residue = SERA97 into GLU
+Mutating residue = SERA97 into PHE
+Mutating residue = SERA97 into GLY
+Mutating residue = SERA97 into HIS
+Mutating residue = SERA97 into ILE
+Mutating residue = SERA97 into LYS
+Mutating residue = SERA97 into LEU
+Mutating residue = SERA97 into MET
+Mutating residue = SERA97 into ASN
+Mutating residue = SERA97 into PRO
+Mutating residue = SERA97 into GLN
+Mutating residue = SERA97 into ARG
+Mutating residue = SERA97 into THR
+Mutating residue = SERA97 into VAL
+Mutating residue = SERA97 into TRP
+Mutating residue = SERA97 into TYR
+Mutating residue = GLNA98 into ALA
+Mutating residue = GLNA98 into CYS
+Mutating residue = GLNA98 into ASP
+Mutating residue = GLNA98 into GLU
+Mutating residue = GLNA98 into PHE
+Mutating residue = GLNA98 into GLY
+Mutating residue = GLNA98 into HIS
+Mutating residue = GLNA98 into ILE
+Mutating residue = GLNA98 into LYS
+Your file run OK
+End time of FoldX: Sun May 17 02:04:08 2026
+Total time spend: 28.86 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

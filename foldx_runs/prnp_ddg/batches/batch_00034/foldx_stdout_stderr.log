@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading TA87V;
+Reading TA87W;
+Reading TA87Y;
+Reading HA88A;
+Reading HA88C;
+Reading HA88D;
+Reading HA88E;
+Reading HA88F;
+Reading HA88G;
+Reading HA88I;
+Reading HA88K;
+Reading HA88L;
+Reading HA88M;
+Reading HA88N;
+Reading HA88P;
+Reading HA88Q;
+Reading HA88R;
+Reading HA88S;
+Reading HA88T;
+Reading HA88V;
+Reading HA88W;
+Reading HA88Y;
+Reading SA89A;
+Reading SA89C;
+Reading SA89D;
+Reading SA89E;
+Reading SA89F;
+Reading SA89G;
+Reading SA89H;
+Reading SA89I;
+Reading SA89K;
+Reading SA89L;
+Reading SA89M;
+Reading SA89N;
+Reading SA89P;
+Reading SA89Q;
+Reading SA89R;
+Reading SA89T;
+Reading SA89V;
+Reading SA89W;
+Reading SA89Y;
+Reading QA90A;
+Reading QA90C;
+Reading QA90D;
+Reading QA90E;
+Reading QA90F;
+Reading QA90G;
+Reading QA90H;
+Reading QA90I;
+Reading QA90K;
+TA87V	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: TA87V in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00034\individual_list_batch_00034.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

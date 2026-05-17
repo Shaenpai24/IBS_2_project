@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading RA148L;
+Reading RA148M;
+Reading RA148N;
+Reading RA148P;
+Reading RA148Q;
+Reading RA148S;
+Reading RA148T;
+Reading RA148V;
+Reading RA148W;
+Reading RA148Y;
+Reading YA149A;
+Reading YA149C;
+Reading YA149D;
+Reading YA149E;
+Reading YA149F;
+Reading YA149G;
+Reading YA149H;
+Reading YA149I;
+Reading YA149K;
+Reading YA149L;
+Reading YA149M;
+Reading YA149N;
+Reading YA149P;
+Reading YA149Q;
+Reading YA149R;
+Reading YA149S;
+Reading YA149T;
+Reading YA149V;
+Reading YA149W;
+Reading YA150A;
+Reading YA150C;
+Reading YA150D;
+Reading YA150E;
+Reading YA150F;
+Reading YA150G;
+Reading YA150H;
+Reading YA150I;
+Reading YA150K;
+Reading YA150L;
+Reading YA150M;
+Reading YA150N;
+Reading YA150P;
+Reading YA150Q;
+Reading YA150R;
+Reading YA150S;
+Reading YA150T;
+Reading YA150V;
+Reading YA150W;
+Reading RA151A;
+Reading RA151C;
+Mutating residue = ARGA148 into LEU
+Mutating residue = ARGA148 into MET
+Mutating residue = ARGA148 into ASN
+Mutating residue = ARGA148 into PRO
+Mutating residue = ARGA148 into GLN
+Mutating residue = ARGA148 into SER
+Mutating residue = ARGA148 into THR
+Mutating residue = ARGA148 into VAL
+Mutating residue = ARGA148 into TRP
+Mutating residue = ARGA148 into TYR
+Mutating residue = TYRA149 into ALA
+Mutating residue = TYRA149 into CYS
+Mutating residue = TYRA149 into ASP
+Mutating residue = TYRA149 into GLU
+Mutating residue = TYRA149 into PHE
+Mutating residue = TYRA149 into GLY
+Mutating residue = TYRA149 into HIS
+Mutating residue = TYRA149 into ILE
+Mutating residue = TYRA149 into LYS
+Mutating residue = TYRA149 into LEU
+Mutating residue = TYRA149 into MET
+Mutating residue = TYRA149 into ASN
+Mutating residue = TYRA149 into PRO
+Mutating residue = TYRA149 into GLN
+Mutating residue = TYRA149 into ARG
+Mutating residue = TYRA149 into SER
+Mutating residue = TYRA149 into THR
+Mutating residue = TYRA149 into VAL
+Mutating residue = TYRA149 into TRP
+Mutating residue = TYRA150 into ALA
+Mutating residue = TYRA150 into CYS
+Mutating residue = TYRA150 into ASP
+Mutating residue = TYRA150 into GLU
+Mutating residue = TYRA150 into PHE
+Mutating residue = TYRA150 into GLY
+Mutating residue = TYRA150 into HIS
+Mutating residue = TYRA150 into ILE
+Mutating residue = TYRA150 into LYS
+Mutating residue = TYRA150 into LEU
+Mutating residue = TYRA150 into MET
+Mutating residue = TYRA150 into ASN
+Mutating residue = TYRA150 into PRO
+Mutating residue = TYRA150 into GLN
+Mutating residue = TYRA150 into ARG
+Mutating residue = TYRA150 into SER
+Mutating residue = TYRA150 into THR
+Mutating residue = TYRA150 into VAL
+Mutating residue = TYRA150 into TRP
+Mutating residue = ARGA151 into ALA
+Mutating residue = ARGA151 into CYS
+Your file run OK
+End time of FoldX: Sun May 17 12:33:47 2026
+Total time spend: 273.088 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading QA172E;
+Reading QA172F;
+Reading QA172G;
+Reading QA172H;
+Reading QA172I;
+Reading QA172K;
+Reading QA172L;
+Reading QA172M;
+Reading QA172N;
+Reading QA172P;
+Reading QA172R;
+Reading QA172S;
+Reading QA172T;
+Reading QA172V;
+Reading QA172W;
+Reading QA172Y;
+Reading NA173A;
+Reading NA173C;
+Reading NA173D;
+Reading NA173E;
+Reading NA173F;
+Reading NA173G;
+Reading NA173H;
+Reading NA173I;
+Reading NA173K;
+Reading NA173L;
+Reading NA173M;
+Reading NA173P;
+Reading NA173Q;
+Reading NA173R;
+Reading NA173S;
+Reading NA173T;
+Reading NA173V;
+Reading NA173W;
+Reading NA173Y;
+Reading NA174A;
+Reading NA174C;
+Reading NA174D;
+Reading NA174E;
+Reading NA174F;
+Reading NA174G;
+Reading NA174H;
+Reading NA174I;
+Reading NA174K;
+Reading NA174L;
+Reading NA174M;
+Reading NA174P;
+Reading NA174Q;
+Reading NA174R;
+Reading NA174S;
+Mutating residue = GLNA172 into GLU
+Mutating residue = GLNA172 into PHE
+Mutating residue = GLNA172 into GLY
+Mutating residue = GLNA172 into HIS
+Mutating residue = GLNA172 into ILE
+Mutating residue = GLNA172 into LYS
+Mutating residue = GLNA172 into LEU
+Mutating residue = GLNA172 into MET
+Mutating residue = GLNA172 into ASN
+Mutating residue = GLNA172 into PRO
+Mutating residue = GLNA172 into ARG
+Mutating residue = GLNA172 into SER
+Mutating residue = GLNA172 into THR
+Mutating residue = GLNA172 into VAL
+Mutating residue = GLNA172 into TRP
+Mutating residue = GLNA172 into TYR
+Mutating residue = ASNA173 into ALA
+Mutating residue = ASNA173 into CYS
+Mutating residue = ASNA173 into ASP
+Mutating residue = ASNA173 into GLU
+Mutating residue = ASNA173 into PHE
+Mutating residue = ASNA173 into GLY
+Mutating residue = ASNA173 into HIS
+Mutating residue = ASNA173 into ILE
+Mutating residue = ASNA173 into LYS
+Mutating residue = ASNA173 into LEU
+Mutating residue = ASNA173 into MET
+Mutating residue = ASNA173 into PRO
+Mutating residue = ASNA173 into GLN
+Mutating residue = ASNA173 into ARG
+Mutating residue = ASNA173 into SER
+Mutating residue = ASNA173 into THR
+Mutating residue = ASNA173 into VAL
+Mutating residue = ASNA173 into TRP
+Mutating residue = ASNA173 into TYR
+Mutating residue = ASNA174 into ALA
+Mutating residue = ASNA174 into CYS
+Mutating residue = ASNA174 into ASP
+Mutating residue = ASNA174 into GLU
+Mutating residue = ASNA174 into PHE
+Mutating residue = ASNA174 into GLY
+Mutating residue = ASNA174 into HIS
+Mutating residue = ASNA174 into ILE
+Mutating residue = ASNA174 into LYS
+Mutating residue = ASNA174 into LEU
+Mutating residue = ASNA174 into MET
+Mutating residue = ASNA174 into PRO
+Mutating residue = ASNA174 into GLN
+Mutating residue = ASNA174 into ARG
+Mutating residue = ASNA174 into SER
+Your file run OK
+End time of FoldX: Sun May 17 13:24:12 2026
+Total time spend: 313.433 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

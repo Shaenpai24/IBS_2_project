@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading QA164E;
+Reading QA164F;
+Reading QA164G;
+Reading QA164H;
+Reading QA164I;
+Reading QA164K;
+Reading QA164L;
+Reading QA164M;
+Reading QA164N;
+Reading QA164P;
+Reading QA164R;
+Reading QA164S;
+Reading QA164T;
+Reading QA164V;
+Reading QA164W;
+Reading QA164Y;
+Reading NA165A;
+Reading NA165C;
+Reading NA165D;
+Reading NA165E;
+Reading NA165F;
+Reading NA165G;
+Reading NA165H;
+Reading NA165I;
+Reading NA165K;
+Reading NA165L;
+Reading NA165M;
+Reading NA165P;
+Reading NA165Q;
+Reading NA165R;
+Reading NA165S;
+Reading NA165T;
+Reading NA165V;
+Reading NA165W;
+Reading NA165Y;
+Reading NA166A;
+Reading NA166C;
+Reading NA166D;
+Reading NA166E;
+Reading NA166F;
+Reading NA166G;
+Reading NA166H;
+Reading NA166I;
+Reading NA166K;
+Reading NA166L;
+Reading NA166M;
+Reading NA166P;
+Reading NA166Q;
+Reading NA166R;
+Reading NA166S;
+QA164E	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: QA164E in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00063\individual_list_batch_00063.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

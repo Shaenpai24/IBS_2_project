@@ -1,0 +1,125 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading CA6H;
+Reading CA6I;
+Reading CA6K;
+Reading CA6L;
+Reading CA6M;
+Reading CA6N;
+Reading CA6P;
+Reading CA6Q;
+Reading CA6R;
+Reading CA6S;
+Reading CA6T;
+Reading CA6V;
+Reading CA6W;
+Reading CA6Y;
+Reading WA7A;
+Reading WA7C;
+Reading WA7D;
+Reading WA7E;
+Reading WA7F;
+Reading WA7G;
+Reading WA7H;
+Reading WA7I;
+Reading WA7K;
+Reading WA7L;
+Reading WA7M;
+Reading WA7N;
+Reading WA7P;
+Reading WA7Q;
+Reading WA7R;
+Reading WA7S;
+Reading WA7T;
+Reading WA7V;
+Reading WA7Y;
+Reading MA8A;
+Reading MA8C;
+Reading MA8D;
+Reading MA8E;
+Reading MA8F;
+Reading MA8G;
+Reading MA8H;
+Reading MA8I;
+Reading MA8K;
+Reading MA8L;
+Reading MA8N;
+Reading MA8P;
+Reading MA8Q;
+Reading MA8R;
+Reading MA8S;
+Reading MA8T;
+Reading MA8V;
+Mutating residue = CYSA6 into HIS
+Mutating residue = CYSA6 into ILE
+Mutating residue = CYSA6 into LYS
+Mutating residue = CYSA6 into LEU
+Mutating residue = CYSA6 into MET
+Mutating residue = CYSA6 into ASN
+Mutating residue = CYSA6 into PRO
+Mutating residue = CYSA6 into GLN
+Mutating residue = CYSA6 into ARG
+Mutating residue = CYSA6 into SER
+Mutating residue = CYSA6 into THR
+Mutating residue = CYSA6 into VAL
+Mutating residue = CYSA6 into TRP
+Mutating residue = CYSA6 into TYR
+Mutating residue = TRPA7 into ALA
+Mutating residue = TRPA7 into CYS
+Mutating residue = TRPA7 into ASP
+Mutating residue = TRPA7 into GLU
+Mutating residue = TRPA7 into PHE
+Mutating residue = TRPA7 into GLY
+Mutating residue = TRPA7 into HIS
+Mutating residue = TRPA7 into ILE
+Mutating residue = TRPA7 into LYS
+Mutating residue = TRPA7 into LEU
+Mutating residue = TRPA7 into MET
+Mutating residue = TRPA7 into ASN
+Mutating residue = TRPA7 into PRO
+Mutating residue = TRPA7 into GLN
+Mutating residue = TRPA7 into ARG
+Mutating residue = TRPA7 into SER
+Mutating residue = TRPA7 into THR
+Mutating residue = TRPA7 into VAL
+Mutating residue = TRPA7 into TYR
+Mutating residue = META8 into ALA
+Mutating residue = META8 into CYS
+Mutating residue = META8 into ASP
+Mutating residue = META8 into GLU
+Mutating residue = META8 into PHE
+Mutating residue = META8 into GLY
+Mutating residue = META8 into HIS
+Mutating residue = META8 into ILE
+Mutating residue = META8 into LYS
+Mutating residue = META8 into LEU
+Mutating residue = META8 into ASN
+Mutating residue = META8 into PRO
+Mutating residue = META8 into GLN
+Mutating residue = META8 into ARG
+Mutating residue = META8 into SER
+Mutating residue = META8 into THR
+Mutating residue = META8 into VAL
+Your file run OK
+End time of FoldX: Sun May 17 00:41:05 2026
+Total time spend: 219.334 seconds.
+Cleaning BuildModel...DONE
+
+
+STDERR

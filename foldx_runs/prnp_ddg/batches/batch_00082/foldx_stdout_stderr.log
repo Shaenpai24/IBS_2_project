@@ -1,0 +1,76 @@
+   ********************************************
+   ***                                      ***
+   ***             FoldX 4 (c)              ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-P04156-F1-model_v4_Repair.pdb
+Starting BuildModel
+Reading SA214E;
+Reading SA214F;
+Reading SA214G;
+Reading SA214H;
+Reading SA214I;
+Reading SA214K;
+Reading SA214L;
+Reading SA214M;
+Reading SA214N;
+Reading SA214P;
+Reading SA214Q;
+Reading SA214R;
+Reading SA214T;
+Reading SA214V;
+Reading SA214W;
+Reading SA214Y;
+Reading QA215A;
+Reading QA215C;
+Reading QA215D;
+Reading QA215E;
+Reading QA215F;
+Reading QA215G;
+Reading QA215H;
+Reading QA215I;
+Reading QA215K;
+Reading QA215L;
+Reading QA215M;
+Reading QA215N;
+Reading QA215P;
+Reading QA215R;
+Reading QA215S;
+Reading QA215T;
+Reading QA215V;
+Reading QA215W;
+Reading QA215Y;
+Reading AA216C;
+Reading AA216D;
+Reading AA216E;
+Reading AA216F;
+Reading AA216G;
+Reading AA216H;
+Reading AA216I;
+Reading AA216K;
+Reading AA216L;
+Reading AA216M;
+Reading AA216N;
+Reading AA216P;
+Reading AA216Q;
+Reading AA216R;
+Reading AA216S;
+SA214E	Specified residue not found.
+no mutations performed.
+There was a problem in BuildModel
+PROBLEM Specified residue not found: SA214E in C:\Users\Saanvi\Desktop\IBS_2_project\foldx_runs\prnp_ddg\batches\batch_00082\individual_list_batch_00082.txt
+Cleaning BuildModel...DONE
+
+
+STDERR

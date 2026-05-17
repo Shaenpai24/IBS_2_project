@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Models
+*.joblib
+*.pkl
+*.npy
+
+# FoldX temporary outputs
+foldx_runs/
+results_ddg_models/
+
+# Large generated files
+*.fxout
+*.tmp
